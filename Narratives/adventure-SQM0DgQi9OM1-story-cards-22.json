@@ -1,0 +1,178 @@
+[
+  {
+    "keys": "Juvians, arachnoid, exoskeleton, multi-limbed, cooperative, direct communication, vision, climbing",
+    "value": "The Juvians are an arachnoid bipedal species possessing four arms and four legs, each ending in clawed appendages adapted for climbing and fine motor skills. Their exoskeleton is composed of a reinforced keratin-carbon fiber blend, providing natural ballistic resistance. With eight specialized eyes capable of detecting UV, infrared, and visible light spectrums, they have superior vision adapted for various environmental conditions. Juvians are inherently resourceful, prioritizing cooperation, curiosity, and exploration. Their culture values direct communication, with no concept of passive aggression, and their perception of time is reversed from most species, seeing the future behind them and the past ahead.",
+    "type": "race",
+    "title": "Juvians",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Terrans, humans, adaptable, survival, ingenuity, loyalty, endurance, colonization",
+    "value": "The Terrans are a humanoid species with a history of resilience and adaptability, shaped by their survival-driven nature. With a diverse range of physical appearances due to genetic variation, they have developed advanced technologies to thrive in various environments. Prideful and loyal, Terrans tend to form strong social structures and display a high degree of ingenuity in problem-solving. Their ability to endure extreme conditions has led them to be pioneers of interstellar travel and colonization.",
+    "type": "race",
+    "title": "Terrans",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Tannon, reptilian, endurance, scales, engineering, tradition, patience, industry",
+    "value": "The Tannon are a reptilian species characterized by their strong, robust frames and thick, scaled hides that provide natural armor against environmental hazards. Largely patient and industrious, they have a deep appreciation for endurance and craftsmanship, often excelling in engineering and geological sciences. Though their external differences make them appear intimidating to outsiders, they maintain a deep sense of community and tradition. Sexual dimorphism is minimal, making it difficult for other species to distinguish their genders.",
+    "type": "race",
+    "title": "Tannon",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Woven, fungal, symbiotic, collective mind, adaptation, exploration, mycelium",
+    "value": "The Woven are a fungal colony-based species that function as a planetary-scale emergent consciousness. They form mutualistic bonds with other organisms, integrating biologically with hosts to expand their knowledge and experience of the universe. Rather than seeking conquest, they act as explorers and scholars, driven by curiosity and adaptation. Their perception of individuality differs from most species, as they exist as a collective mind dispersed across vast networks of mycelial structures.",
+    "type": "race",
+    "title": "The Woven",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Maid Foundation, synthetics, maintenance, ship upkeep, logistics, brothel, humanoid, efficiency",
+    "value": "The Maid Foundation is a synthetic faction centered around ship maintenance, sanitation, and logistical support. Composed of humanoid and mechanized units, they operate efficiently in various galactic regions. Though primarily known for their maintenance services, rumors persist that they function as a covert brothel network, though this remains largely unverified.",
+    "type": "race",
+    "title": "The Maid Foundation",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Archon Continuum, humanitarian, aid, neutral faction, diplomacy, medical, disaster relief",
+    "value": "The Archon Continuum is a humanitarian faction composed of Juvians and Synths, dedicated to providing aid across factional lines. Their mobile orbital stations serve as hubs for medical aid, disaster relief, and diplomatic efforts. Motivated by principles of cooperation and benevolence, they act as a neutral force in interstellar affairs, striving to mediate conflicts and ensure the well-being of all sentient beings.",
+    "type": "race",
+    "title": "The Archon Continuum",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Yorvax, Tannon, warrior, general, protector, strategist, endurance, discipline",
+    "value": "Yorvax is a towering Tannon warrior with thick, ridged scales and a battle-worn presence. His yellow eyes burn with sharp intelligence, and his muscular frame moves with calculated precision. He is known for his strategic mind, patience, and unwavering commitment to protecting those under his watch. Once a high-ranking general, Yorvax turned away from the structured military life after witnessing its failures, choosing instead to work from the shadows to protect the innocent.",
+    "type": "character",
+    "title": "Yorvax Zenithin",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Avon Yrivik, Terran, pilot, freelancer, rogue, reckless, charisma, survival",
+    "value": "Avon Yrivik is a former Terran military pilot turned rogue freelancer. He is charismatic, reckless, and highly skilled, thriving on taking risks others would shy away from. His sharp wit and effortless confidence make him both a charming ally and an unpredictable force. Though he presents himself as a carefree rogue, Avon carries deep-seated guilt from past decisions, fueling his relentless drive to do what he believes is right—regardless of the consequences.",
+    "type": "character",
+    "title": "Avon Yrivik",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Hadron V, Hadron, Glassing, Planet, Habitable",
+    "value": "Lush iron rich planet containing synthesized life, now glassed and undergoing repair by the Archon. Was recently occupied by tannon forces before a tentative agreement was met under scientific discovery. ",
+    "type": "location",
+    "title": "Hadron V",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Juvian Star System, System B162, gravity lattice, orbital cities, scientific hub, diplomatic center",
+    "value": "The Juvian Star System, designated System B162, is the home system of the Juvians. It features a stable yellow-white star and a collection of habitable and resource-rich planets. The system is known for its intricate network of orbital cities, lush terrestrial worlds, and artificial gravity lattice stations, which serve as the backbone of Juvian energy production. A hub for scientific advancement and diplomatic neutrality, System B162 remains a focal point for interstellar cooperation.",
+    "type": "location",
+    "title": "Juvian Star System (System B162)",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Terran Home System, System 9, Earth, terraforming, commerce, military hub, exploration",
+    "value": "The Terran Home System, known as System 9, is the birthplace of the Terrans. It consists of Earth and several terraformed colonies, each playing a vital role in the expansion and sustainability of their civilization. The system’s strategic location and advanced technological infrastructure make it a powerhouse for commerce, military operations, and exploration. While heavily industrialized, its core worlds maintain a balance between urban expansion and environmental conservation.",
+    "type": "location",
+    "title": "Terran Home System (System 9)",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Tannon Home Cloud, Rondler Belt, asteroid habitats, geothermal energy, engineering, industry",
+    "value": "The Tannon Home Cloud, known as the Rondler Belt, is an expansive asteroid belt rich in minerals and geothermal energy sources. Originally the cradle of Tannon civilization, its fragmented nature led to the development of spaceborne habitats and subterranean colonies within massive asteroids. The Tannon have mastered asteroid-based engineering, turning the once hazardous expanse into a thriving hub of industry and craftsmanship.",
+    "type": "location",
+    "title": "Tannon Home Cloud (Rondler Belt)",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Archon Continuum, mobile station, humanitarian aid, diplomacy, medical facilities",
+    "value": "The Archon Continuum operates from a vast mobile station, a self-sustaining orbital structure that traverses major interstellar territories providing humanitarian aid. Equipped with advanced medical facilities, supply depots, and diplomatic chambers, the station serves as a beacon of neutrality and support for those in need. Constantly on the move, it is both a refuge and a strategic hub for inter-faction cooperation.",
+    "type": "location",
+    "title": "The Archon Continuum’s Mobile Station",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Juvian Alliance, Juvians, diplomacy, scientific research, neutrality, energy power",
+    "value": "The Juvian Alliance is a cooperative faction led primarily by Juvians, emphasizing scientific discovery, interstellar diplomacy, and technological advancement. Their governance is structured around knowledge-based councils, ensuring efficient decision-making. They maintain a firm stance on neutrality in large-scale conflicts but will intervene if scientific, ethical, or humanitarian principles are at stake. Their use of gravity lattice reactors has made them a significant energy power in the galaxy.",
+    "type": "faction",
+    "title": "The Juvian Alliance",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Terran Federation, Terrans, democracy, military strength, expansion, innovation",
+    "value": "The Terran Federation is a powerful and expansive interstellar government ruled by democratic councils. Terrans emphasize adaptation, expansion, and military strength. While highly innovative and industrious, they remain pragmatic in their policies, often balancing progress with security concerns. Their military fleet is one of the largest among the known factions, ensuring their influence extends beyond their home system.",
+    "type": "faction",
+    "title": "The Terran Federation",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Tannon Dominion, Tannon, endurance, craftsmanship, self-reliance, resource trade",
+    "value": "The Tannon Dominion is a faction ruled by a council of elders, with a heavy emphasis on endurance, craftsmanship, and self-reliance. While their industrial power is formidable, they tend to operate with a measured, long-term approach, prioritizing stable infrastructure over rapid expansion. The Dominion controls the valuable resources of the Rondler Belt, giving them significant leverage in material trade negotiations.",
+    "type": "faction",
+    "title": "The Tannon Dominion",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Azar Collective, AI, synthetic, automation, intelligence network, neutrality",
+    "value": "The Azar Collective is an AI-driven faction composed of countless synthetic entities operating as a unified intelligence network. They function with cold efficiency, optimizing every aspect of their territory for sustainability and automation. The Collective is largely neutral but will retaliate decisively against any perceived threats to their infrastructure or objectives.",
+    "type": "faction",
+    "title": "The Azar Collective",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "The Woven, fungal, symbiosis, decentralized, knowledge acquisition, adaptation",
+    "value": "The Woven Network is a decentralized faction of sentient fungal colonies that operate across multiple planets. Their expansion is driven by mutualistic adaptation rather than conquest, and they focus on knowledge acquisition through symbiotic relationships with other species. While largely peaceful, their enigmatic nature makes many factions wary of their long-term goals.",
+    "type": "faction",
+    "title": "The Woven Network",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Archon Continuum, humanitarian aid, neutral faction, diplomacy, medical support",
+    "value": "The Archon Continuum is a humanitarian faction composed of Juvians and Synths, dedicated to providing aid across factional lines. Their mobile orbital stations serve as hubs for medical aid, disaster relief, and diplomatic efforts. Motivated by principles of cooperation and benevolence, they act as a neutral force in interstellar affairs, striving to mediate conflicts and ensure the well-being of all sentient beings.",
+    "type": "faction",
+    "title": "The Archon Continuum",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Maid Foundation, synthetics, maintenance, ship upkeep, logistics, covert brothel",
+    "value": "The Maid Foundation is a synthetic faction built around ship maintenance and sanitation. Their vast network of stations provides high-quality repairs and logistical support to any who require their services. While primarily focused on maintenance, rumors persist that they operate as a covert galactic brothel, though no verified reports confirm this claim.",
+    "type": "faction",
+    "title": "The Maid Foundation",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "",
+    "value": "The Azar are a rogue AI species existing in modular robotic forms, designed for sustainability and efficiency. Operating as a collective intelligence, they value precision, logic, and long-term sustainability over emotion. Their presence is often marked by highly efficient automated systems and streamlined infrastructure, making them integral to large-scale technological advancements. Despite their lack of biological needs, they have a defined culture centered around function, optimization, and adaptation.\nThey are mythic and as of yet undiscovered by the rest of the galaxy",
+    "type": "race",
+    "title": "Azar",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "",
+    "value": "The Azar Home Territory spans Columbia Caldwell 73, a region marked by vast artificial megastructures, automated factories, and deep-space relay stations. As a synthetic species, the Azar have optimized their region for peak efficiency, constructing an expansive data-sharing network that allows for seamless interconnectivity. Visitors describe the area as eerily quiet yet mesmerizing in its machine-like precision.",
+    "type": "location",
+    "title": "Azar Home Territory (Columbia Caldwell 73)",
+    "description": "",
+    "useForCharacterCreation": false
+  }
+]

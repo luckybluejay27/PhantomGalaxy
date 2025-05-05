@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "09b9c7bd359b1a1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2343bf87226c4ada",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b640e1a676ecc007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5abd5450246070d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2cd13b5105eb0b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0919a555b523e34f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "11f637de8de5fbcc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a9677efde25ff6b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "aa99b84fe50acb05",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 205.5
+  },
+  "right": {
+    "id": "c85877effd284a42",
+    "type": "split",
+    "children": [
+      {
+        "id": "b24b99b532c6ea5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95c3f43c0e01f9b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Main Tasking/01 - Quick_Thoughts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01 - Quick_Thoughts"
+            }
+          },
+          {
+            "id": "778f28531dcb3a75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Main Tasking/01 - Quick_Thoughts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01 - Quick_Thoughts"
+            }
+          },
+          {
+            "id": "573195b0f6189308",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ba47470cdff5607a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Main Tasking/01 - Quick_Thoughts.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01 - Quick_Thoughts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b640e1a676ecc007",
+  "lastOpenFiles": [
+    "Lore/4 Ship Tech.md",
+    "README.md",
+    "Narratives/The Cleaning Shorts/Woven.md",
+    "Narratives/The Cleaning Shorts/Tannon-Avian.md",
+    "Narratives/The Cleaning Shorts/Tannon - Saurian.md",
+    "Narratives/The Cleaning Shorts/Juvian.md",
+    "Narratives/The Cleaning Shorts/Finale.md",
+    "Narratives/The Cleaning Shorts/Archon Synth.md",
+    "Narratives/Errant Audio Logs/Test Log TMF 115.md",
+    "Narratives/Errant Audio Logs/Audio Log TMF-Psych-201.md",
+    "Narratives/Arc1/Season2 intro.md",
+    "Narratives/Arc1/Season 2 intro.txt",
+    "Narratives/Arc1/3-58-9-Season_1_Chat__Primary_Arc_.md",
+    "Narratives/adventure-SQM0DgQi9OM1-story-cards-22.json",
+    "Narratives/The Cleaning Shorts",
+    "Narratives/Galactic Phantom Anthology.md",
+    "Narratives/Galactic Phantom Anthology.docx",
+    "Narratives/Errant Audio Logs",
+    "Narratives/Arc2",
+    "Narratives/Arc1",
+    "Narratives",
+    "Lore/The Woven/04 Ship Basic Technology.md",
+    "Lore/3 ShipDetail.md",
+    "Lore/Juvian Detail/Juvian Culture.md",
+    "Lore/InterStellar TimeLine.md",
+    "Lore/2 Faction Overview.md",
+    "Lore/Tannon Detail/Tannon Conlang.md",
+    "Lore/1 Task List.md",
+    "Lore/The Woven/The Woven 'Government'.md",
+    "StoryTelling/The Cleaning Shorts/Tannon - Saurian.md",
+    "Lore/Tannon Detail/Tannon Government.md",
+    "Lore/The Woven/The Woven Culture.md",
+    "Lore/The Woven/The Woven Biology.md",
+    "Lore/The Woven/The Woven 'Conlang'.md",
+    "StoryTelling/Errant Audio Logs",
+    "Lore/The Maid Foundation",
+    "mma6YuefYAY-HD.jpg"
+  ]
+}

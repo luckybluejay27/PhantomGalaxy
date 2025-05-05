@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "750b4c5446567339",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b6734d58616040a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c660ea7b0374da7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Main Tasking/01 - Quick_Thoughts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Quick_Thoughts"
+            }
+          },
+          {
+            "id": "d854287646a1d8f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Main Tasking/02 - Art_Projects.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 - Art_Projects"
+            }
+          },
+          {
+            "id": "85a77b9cfebb4a25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Environmental/01 - Shopping_List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Shopping_List"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bf9b405f6783019",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bed54af90ec16632",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "1e7ab352c70c1db7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "f8aa01cf055b5df8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d3c3add8e8aa390f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5643b376f3aefbef",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9437d56cb0ae32d9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "01 - Main Tasking/01 - Quick_Thoughts.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "39921e0899b8b541",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "01 - Main Tasking/02 - Art_Projects.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "83b4771d79d5bc19",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "01 - Main Tasking/02 - Art_Projects.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c660ea7b0374da7f",
+  "lastOpenFiles": [
+    "Environmental/01 - Shopping_List.md",
+    "01 - Main Tasking/01 - Quick_Thoughts.md",
+    "01 - Main Tasking/02 - Art_Projects.md",
+    "Random.md",
+    "Macro Brainstorming/BP Daily.md",
+    "01 - Main Tasking/03 - Warframe_Goals.md",
+    "01 - Main Tasking/01 - Quick_Thoughts.sync-conflict-20250103-043138-N567MMC.md",
+    "Macro Brainstorming/The Games.md",
+    "01 - Main Tasking/01 - Quick_Thoughts.sync-conflict-20241219-022349-N567MMC.md",
+    "01 - Main Tasking/01 - Quick_Thoughts.sync-conflict-20241213-230313-LAGYIMH.md",
+    "Macro Brainstorming/Therapy.md",
+    "01 - Main Tasking/01 - Quick_Thoughts.sync-conflict-20241207-005004-LAGYIMH.md",
+    "Prop.md",
+    "01 - Main Tasking/01 - Quick_Thoughts.sync-conflict-20241127-230601-LAGYIMH.md",
+    "Certification.md",
+    "[[02 - Art_Projects.md",
+    "01 - Main Tasking/01 - Quick_Thoughts.sync-conflict-20241122-231122-3ZLCK5O.md",
+    "Untitled",
+    "Macro Brainstorming/Custom Keyboard Build.md",
+    "01 - Main Tasking/04 - No Man's sky.md",
+    "mma6YuefYAY-HD.jpg",
+    "01 - Main Tasking/01 - Quick_Thoughts.sync-conflict-20241015-012106-3ZLCK5O.md",
+    "01 - Main Tasking/01 - Quick_Thoughts.sync-conflict-20241009-230728-3ZLCK5O.md",
+    "01 - Main Tasking/01 - Quick_Thoughts.sync-conflict-20241007-231139-LAGYIMH.md",
+    "Macro Brainstorming/ADHD Tips.md",
+    "01 - Main Tasking/01 - Quick_Thoughts.sync-conflict-20241006-162324-N65C2WQ.md",
+    "Environmental/02 - Daily_Carry.md",
+    "Tags",
+    "01 - Main Tasking",
+    "00 - Archival.old",
+    "Macro Brainstorming",
+    "Environmental"
+  ]
+}
