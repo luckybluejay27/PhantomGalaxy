@@ -1,6 +1,7 @@
 - [ ] Init
 	- [ ] Tannon Conlang Completion
 	- [ ] The Azar (Finalize details on their obscurity & purpose)
+	- [ ] Grammar Additions to Juvian Language
 - [ ] Further Detail
 	- [ ] Faction Dynamics & Diplomacy Doc (Inter-Faction Relations & Tensions)
 	- [ ] Spiritual Docs (Cultural Philosophies & Belief Systems)

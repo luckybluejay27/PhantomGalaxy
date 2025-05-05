@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Lore/Juvian Detail/Juvian Conlang.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Juvian Conlang"
             }
           }
         ]
@@ -183,8 +183,13 @@
   },
   "active": "b640e1a676ecc007",
   "lastOpenFiles": [
-    "Lore/4 Ship Tech.md",
+    "Lore/1 Task List.md",
+    "Lore/Juvian Detail/Juvian Lexicon.xlsx",
+    "Lore/Juvian Detail/Juvian Conlang.md",
+    "Lore/The Woven/The Woven Culture.md",
     "README.md",
+    "push.sh",
+    "Lore/4 Ship Tech.md",
     "Narratives/The Cleaning Shorts/Woven.md",
     "Narratives/The Cleaning Shorts/Tannon-Avian.md",
     "Narratives/The Cleaning Shorts/Tannon - Saurian.md",
@@ -210,15 +215,9 @@
     "Lore/InterStellar TimeLine.md",
     "Lore/2 Faction Overview.md",
     "Lore/Tannon Detail/Tannon Conlang.md",
-    "Lore/1 Task List.md",
     "Lore/The Woven/The Woven 'Government'.md",
     "StoryTelling/The Cleaning Shorts/Tannon - Saurian.md",
     "Lore/Tannon Detail/Tannon Government.md",
-    "Lore/The Woven/The Woven Culture.md",
-    "Lore/The Woven/The Woven Biology.md",
-    "Lore/The Woven/The Woven 'Conlang'.md",
-    "StoryTelling/Errant Audio Logs",
-    "Lore/The Maid Foundation",
     "mma6YuefYAY-HD.jpg"
   ]
 }
