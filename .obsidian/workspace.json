@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Juvian Detail/Juvian Conlang.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Juvian Conlang"
+              "title": "README"
             }
           }
         ]
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 419.50312423706055
   },
   "right": {
     "id": "c85877effd284a42",
@@ -185,8 +185,11 @@
   "lastOpenFiles": [
     "Lore/Archon Continuum/Archon Culture.md",
     "README.md",
-    "Lore/Juvian Detail/Juvian Conlang.md",
+    "Lore/2 Faction Overview.md",
     "Lore/1 Task List.md",
+    "Lore/1.md",
+    "ReadmeGen.sh",
+    "Lore/Juvian Detail/Juvian Conlang.md",
     "Lore/Juvian Detail/Juvian Lexicon.xlsx",
     "Lore/The Woven/The Woven Culture.md",
     "push.sh",
@@ -209,16 +212,13 @@
     "Narratives/Errant Audio Logs",
     "Narratives/Arc2",
     "Narratives/Arc1",
-    "Narratives",
     "Lore/The Woven/04 Ship Basic Technology.md",
     "Lore/3 ShipDetail.md",
     "Lore/Juvian Detail/Juvian Culture.md",
     "Lore/InterStellar TimeLine.md",
-    "Lore/2 Faction Overview.md",
     "Lore/Tannon Detail/Tannon Conlang.md",
     "Lore/The Woven/The Woven 'Government'.md",
     "StoryTelling/The Cleaning Shorts/Tannon - Saurian.md",
-    "Lore/Tannon Detail/Tannon Government.md",
     "mma6YuefYAY-HD.jpg"
   ]
 }
