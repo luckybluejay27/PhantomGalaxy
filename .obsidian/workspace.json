@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -184,12 +184,12 @@
   "active": "b640e1a676ecc007",
   "lastOpenFiles": [
     "Lore/1 Task List.md",
-    "Lore/4 Ship Tech.md",
     "README.md",
-    "Lore/Archon Continuum/Archon Culture.md",
-    "Lore/2 Faction Overview.md",
     "Lore/1.md",
     "ReadmeGen.sh",
+    "Lore/4 Ship Tech.md",
+    "Lore/Archon Continuum/Archon Culture.md",
+    "Lore/2 Faction Overview.md",
     "Lore/Juvian Detail/Juvian Conlang.md",
     "Lore/Juvian Detail/Juvian Lexicon.xlsx",
     "Lore/The Woven/The Woven Culture.md",
@@ -218,7 +218,6 @@
     "Lore/InterStellar TimeLine.md",
     "Lore/Tannon Detail/Tannon Conlang.md",
     "Lore/The Woven/The Woven 'Government'.md",
-    "StoryTelling/The Cleaning Shorts/Tannon - Saurian.md",
     "mma6YuefYAY-HD.jpg"
   ]
 }
