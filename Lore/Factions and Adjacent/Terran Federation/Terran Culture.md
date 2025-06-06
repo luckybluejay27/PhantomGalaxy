@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 ## **Cultural Philosophy**
 
 Terrans are defined by **adaptability, resilience, and ambition**. Their society thrives on the principle that **progress is paramount**, and that the pursuit of knowledge, stability, and expansion is the ultimate goal. Though individualist at heart, Terrans understand the necessity of cooperation and the power of collective progress. However, they remain aware of the flaws in human instinct and have built safeguards into their culture to mitigate them.

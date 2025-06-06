@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 **Juvian Government: The Structure of Iterative Meritocracy**
 
 Juvian governance is built on **collaborative decision-making, adaptive leadership, and efficiency-driven policy**. Unlike hierarchical systems, the Juvian government operates as a **network of specialized councils**, where authority is determined by **expertise and contribution** rather than inherited status or political maneuvering. However, change is **deliberate and iterative**, ensuring that policies evolve **gradually over time based on measurable success** rather than sudden shifts.

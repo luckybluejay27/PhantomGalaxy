@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 # **Welcome to the Maid Foundation: An Introduction to Their Physiology**
 
 Congratulations on your assignment to the **Maid Foundation Research and Analysis Division**. If you are reading this, you have been selected to participate in one of the most enigmatic studies in synthetic life. The Maid Foundation is **unlike traditional synthetic factions**, operating on a model that blends **biomechanical constructs, simulated consciousness, and limited modular adaptability**. Your role in this initiative will be to expand our understanding of their physiology, function, and operational constraints.

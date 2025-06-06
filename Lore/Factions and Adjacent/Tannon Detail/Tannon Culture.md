@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 ## **Cultural Philosophy**
 
 The Tannon are a species defined by **endurance, conquest, and structured dominance**. Their society revolves around the principle of the **Eternal Test**, which dictates that all individuals and structures must prove their worth through action, strength, and contribution. Stagnation is death, and only those who continuously strive forward are worthy of survival.

@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 ### **Galactic Spins (GS) - Timekeeping Standard**
 
 - **A Galactic Spin (GS) is 10 millionth of a full galactic rotation (~22.5 Terran Years).**

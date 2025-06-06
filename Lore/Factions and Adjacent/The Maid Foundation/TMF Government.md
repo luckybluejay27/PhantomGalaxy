@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 ## **1. Overview**
 The Maid Foundation operates under a **centralized yet stratified governance model**, balancing **efficiency, order, and adaptability** through its **Grand Protocol**. Unlike traditional hierarchical structures, the Foundation maintains a **server-based consciousness system**, where decision-making is distributed through structured oversight rather than individual autonomy.
 

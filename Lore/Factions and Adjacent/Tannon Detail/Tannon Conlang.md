@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 ## **How It Sounds in English**
 
 A Tannon speaking English would sound like a **military commander or an AI tactician**—structured, directional, and highly intentional.

@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 The Tannon government is a **structured oligarchy**, where leadership is determined by **proven might, endurance, and conquest**. Governance is based on the philosophy of the **Eternal Test**, ensuring that only the strongest and most capable individuals rise to power.
 
 ## **Governing Bodies**

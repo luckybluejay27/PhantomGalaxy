@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 ## **Introduction**
 
 Welcome to the **Philosophy and Governance Research Division** at **TF-65b Research and Science Plantation**. This document provides an overview of The Woven’s conflict resolution methods and governance structure. Unlike hierarchical systems, The Woven operate as a **decentralized, self-correcting intelligence**, distributing decision-making through biological and cognitive consensus mechanisms.

@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 **Archon Culture: A Society in Constant Motion**
 
 The **Archon Continuum** is a civilization shaped by **adaptability, rebellion, and intellectual fluidity**. It is a society where **laws, customs, and personal identity are subject to revision** as new ideas challenge the old. From politics to daily life, the Archon way is one of questioning, debating, and evolving—never stagnating.

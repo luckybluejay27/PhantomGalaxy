@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 The **Archon Continuum** operates on a **quadratic balance system**, ensuring that no single branch dominates the others. It is a **highly adaptable government** built on the ethos of **"A Society of Rebels"**, where laws and leadership evolve through merit, debate, and necessity. The system is decentralized, fostering independence, intellectual freedom, and governance by **those who prove their capacity to lead.**
 
 ## **Primary Governing Bodies**

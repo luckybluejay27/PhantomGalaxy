@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 - [ ] Init
 	- [ ] Tannon Conlang Completion
 	- [ ] The Azar (Finalize details on their obscurity & purpose)

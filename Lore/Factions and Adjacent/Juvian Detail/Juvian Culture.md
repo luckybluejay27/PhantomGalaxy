@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 # Cultural Philosophy
 
 The **Juvian Collective** is a civilization shaped by **resourcefulness, kindness, and an innate drive for exploration**. Their culture is built on the belief that **trust and efficiency drive progress**, ensuring that every individual contributes meaningfully to the whole. Juvians prioritize **absolute directness in communication**, **mutual responsibility over individual achievement**, and **adaptive leadership based on expertise rather than hierarchy**. Their structured cooperation fosters a society where knowledge, work, and daily life are interwoven seamlessly, reinforcing their collective success.

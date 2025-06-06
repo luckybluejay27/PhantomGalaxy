@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 The Terran Federation operates as a **Decentralized Federation**, ensuring autonomy among its various colonies while maintaining a unified governing framework. Rather than a traditional constitutional system, the Federation follows a **Dynamic Accord System**, where laws and policies must undergo rigorous evaluation before enactment.
 
 # **Governing Bodies**
