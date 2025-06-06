@@ -12,9 +12,7 @@ A Tannon speaking English would sound like a **military commander or an AI tacti
 ## Example Sentence
 
 1\. His blade stands alongside us (Equal)
-
 \< havi-kɾā vū-vo brʌʢ yorvax-to ɡʰɾa-ma \>
-
 "Stands (present) at/around blade Yorvax (equal) us (equal)."
 
 ## Sentence Structure
@@ -30,24 +28,21 @@ A Tannon speaking English would sound like a **military commander or an AI tacti
 ## Example Sentence:
 
 **1\. His blade stands alongside us (Equal)**
-
 ***\< havi-kɾā vū-vo brʌʢ yorvax-to ɡʰɾa-ma \>***
-
 *"Stands (present) at/around blade Yorvax (equal) us (equal)."*
 
 ***2\. Their blades stand alongside us***
-
 *\< havi-kɾā vū-vo brʌʢi ɾu-to ɡʰɾa-ma \>*
-
 *"Stand (present) at/around blades they (equal) us (equal)."*
 
 ## Pronouns & Hierarchy
 
-| Pronoun (Pluralization) | Singular | Plural |
-| :---- | :---- | :---- |
-| I (We) | ɡʰɾa | ɡʰɾa-ma |
-| You (You all) | ɡɾə | ɡɾə-ma |
-| They (They all) | ɾu | ɾu-ma |
+| Pronoun (Pluralization) | Singular | Plural  |
+| :---------------------- | :------- | :------ |
+| I (We)                  | ɡʰɾa     | ɡʰɾa-ma |
+| You (You all)           | ɡɾə      | ɡɾə-ma  |
+| They (They all)         | ɾu       | ɾu-ma   |
+|                         |          |         |
 
 | Status | Suffix |
 | :---- | :---- |

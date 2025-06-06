@@ -108,16 +108,16 @@ Instead, interrogatives are built as follows:
 
 ### Table: Core Juvian Interrogative Roots
 
-| English       | Juvian Root | Function / Domain     | Example                      | Gloss                    |
-|---------------|-------------|------------------------|------------------------------|--------------------------|
-| Who           | **zet-**    | Identity / Agent       | **zet-ɹpuβɸʔu?**             | Who eats?                |
-| What          | **fet-**    | Object / Action target | **fet-ʊɸʔɸʒaʔ?**             | What did they sleep?     |
-| When          | **tok-**    | Time / Sequence        | **tok-eluɸʒaʔ?**             | When did they give?      |
-| Where         | **ʃok-**    | Place / Location       | **ʃok-kiɹkɸʒan?**            | Where do we take?        |
-| Why           | **nekʃa-**  | Cause / Reason         | **nekʃa-ɪqɸʔu?**             | Why do you speak?        |
-| How (manner)  | **teka-**   | Method / Process       | **teka-ɹpuβɸʒan?**           | How do we eat?           |
-| Which         | **hera-**   | Choice / Specificity   | **hera-eluɸʒaʔ koni hok?**   | Which did they give?     |
-| Whose         | **ʒeta-**   | Possession / Ownership | **ʒeta-ɹpuβɸlu?**            | Whose food is eaten?     |
+| English      | Juvian Root | Function / Domain      | Example                    | Gloss                |
+| ------------ | ----------- | ---------------------- | -------------------------- | -------------------- |
+| Who          | **zet-**    | Identity / Agent       | **zet-ɹpuβɸʔu?**           | Who eats?            |
+| What         | **fet-**    | Object / Action target | **fet-ʊɸʔɸʒaʔ?**           | What did they sleep? |
+| When         | **tok-**    | Time / Sequence        | **tok-eluɸʒaʔ?**           | When did they give?  |
+| Where        | **ʃok-**    | Place / Location       | **ʃok-kiɹkɸʒan?**          | Where do we take?    |
+| Why          | **nekʃa-**  | Cause / Reason         | **nekʃa-ɪqɸʔu?**           | Why do you speak?    |
+| How (manner) | **teka-**   | Method / Process       | **teka-ɹpuβɸʒan?**         | How do we eat?       |
+| Which        | **hera-**   | Choice / Specificity   | **hera-eluɸʒaʔ koni hok?** | Which did they give? |
+| Whose        | **ʒeta-**   | Possession / Ownership | **ʒeta-ɹpuβɸlu?**          | Whose food is eaten? |
 
 
 > All roots must be bound to a verb. Context completes their meaning.
@@ -147,16 +147,16 @@ In Juvian, negation is expressed through a family of dedicated, **non-conjugatin
 - `?anitu` – Describes the **state or quality** of being negative (abstract/adj)
 ### 🔻 Expanded `?an` Family of Conceptual Negators
 
-|Category|Root|Function / Context Example|
-|---|---|---|
-|Refusal (willful)|`?ankor`|"refuse to speak"|
-|Reversal / Undoing|`?anketa`|Negating causality, reversing motion|
-|Nonexistence|`?anta`|"there is not", existential absence|
-|Exclusion / Absence|`?annok` / `?anoki`|"without," "lacking," phonetic softening|
-|Termination / Cessation|`?ansul`|"no longer", ended condition|
-|Ineffectiveness / Failure|`?anrex`|failed result, ineffective outcome|
-|Doubt / Uncertainty|`?anek`|negation of belief, epistemic skepticism|
-|Emotional Rejection|`?ansha`|gentle or internalized denial|
+| Category                  | Root                | Function / Context Example               |
+| ------------------------- | ------------------- | ---------------------------------------- |
+| Refusal (willful)         | `?ankor`            | "refuse to speak"                        |
+| Reversal / Undoing        | `?anketa`           | Negating causality, reversing motion     |
+| Nonexistence              | `?anta`             | "there is not", existential absence      |
+| Exclusion / Absence       | `?annok` / `?anoki` | "without," "lacking," phonetic softening |
+| Termination / Cessation   | `?ansul`            | "no longer", ended condition             |
+| Ineffectiveness / Failure | `?anrex`            | failed result, ineffective outcome       |
+| Doubt / Uncertainty       | `?anek(a)`          | negation of belief, epistemic skepticism |
+| Emotional Rejection       | `?ansha`            | gentle or internalized denial            |
 
 These forms express **precise semantic functions**, not general negation. They serve as verbs in their own right and operate outside the normal conjugation system.
 ### 🔹 Syntax: Modifier Negation
@@ -165,13 +165,13 @@ These forms express **precise semantic functions**, not general negation. They s
 [?an / ?ani] [conjugated verb]
 ```
 
-|English|Juvian|Gloss|
-|---|---|---|
-|I do not walk|`?an irmli`|not walk-I|
-|You are not eating|`?ani ɹpuβkaǀu`|not eat-ing-you|
-|They (pl) didn’t speak|`?ani mukʒaʔʒaǀu`|not speak-past-they (pl)|
-|We (group) do not give|`?an eluʒan`|not give-we|
-|I absolutely will not eat|`?ani ɹpuββaǀi`|strong not eat-future-I|
+| English                   | Juvian            | Gloss                    |
+| ------------------------- | ----------------- | ------------------------ |
+| I do not walk             | `?an irmli`       | not walk-I               |
+| You are not eating        | `?ani ɹpuβkaǀu`   | not eat-ing-you          |
+| They (pl) didn’t speak    | `?ani mukʒaʔʒaǀu` | not speak-past-they (pl) |
+| We (group) do not give    | `?an eluʒan`      | not give-we              |
+| I absolutely will not eat | `?ani ɹpuββaǀi`   | strong not eat-future-I  |
 
 ---
 
@@ -277,20 +277,20 @@ Without an anchor and defined vector polarity, directional commands are semantic
 ---
 
 ### Base-8 Structure & Root Forms
-| Base-10 | Base-8 | Juvian Form        | Modular Notation   |
-|---------|--------|--------------------|--------------------|
-| 0       | 0      | et (ette)          | 0 (00)             |
-| 1–7     | 1–7    | het, tet, rek, kek, hok, nok, rok | [A]–[G]          |
-| 8       | 10     | hette              | [A0]               |
-| 16      | 20     | tekke              | [B0]               |
-| 24      | 30     | rekke              | [C0]               |
-| 32      | 40     | kekke              | [D0]               |
-| 40      | 50     | hokke              | [E0]               |
-| 64      | 100    | hetke'hette        | [A00]              |
-| 512     | 1000   | hetke'hetteke      | [A000]             |
-| 1000,7654| —     | rokke'nokke'hokke'kek uβt rekke'tetke'hetke'et | [A000,GFED] |
+| Base-10   | Base-8 | Juvian Form                           | Modular Notation |
+| --------- | ------ | ------------------------------------- | ---------------- |
+| 0         | 0      | et (ette)                             | 0 (00)           |
+| 1–7       | 1–7    | het, tet, rek, kek, hok, nok, rok     | [A]–[G]          |
+| 8         | 10     | hette                                 | [A0]             |
+| 16        | 20     | tekke                                 | [B0]             |
+| 24        | 30     | rekke                                 | [C0]             |
+| 32        | 40     | kekke                                 | [D0]             |
+| 40        | 50     | hokke                                 | [E0]             |
+| 64        | 100    | hetke'hette                           | [A00]            |
+| 512       | 1000   | hetke'hetteke                         | [A000]           |
+| 1000,7654 | —      | hetke'hette uβt rokke nokke hokke kek | [A000,GFED]      |
+### Bracketed Notations
 
-> **Note**: Bracket notation has been replaced by **letter-based modular notation**, where:
 > - [A]–[G] = 1–7
 > - [A0] = base-8 value 10 (decimal 8)
 > - This system allows for **stackable, intuitive markers** that avoid confusion with base-10 Terran logic.

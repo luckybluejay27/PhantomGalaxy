@@ -4,9 +4,9 @@ Explore the lore of Phantom Galaxy by following the links below:
 
 - **Lore**
   - [[1 Task List]]
-  - [[2 Faction Overview]]
-  - [[3 ShipDetail]]
-  - [[4 Ship Tech]]
+  - [[1 Faction Overview]]
+  - [[2 Ship Detail - List]]
+  - [[1 Ship Tech]]
   - **Archon Continuum**
     - [[Archon Culture]]
     - [[Archon Equivalent Conlang]]

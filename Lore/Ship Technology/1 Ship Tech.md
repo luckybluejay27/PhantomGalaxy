@@ -1,4 +1,4 @@
-_Note: The following overview assumes Terran analog/digital hybrid standards as a baseline. Not all factions adhere to this model._
+Note: The following overview assumes Terran analog/digital hybrid standards as a baseline. Not all factions adhere to this model._
 
 ---
 

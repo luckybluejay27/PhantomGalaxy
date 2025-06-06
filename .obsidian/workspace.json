@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.50312423706055
+    "width": 263.5024719238281
   },
   "right": {
     "id": "c85877effd284a42",
@@ -183,16 +183,21 @@
   },
   "active": "b640e1a676ecc007",
   "lastOpenFiles": [
-    "Lore/1 Task List.md",
+    "Lore/Factions and Adjacent/Archon Continuum/Archon Culture.md",
     "README.md",
+    "Lore/1 Task List.md",
+    "Lore/Ship Technology/2 Ship Detail - List.md",
+    "Lore/Ship Technology/1 Ship Tech.md",
+    "Lore/Ship Technology",
+    "Lore/Factions and Adjacent",
+    "Lore/Factions and Adjacent/Juvian Detail/Juvian Conlang.md",
+    "Lore/Factions and Adjacent/The Maid Foundation/TMF Physiology.md",
+    "Lore/Factions and Adjacent/Tannon Detail/Tannon Conlang.md",
     "Lore/1.md",
     "ReadmeGen.sh",
-    "Lore/4 Ship Tech.md",
-    "Lore/Archon Continuum/Archon Culture.md",
-    "Lore/2 Faction Overview.md",
-    "Lore/Juvian Detail/Juvian Conlang.md",
-    "Lore/Juvian Detail/Juvian Lexicon.xlsx",
-    "Lore/The Woven/The Woven Culture.md",
+    "Lore/Factions and Adjacent/1 Faction Overview.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Juvian Lexicon.xlsx",
+    "Lore/Factions and Adjacent/The Woven/The Woven Culture.md",
     "push.sh",
     "Narratives/The Cleaning Shorts/Woven.md",
     "Narratives/The Cleaning Shorts/Tannon-Avian.md",
@@ -210,14 +215,9 @@
     "Narratives/Galactic Phantom Anthology.md",
     "Narratives/Galactic Phantom Anthology.docx",
     "Narratives/Errant Audio Logs",
-    "Narratives/Arc2",
-    "Narratives/Arc1",
     "Lore/The Woven/04 Ship Basic Technology.md",
-    "Lore/3 ShipDetail.md",
-    "Lore/Juvian Detail/Juvian Culture.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Juvian Culture.md",
     "Lore/InterStellar TimeLine.md",
-    "Lore/Tannon Detail/Tannon Conlang.md",
-    "Lore/The Woven/The Woven 'Government'.md",
     "mma6YuefYAY-HD.jpg"
   ]
 }
