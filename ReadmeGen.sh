@@ -3,6 +3,9 @@
 # Output file
 OUTPUT_FILE="README.md"
 
+# Base GitHub URL (hardcoded)
+BASE_URL="https://github.com/luckybluejay27/PhantomGalaxy/blob/main"
+
 # Header for the README
 echo "# Phantom Galaxy Documentation" > $OUTPUT_FILE
 echo "" >> $OUTPUT_FILE
@@ -23,14 +26,12 @@ generate_links() {
       file_name=$(basename "$item")
       link_name="${file_name%.*}"
 
-      # Relative path formatting for Obsidian
-      relative_path="./${item#./}"
+      # Get the path relative to the repository root
+      relative_path="${item#./}"
+      encoded_path=$(echo "$relative_path" | sed 's/ /%20/g')
 
-      # URL encode spaces and special characters
-      relative_path=$(echo "$relative_path" | sed 's/ /%20/g')
-
-      # Create the Obsidian-friendly link
-      echo "${indent}- [[$link_name]]" >> $OUTPUT_FILE
+      # Create GitHub link
+      echo "${indent}- [$link_name]($BASE_URL/$encoded_path)" >> $OUTPUT_FILE
     fi
   done
 }
@@ -40,7 +41,7 @@ generate_links "." ""
 
 # Final message
 echo "" >> $OUTPUT_FILE
-echo "Documentation generated automatically on $(date)" >> $OUTPUT_FILE
+echo "Documentation generated automatically on $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> $OUTPUT_FILE
 
 # Success message
 echo "README.md has been updated successfully!"

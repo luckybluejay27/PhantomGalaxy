@@ -3,38 +3,40 @@
 Explore the lore of Phantom Galaxy by following the links below:
 
 - **Lore**
-  - [[1 Task List]]
-  - [[1 Faction Overview]]
-  - [[2 Ship Detail - List]]
-  - [[1 Ship Tech]]
-  - **Archon Continuum**
-    - [[Archon Culture]]
-    - [[Archon Equivalent Conlang]]
-    - [[Archon Government]]
-    - [[Archon Physiology Overview (Composite Species)]]
-  - [[InterStellar TimeLine]]
-  - **Juvian Detail**
-    - [[Juvian Conlang]]
-    - [[Juvian Culture]]
-    - [[Juvian Government]]
-    - [[Juvian Physiology]]
-  - **Tannon Detail**
-    - [[Tannon Conlang]]
-    - [[Tannon Culture]]
-    - [[Tannon Government]]
-    - [[Tannon Physiology]]
-  - **Terran Federation**
-    - [[Terran Culture]]
-    - [[Terran Government]]
-  - **The Maid Foundation**
-    - [[TMF Government]]
-    - [[TMF Physiology]]
-    - [[TMF Psychology]]
-  - **The Woven**
-    - [[The Woven Biology]]
-    - [[The Woven 'Conlang']]
-    - [[The Woven Culture]]
-    - [[The Woven 'Government']]
-- [[README]]
+  - [1 Task List](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/1%20Task%20List.md)
+  - **Factions and Adjacent**
+    - [1 Faction Overview](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/1%20Faction%20Overview.md)
+    - **Archon Continuum**
+      - [Archon Culture](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Archon%20Continuum/Archon%20Culture.md)
+      - [Archon Equivalent Conlang](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Archon%20Continuum/Archon%20Equivalent%20Conlang.md)
+      - [Archon Government](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Archon%20Continuum/Archon%20Government.md)
+      - [Archon Physiology Overview (Composite Species)](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Archon%20Continuum/Archon%20Physiology%20Overview%20(Composite%20Species).md)
+    - **Juvian Detail**
+      - [Juvian Conlang](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Conlang.md)
+      - [Juvian Culture](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Culture.md)
+      - [Juvian Government](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Government.md)
+      - [Juvian Physiology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Physiology.md)
+    - **Tannon Detail**
+      - [Tannon Conlang](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Tannon%20Detail/Tannon%20Conlang.md)
+      - [Tannon Culture](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Tannon%20Detail/Tannon%20Culture.md)
+      - [Tannon Government](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Tannon%20Detail/Tannon%20Government.md)
+      - [Tannon Physiology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Tannon%20Detail/Tannon%20Physiology.md)
+    - **Terran Federation**
+      - [Terran Culture](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Terran%20Federation/Terran%20Culture.md)
+      - [Terran Government](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Terran%20Federation/Terran%20Government.md)
+    - **The Maid Foundation**
+      - [TMF Government](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Maid%20Foundation/TMF%20Government.md)
+      - [TMF Physiology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Maid%20Foundation/TMF%20Physiology.md)
+      - [TMF Psychology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Maid%20Foundation/TMF%20Psychology.md)
+    - **The Woven**
+      - [The Woven Biology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20Biology.md)
+      - [The Woven 'Conlang'](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20'Conlang'.md)
+      - [The Woven Culture](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20Culture.md)
+      - [The Woven 'Government'](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20'Government'.md)
+  - [InterStellar TimeLine](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/InterStellar%20TimeLine.md)
+  - **Ship Technology**
+    - [1 Ship Tech](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/1%20Ship%20Tech.md)
+    - [2 Ship Detail - List](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/2%20Ship%20Detail%20-%20List.md)
+- [README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 
-Documentation generated automatically on Mon May 12 05:06:39 AM PDT 2025
+Documentation generated automatically on 2025-06-06 11:36:59 UTC
