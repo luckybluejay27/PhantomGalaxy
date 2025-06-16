@@ -1,5 +1,8 @@
 [
   "obsidian-copy-block-link",
   "file-order",
-  "creases"
+  "creases",
+  "obsidian-hover-editor",
+  "obsidian-hider",
+  "editor-width-slider"
 ]

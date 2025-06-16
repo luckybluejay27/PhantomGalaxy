@@ -12,11 +12,19 @@ This pamphlet won’t turn you into a pilot. But it will show you where to begin
 
 ### Cosmological Engineering Baseline
 
-Terran warp systems operate on the principle of controlled vacuum manipulation. By exploiting the Casimir Effect, engineers learned to treat pressure differentials between atomic plates as a substitute for exotic mass. This allowed for the development of microscopic oscillating structures—dense arrays of nanometer-scale metal walls mounted on femtometer-precise actuators.
+Terran vessels are operated using the **Internal Spatial Compression Drive (ISCD)**—a relativistic propulsion standard first developed alongside the earliest orbital testbeds. Based on controlled application of the Alcubierre metric and Casimir vacuum resonance, ISCD does not drag space around the ship, but instead **contracts the traversal corridor** ********_**within**_******** **the ship's own spatial domain**.
 
-These structures are laid out in replaceable "bricks," similar in concept to CPU cores. Rather than switching logic, they rhythmically compress and expand spacetime itself. The bricks are distributed across a pair of magnetically locked rings that rotate slowly around the ship. Each ring calibrates its timing to propagate field pressure across the vessel—pushing spacetime behind and pulling it forward, creating controlled Alcubierre translation without violating local physical laws.
+Every Terran ship is fundamentally a **ringframe structure**—not a tube with rings attached, but a spatially-integrated lattice in which the **hull** ********_**is**_******** **the containment field**. These rings generate a controlled spacetime well internally, shortening the realspace distance the ship must cross without ever violating external causality.
 
-This foundational system defines how Terran vessels achieve faster-than-light motion, and serves as the starting point for understanding ship operation, classification, and control.
+The benefit of this design is twofold:
+1. It eliminates catastrophic debris impact risks associated with bubble-front warp travel.
+2. It retains mechanical and navigational sovereignty—allowing precise analog feedback and fine-tuned human control over burn length, compression ratio, and inertial buffering.
+
+Compression capacity is inherently limited by structural tolerance, thermal buildup, and field phase slippage. The deeper the contraction, the more internal stress is distributed through the ringframe, and the greater the risk of nullshock or coherence collapse.
+
+But when operated within standard Guild thresholds, the ISCD allows Terran ships to traverse interstellar space at relativistically-refracted velocities—fast enough to shrink galactic travel into months, not centuries, without ever crossing into true superluminal distortion.
+
+This framework defines all Terran interstellar vessel architecture. From scout ships to mobile colonies, the ring is not an accessory—it is _the vessel_. And within it, space bends inward so that the crew may keep moving forward.
 
 ### Turning Theory Into Travel
 
@@ -34,14 +42,14 @@ To fly a warp-capable vessel is not to issue commands—it is to engage in layer
 
 **1. Maneuver Control**
 
-_Note:_ Even with advanced computation, warp jumps are imprecise by nature. Stellar bodies exert subtle, shifting gravitational fields that distort spacetime long before arrival. As a result, even a “direct” jump may leave a vessel parsecs from its intended destination—close by cosmic standards, but still requiring conventional travel to close the final gap
+_Note:_ Even with advanced computation, warp jumps are imprecise by nature. Stellar bodies exert subtle, shifting gravitational fields that distort spacetime long before arrival. As a result, even a “direct” jump may leave a vessel light seconds from its intended destination—close by cosmic standards, but still requiring conventional travel to close the final gap
 
 This is the heart of flight: the analog sticks, rudder pedals, throttle banks, and levered control arrays that allow the pilot to orient the ship in realspace and shape warp geometry. Every critical thrust and course correction originates here. It is mechanical. Physical. Immune to interference.
 
 **2. Diagnostic Control**  
 Digital overlays, touchscreens, and command-line terminals give the crew insight into fuel ratios, temperature gradients, subsystem drift, and warp tension. These systems do not fly the ship—they _advise_, _warn_, and _predict_. Think of them as the pulse readers and telemetry echoes of the hull.
 
-**3. Interpretive & Comms Control**  
+**3. Interpretive & Communicative Control**  
 Navigation data, signal pings, AI traffic coordination—none of it touches the flight systems. Communications are physically isolated from propulsion and navigation, routed through band-locked, manually switchable interfaces. Even quantum-linked messages pass through filtered buffers, never direct.
 
 Together, these three tiers form a hardened architecture: a vessel you can understand, isolate, repair, and trust. Every control surface is deliberate. Every system partitioned. In space, trust is not a feeling. It is a layout.
@@ -52,9 +60,9 @@ Whether approaching a surface or a station, descent begins with accounting—not
 
 In orbital contexts, glide means managing inertia. Terran ships use magneto-plasma microbursts to shave velocity without overcorrecting, trading fuel for precision. In high-gravity or atmospheric landings, descent profiles must be computed down to the kilojoule. Entry angle, terminal mass, and fuel remaining all determine whether a ship survives—or simply embeds.
 
-No landing system is infinite. Pulse cartridges, ablative surfaces, and ballast adjusters are burned, warped, or depleted on every drop. If a ship lands, it expects to leave only by another’s help: orbital cranes, VTOL recovery, or resupply cradle.
+No landing system is infinite. Pulse cartridges, ablative surfaces, and ballast adjusters are burned, warped, or depleted on every drop. If a ship lands, it expects to leave only by another’s help: orbital cranes, VTOL recovery, or resupply cradle. Though ships of these scales do not land so much as stop moving nearby an orbital station.
 
-Pilots train to glide not because it saves time, but because it saves _everything else_ .
+As such mathematics is paramount. 
 
 ### Maintenance & Recovery: The Art of the Space Janitor
 
@@ -65,13 +73,9 @@ If you're interested in diagnostics, structural repair, life support upkeep, or 
 Study paths include:
 
 - Damage control and systems triage
-    
 - Internal environment regulation (temperature, air quality, humidity)
-    
 - Modular component replacement and structural assessment
-    
 - Analog diagnostics and sensor revalidation
-    
 
 A good maintenance specialist doesn't just fix problems. They prevent them. They read strain before it becomes fracture, and know when to let a system fail safely instead of fighting it. On long hauls, they’re the difference between a detour and a disaster.
 

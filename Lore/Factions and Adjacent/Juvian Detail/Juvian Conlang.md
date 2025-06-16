@@ -1,11 +1,12 @@
 [← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 
+For a list of currently available words, please refer to the [[Juvian Lexicon]]
 ## Conjugation
 | Translation | Verb | Article  | Article Suffix | Tense              | Tense Suffix |
 | ----------- | ---- | -------- | -------------- | ------------------ | ------------ |
-| Walk        | Irm  | I        | ǀi             | Present Simple     | n/a          |
+| Walk        | Irm  | I        | \|i            | Present Simple     | n/a          |
 |             |      | You (S)  | ǀu             | Present Continuous | ka           |
-|             |      | You (P)  | ǀ              | Present Perfect    | kɸ           |
+|             |      | You (P)  | \|             | Present Perfect    | kɸ           |
 |             |      | They (S) | ʒaǀ            | Past Simple        | ʒa           |
 |             |      | They (P) | ʒaǀu           | Past Continuous    | ʒɸ           |
 |             |      | We (G)   | ʒaβ            | Past Perfect       | ʒu           |
@@ -17,7 +18,7 @@
 
 The translation for "walk" is *irm*.
 
-[irm]
+[irm|i] - [You walk]
 
 ### Pronouns
 
@@ -33,7 +34,7 @@ The following is a list of pronouns. Their translations are suffixes to the verb
 | We (Group)      | ʒan         |
 | We (Not Group)  | ʒanu        |
 
-Example: [irmǀi]
+Example: [irm|i]
 
 ---
 
@@ -53,7 +54,7 @@ The following is a table of tenses. Tenses are an additional suffix appearing af
 | Future Continuous  | βɸ           |
 | Future Perfect     | βu           |
 
-Example: [irmǀika] directly translates to "I am walking."
+Example: [irm|ika] directly translates to "I am walking."
 
 Quantifiers and Prepositions appear prior to the noun, unless modifying a verb or succeeding noun.
 
@@ -80,16 +81,16 @@ Conditionals modify verbs, but appear prior to the conjugated form, as a word. M
 
 In Juvian, relative constructions are formed by applying a **prefix to the verb**, modifying the action itself rather than the subject or object. These prefixes indicate the type of comparison being made. There is no marker, the prefix is attached to the working verb.
 
-|Concept|Prefix|Translation Example|English Approximation|
-|---|---|---|---|
-|More (than)|koka|koka-irmli ʒaǀ|I walk more than|
-|Less (than)|roka|roka-latʒaǀ ʒaǀu|they (singular) eat less than them (plural)|
-|Most (of all)|suɸa|suɸa-nekli lu|I sleep more than most of you|
-|Least (of all)|ǀuta|luta-felʒaβ lu|We give less than you|
-|As (adj) as|teko|teko-kasʒan koni ʒanu|We (group) lift as much as we (not group)|
-|Too (adj)|tayko|tayko-zetʒaǀ|They (singular) see too much|
-|Enough (to X)|meka|meka-mukli tokʒan|I speak enough to take (we, group)|
-|Than (linker word)|koni||(used after subject, before comparison target)|
+| Concept            | Prefix | Translation Example   | English Approximation                          |
+| ------------------ | ------ | --------------------- | ---------------------------------------------- |
+| More (than)        | koka   | koka-irmli ʒaǀ        | I walk more than                               |
+| Less (than)        | roka   | roka-latʒaǀ ʒaǀu      | they (singular) eat less than them (plural)    |
+| Most (of all)      | suɸa   | suɸa-nekli lu         | I sleep more than most of you                  |
+| Least (of all)     | ǀuta   | luta-felʒaβ lu        | We give less than you                          |
+| As (adj) as        | teko   | teko-kasʒan koni ʒanu | We (group) lift as much as we (not group)      |
+| Too (adj)          | tayko  | tayko-zetʒaǀ          | They (singular) see too much                   |
+| Enough (to X)      | meka   | meka-mukli tokʒan     | I speak enough to take (we, group)             |
+| Than (linker word) | koni   |                       | (used after subject, before comparison target) |
 
 ---
 ## Juvian Interrogatives – Unchained Verbalizations
@@ -149,16 +150,17 @@ In Juvian, negation is expressed through a family of dedicated, **non-conjugatin
 - `?anitu` – Describes the **state or quality** of being negative (abstract/adj)
 ### 🔻 Expanded `?an` Family of Conceptual Negators
 
-| Category                  | Root                | Function / Context Example               |
-| ------------------------- | ------------------- | ---------------------------------------- |
-| Refusal (willful)         | `?ankor`            | "refuse to speak"                        |
-| Reversal / Undoing        | `?anketa`           | Negating causality, reversing motion     |
-| Nonexistence              | `?anta`             | "there is not", existential absence      |
-| Exclusion / Absence       | `?annok` / `?anoki` | "without," "lacking," phonetic softening |
-| Termination / Cessation   | `?ansul`            | "no longer", ended condition             |
-| Ineffectiveness / Failure | `?anrex`            | failed result, ineffective outcome       |
-| Doubt / Uncertainty       | `?anek(a)`          | negation of belief, epistemic skepticism |
-| Emotional Rejection       | `?ansha`            | gentle or internalized denial            |
+| Category                  | Root                | Function / Context Example                                          |
+| ------------------------- | ------------------- | ------------------------------------------------------------------- |
+| Refusal (willful)         | `?ankor`            | "refuse to speak"                                                   |
+| Reversal / Undoing        | `?anketa`           | Negating causality, reversing motion                                |
+| Nonexistence              | `?anta`             | "there is not", existential absence                                 |
+| Exclusion / Absence       | `?annok` / `?anoki` | "without," "lacking," phonetic softening                            |
+| Termination / Cessation   | `?ansul`            | "no longer", ended condition                                        |
+| Ineffectiveness / Failure | `?anrex`            | failed result, ineffective outcome                                  |
+| Doubt / Uncertainty       | `?anek(a)`          | negation of belief, epistemic skepticism                            |
+| Emotional Rejection       | `?ansha`            | gentle or internalized denial                                       |
+| State of Negation         | ?anit(u)            | State or quality of negative, or to negate state, or negate quality |
 
 These forms express **precise semantic functions**, not general negation. They serve as verbs in their own right and operate outside the normal conjugation system.
 ### 🔹 Syntax: Modifier Negation

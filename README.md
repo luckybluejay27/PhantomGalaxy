@@ -1,5 +1,3 @@
-[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
-
 # Phantom Galaxy Documentation
 
 Explore the lore of Phantom Galaxy by following the links below:
@@ -17,6 +15,7 @@ Explore the lore of Phantom Galaxy by following the links below:
       - [Juvian Conlang](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Conlang.md)
       - [Juvian Culture](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Culture.md)
       - [Juvian Government](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Government.md)
+      - [Juvian Lexicon](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Lexicon.md)
       - [Juvian Physiology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Physiology.md)
     - **Tannon Detail**
       - [Tannon Conlang](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Tannon%20Detail/Tannon%20Conlang.md)
@@ -41,4 +40,4 @@ Explore the lore of Phantom Galaxy by following the links below:
     - [2 Ship Detail - List](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/2%20Ship%20Detail%20-%20List.md)
 - [README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 
-Documentation generated automatically on 2025-06-06 11:36:59 UTC
+Documentation generated automatically on 2025-06-16 02:10:31 UTC

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Lore/Ship Technology/1 Ship Tech.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1 Ship Tech"
             }
           }
         ]
@@ -72,16 +72,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "a9677efde25ff6b0",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           },
           {
@@ -153,18 +143,6 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "ba47470cdff5607a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "01 - Main Tasking/01 - Quick_Thoughts.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 01 - Quick_Thoughts"
-            }
           }
         ]
       }
@@ -178,25 +156,29 @@
       "markdown-importer:Open format converter": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false
     }
   },
-  "active": "0919a555b523e34f",
+  "active": "b640e1a676ecc007",
   "lastOpenFiles": [
+    "Lore/Ship Technology/2 Ship Detail - List.md",
+    "Lore/Factions and Adjacent/1 Faction Overview.md",
+    "Lore/Ship Technology/1 Ship Tech.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Juvian Conlang.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Juvian Lexicon.md",
+    "Juvian Lexicon.xlsx",
+    "README.md",
     "insert_backlinks.sh",
     "Lore/1 Task List.md",
-    "README.md",
-    "Lore/Ship Technology/1 Ship Tech.md",
     "Lore/Factions and Adjacent/Archon Continuum/Archon Culture.md",
-    "Lore/Ship Technology/2 Ship Detail - List.md",
     "Lore/Ship Technology",
     "Lore/Factions and Adjacent",
-    "Lore/Factions and Adjacent/Juvian Detail/Juvian Conlang.md",
     "Lore/Factions and Adjacent/The Maid Foundation/TMF Physiology.md",
     "Lore/Factions and Adjacent/Tannon Detail/Tannon Conlang.md",
     "Lore/1.md",
     "ReadmeGen.sh",
-    "Lore/Factions and Adjacent/1 Faction Overview.md",
     "Lore/Factions and Adjacent/Juvian Detail/Juvian Lexicon.xlsx",
     "Lore/Factions and Adjacent/The Woven/The Woven Culture.md",
     "push.sh",
@@ -214,11 +196,8 @@
     "Narratives/adventure-SQM0DgQi9OM1-story-cards-22.json",
     "Narratives/The Cleaning Shorts",
     "Narratives/Galactic Phantom Anthology.md",
-    "Narratives/Galactic Phantom Anthology.docx",
-    "Narratives/Errant Audio Logs",
     "Lore/The Woven/04 Ship Basic Technology.md",
     "Lore/Factions and Adjacent/Juvian Detail/Juvian Culture.md",
-    "Lore/InterStellar TimeLine.md",
     "mma6YuefYAY-HD.jpg"
   ]
 }
