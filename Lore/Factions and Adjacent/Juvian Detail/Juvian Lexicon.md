@@ -201,7 +201,7 @@
 | When                      | voʒe                |        |       |
 | Where                     | voɸɹ                |        |       |
 | Whole                     | t'ɹek               |        |       |
-|                           |                     |        |       |
+| To Be                     | ʘaq                 |        |       |
 |                           |                     |        |       |
 |                           |                     |        |       |
 |                           |                     |        |       |
