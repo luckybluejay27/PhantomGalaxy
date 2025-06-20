@@ -202,7 +202,7 @@
 | Where                     | voɸɹ                |        |       |
 | Whole                     | t'ɹek               |        |       |
 | To Be                     | ʘaq                 |        |       |
-|                           |                     |        |       |
+| To Arrive                 | ʎek                 |        |       |
 |                           |                     |        |       |
 |                           |                     |        |       |
 |                           |                     |        |       |
