@@ -201,6 +201,24 @@ These root forms can also appear alone or as predicates in declarative, philosop
 - Reflect the Juvian view of negation as a **complete and deliberate action**, not a mere grammatical toggle.
 
 ---
+
+## Possessive Structure (Identity + ni)
+
+| Possessor     | Juvian Form   | Gloss               | Notes            |
+|---------------|---------------|---------------------|------------------|
+| I             | ǀi ni         | mine / of me        |                  |
+| You (sing.)   | ǀu ni         | yours / of you      |                  |
+| He / She      | ʒaǀ ni        | his / hers / their  |                  |
+| They (plural) | ʒaʔʒa ni      | theirs (plural)     |                  |
+| We (group)    | ʒan ni        | ours                |                  |
+| We (not grp)  | ʒanu ni       | ours (non-bonded)   |                  |
+
+# Usage Examples:
+# "This is mine." → zetka ʘaq ǀi ni
+# "That is your tool." → zetka ʘaq rottel ǀu ni
+
+---
+
 ## Prepositions
 
 ### Anchor Set
