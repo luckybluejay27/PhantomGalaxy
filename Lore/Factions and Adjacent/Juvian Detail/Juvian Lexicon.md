@@ -203,7 +203,8 @@
 | Whole                     | t'ɹek               |        |       |
 | To Be                     | ʘaq                 |        |       |
 | To Arrive                 | ʎek                 |        |       |
-|                           |                     |        |       |
+| Teɹiɸ                     | to learn            |        |       |
+| ekk(o)                    | as                  |        |       |
 |                           |                     |        |       |
 |                           |                     |        |       |
 |                           |                     |        |       |
