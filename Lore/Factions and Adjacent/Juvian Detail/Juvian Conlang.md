@@ -262,7 +262,7 @@ Without an anchor and defined vector polarity, directional commands are semantic
 | Since               | [word]           |
 | Until               | [word]           |
 | By                  | [word]           |
-| As                  | [word]           |
+| As                  | Err(o)           |
 | Afterward / Beforeward | [word]       |
 
 ### Zone-Based Conditions
