@@ -9,6 +9,7 @@
 - **This root log only covers fundamental shifts in power or major relational changes between factions, even if minor events influence such trajectories.**
 
 ---
+# Stellar Era
 
 **0 GS – The Creation of the Time Keepers Guild**
 - Marks the first trip to Alpha Centauri via commercial Terran Warp Drive.
@@ -112,3 +113,25 @@
 - The Cognition Core develops a probabilistic model to identify viable host candidates based on psychoneural dissociation tolerance and cognitive resilience.
 - A human subject—calm, emotionally flattened, and dissociative—meets the profile, with a **reduced likelihood of overfield psychosis or full personality overwrite**.
 - Preparations begin for **controlled cognitive integration**, marking the first **ethically consented experimental host** in Woven research history.
+# Accords Era
+
+**783 GS – Terran Archival Debate on Archon Intervention**
+
+- Terran councils raise formal objections to the Archon Continuum’s glassing of Hadron V, noting it as a point of contention in inter-faction discourse.
+    
+- Accusations of overreach and violation of Terran sovereignty dominate inter-faction assemblies.
+    
+- Juvians support Archon precedent, arguing it prevented systemic genocide.
+    
+- Marks the opening disputes of the Accords Era: political tension replacing open war.
+    
+- Agreements for reparation as noted by Archon Assembly for furthering support in Hadron V terraformation
+    
+
+**784 GS – Formal Maid Petition for Servant Rescission**
+
+- Delivered as a public press release and letter of complaint to the Archon Continuum.
+    
+- Issued after TMF had already revoked server access to Archon space and withdrawn accessible servants.
+    
+- Public press release and a new bill is passed to enable safe release from TMF connections to maid in Terran Space or under Terran Citizenship.
