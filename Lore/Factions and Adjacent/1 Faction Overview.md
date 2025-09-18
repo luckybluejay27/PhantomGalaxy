@@ -29,10 +29,10 @@
 ## Azar
 
 - **Personality:** Efficient, logical; sustainability-focused.
-- **Energy:** Sustainable sources.
-- **FTL:** Warp Drives.
-- **Species:** Rogue AI in robotic forms.
-- **Location:** Azar Home Territory (Columbia Caldwell 73).
+- **Energy:** Dark Energy Reactors, Microwave Spin Syphons.
+- **FTL:** High-Dimension Spacial Folding Drives.
+- **Species:** Sapient non-organic consciousnesses.
+- **Location:** Azar Quarantine Zone (Caldwell 73).
 - The Azar are myth to many and unknown to everyone else.
 
 ## The Woven
