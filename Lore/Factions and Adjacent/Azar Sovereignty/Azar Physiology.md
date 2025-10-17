@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 ### Ontological Foundation
 
 *Due to the nature of this species’ existence—being neither biological nor merely silicate—normal phylogenetic or ontological categories fall short of useful description. The Azar are not bound by material origin or evolutionary pathway. Instead, they manifest across a range of irreducible existential configurations.
