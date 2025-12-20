@@ -52,12 +52,27 @@ Juvians never pursued fossil or fission power. Their entire civilization runs on
 
 Each city breathes through its **pressure grid**, a network of geothermal pumps that circulate heated fluids and drive mechanical motion. Some power is converted to electricity for plating, sensors, and lighting, but most remains mechanical or photonic. The rhythm of these grids syncs naturally with the heartbeat beacon that drives computation, uniting power, data, and time into one planetary pulse.
 
-## Philosophy of Motion
-
-To the Juvians, stillness is inefficiency. Their machines, networks, and even power grids are built to move, pulse, and breathe in harmony. Electricity hums only in workshops and plating farms; the rest of civilization runs on the interplay of heat and light.
-
-Theirs is a world where computation is tangible—etched in metal, stored in glass, and transmitted through living light. Juvian technology is not digital in the Terran sense; it is **luminous**, each pulse an echo of the planet’s rhythm, each archive a mirror of the collective mind.
-
 ---
 
-*“The beam remembers; the dark forgets.”* — Guild proverb.
+## Juvian Kvlek - an analog transistor
+
+### 1. Resonant Core (OSC)
+- High‑Q crystalline oscillator providing a stable reference waveform
+### **2. Multi-Threshold Comparator (COMP)**
+- Doped, layered substrate dividing input amplitude into **N discrete states**
+### **3. N‑Way IO Activation Layer (IO)**
+- Literally the male end wire connecting to the next kvlek
+## Kvlek Unit
+
+1. A Kvlek
+    1. OSC, Comp and IO
+2. A Charge Well (CW) 
+    1. Holds Amplitude for the Comp. A Capacitor
+3. Feedback Loop (FL)
+    1. Drives it's own output to hold a state
+# Material Science
+- **Fungal Stone Substrate:** Biomineralized mycelial matrix acting as structural base and dopant reservoir.
+- **Resonant Silica Veins:** Quartz‑like crystalline structures providing high‑Q OSC behavior.
+- **Carbide‑Nitride Heterostructure:** Wide‑bandgap layered semiconductor forming multi‑threshold COMP regions.
+- **Charge‑Trap Stack:** Metal–oxide–nitride layers holding discrete trapped‑charge levels for CW/FL.
+- **Conductive Paths:** Metallic or metalloid traces providing passive amplitude broadcast between units.

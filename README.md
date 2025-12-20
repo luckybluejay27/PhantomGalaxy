@@ -1,4 +1,4 @@
-# Phantom Galaxy Documentation
+	# Phantom Galaxy Documentation
 
 Explore the lore of Phantom Galaxy by following the links below:
 
@@ -14,13 +14,15 @@ Explore the lore of Phantom Galaxy by following the links below:
     - **Azar Sovereignty**
       - [Azar Physiology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Azar%20Sovereignty/Azar%20Physiology.md)
     - **Juvian Detail**
+      - **Cladistics**
+        - [Organism of Juvia - Phylogeny](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Cladistics/Organism%20of%20Juvia%20-%20Phylogeny.md)
       - **Engineering**
         - [Juvian Computation](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Engineering/Juvian%20Computation.md)
       - [Juvian Conlang](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Conlang.md)
       - [Juvian Culture](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Culture.md)
       - [Juvian Government](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Government.md)
       - [Juvian Lexicon](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Lexicon.md)
-      - [Juvian Physiology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Physiology.md)
+	      - [Juvian Physiology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Physiology.md)
     - **Tannon Detail**
       - [Tannon Conlang](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Tannon%20Detail/Tannon%20Conlang.md)
       - [Tannon Culture](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Tannon%20Detail/Tannon%20Culture.md)
@@ -44,4 +46,4 @@ Explore the lore of Phantom Galaxy by following the links below:
     - [2 Ship Detail - List](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/2%20Ship%20Detail%20-%20List.md)
 - [README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 
-Documentation generated automatically on 2025-10-17 10:24:23 UTC
+Documentation generated automatically on 2025-12-20 03:50:45 UTC

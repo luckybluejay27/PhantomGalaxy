@@ -13,6 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Lore/Factions and Adjacent/Juvian Detail/Engineering/Juvian Computation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Juvian Computation"
+            }
+          },
+          {
+            "id": "7f0107e6234705cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organism of Juvia - Phylogeny.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Organism of Juvia - Phylogeny"
+            }
+          },
+          {
+            "id": "3246caaec6e8e30a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false,
@@ -30,8 +78,33 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "a5728261df89f4de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Factions and Adjacent/Juvian Detail/Juvian Lexicon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Juvian Lexicon"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,43 +234,44 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "b640e1a676ecc007",
+  "active": "3246caaec6e8e30a",
   "lastOpenFiles": [
-    "Lore/Factions and Adjacent/Azar Sovereignty/Azar Physiology.md",
+    "Lore/1 Task List.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organism of Juvia - Phylogeny.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Juvian Lexicon.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Cladistics",
+    "Lore/Factions and Adjacent/Juvian Detail/Juvian Physiology.md",
     "Lore/Factions and Adjacent/Juvian Detail/Engineering/Juvian Computation.md",
-    "Lore/Factions and Adjacent/Azar Sovereignty",
-    "README.md",
-    "Lore/Factions and Adjacent/The Maid Foundation/TMF Physiology.md",
-    "Lore/Factions and Adjacent/Juvian Detail/Engineering",
-    "Lore/Factions and Adjacent/Juvian Detail/Juvian Life",
-    "Lore/Factions and Adjacent/The Maid Foundation/TMF Government.md",
+    "Lore/Ship Technology/2 Ship Detail - List.md",
+    "Lore/Ship Technology/1 Ship Tech.md",
+    "Lore/Factions and Adjacent/The Woven/The Woven Culture.md",
     "Lore/Factions and Adjacent/The Woven/The Woven Biology.md",
     "Lore/Factions and Adjacent/The Woven/The Woven 'Government'.md",
     "Lore/Factions and Adjacent/The Woven/The Woven 'Conlang'.md",
-    "Lore/Factions and Adjacent/1 Faction Overview.md",
-    "Lore/InterStellar TimeLine.md",
-    "Lore/1 Task List.md",
-    "Lore/Ship Technology/1 Ship Tech.md",
-    "Lore/Ship Technology/2 Ship Detail - List.md",
+    "Lore/Factions and Adjacent/The Maid Foundation/TMF Psychology.md",
+    "Lore/Factions and Adjacent/The Maid Foundation/TMF Physiology.md",
+    "Lore/Factions and Adjacent/The Maid Foundation/TMF Government.md",
+    "Lore/Factions and Adjacent/Terran Federation/Terran Government.md",
+    "Lore/Factions and Adjacent/Terran Federation/Terran Culture.md",
+    "Lore/Factions and Adjacent/Tannon Detail/Tannon Physiology.md",
+    "Lore/Factions and Adjacent/Tannon Detail/Tannon Government.md",
+    "Lore/Factions and Adjacent/Tannon Detail/Tannon Culture.md",
+    "Lore/Factions and Adjacent/Tannon Detail/Tannon Conlang.md",
+    "Lore/Factions and Adjacent/Azar Sovereignty/Azar Physiology.md",
+    "Lore/Factions and Adjacent/Archon Continuum/Archon Physiology Overview (Composite Species).md",
+    "Lore/Factions and Adjacent/Archon Continuum/Archon Government.md",
+    "Lore/Factions and Adjacent/Archon Continuum/Archon Equivalent Conlang.md",
+    "Lore/Factions and Adjacent/Archon Continuum/Archon Culture.md",
     "Lore/Factions and Adjacent/Juvian Detail/Juvian Conlang.md",
-    "Lore/Factions and Adjacent/Juvian Detail/Juvian Lexicon.md",
+    "Lore/Factions and Adjacent/Azar Sovereignty",
+    "Lore/Factions and Adjacent/Juvian Detail/Engineering",
+    "Lore/Factions and Adjacent/Juvian Detail/Juvian Life",
     "Juvian Lexicon.xlsx",
     "insert_backlinks.sh",
-    "Lore/Factions and Adjacent/Archon Continuum/Archon Culture.md",
     "Lore/Ship Technology",
     "Lore/Factions and Adjacent",
-    "Lore/Factions and Adjacent/Tannon Detail/Tannon Conlang.md",
-    "Lore/1.md",
     "ReadmeGen.sh",
     "Lore/Factions and Adjacent/Juvian Detail/Juvian Lexicon.xlsx",
-    "Lore/Factions and Adjacent/The Woven/The Woven Culture.md",
-    "push.sh",
-    "Narratives/The Cleaning Shorts/Woven.md",
-    "Narratives/The Cleaning Shorts/Tannon-Avian.md",
-    "Narratives/The Cleaning Shorts/Tannon - Saurian.md",
-    "Narratives/The Cleaning Shorts/Juvian.md",
-    "Narratives/The Cleaning Shorts/Finale.md",
-    "Narratives/The Cleaning Shorts/Archon Synth.md",
     "mma6YuefYAY-HD.jpg"
   ]
 }
