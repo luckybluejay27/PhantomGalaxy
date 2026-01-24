@@ -1,3 +1,4 @@
+
 [← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 
 # Ship Systems Orientation Pamphlet
@@ -12,7 +13,7 @@ This pamphlet won’t turn you into a pilot. But it will show you where to begin
 
 ### Cosmological Engineering Baseline
 
-Terran vessels are operated using the **Internal Spatial Compression Drive (ISCD)**—a relativistic propulsion standard first developed alongside the earliest orbital testbeds. Based on controlled application of the Alcubierre metric and Casimir vacuum resonance, ISCD does not drag space around the ship, but instead **contracts the traversal corridor** ********_**within**_******** **the ship's own spatial domain**.
+Terran vessels are operated using the **Internal Spatial Compression Drive (ISCD)**—a relativistic compression standard first developed alongside the earliest orbital testbeds. Based on controlled application of the Alcubierre metric and Casimir vacuum resonance, ISCD does not drag space around the ship, but instead **contracts the traversal corridor** ********_**within**_******** **the ship's own spatial domain**.
 
 Every Terran ship is fundamentally a **ringframe structure**—not a tube with rings attached, but a spatially-integrated lattice in which the **hull** ********_**is**_******** **the containment field**. These rings generate a controlled spacetime well internally, shortening the realspace distance the ship must cross without ever violating external causality.
 
@@ -22,13 +23,13 @@ The benefit of this design is twofold:
 
 Compression capacity is inherently limited by structural tolerance, thermal buildup, and field phase slippage. The deeper the contraction, the more internal stress is distributed through the ringframe, and the greater the risk of nullshock or coherence collapse.
 
-But when operated within standard Guild thresholds, the ISCD allows Terran ships to traverse interstellar space at relativistically-refracted velocities—fast enough to shrink galactic travel into months, not centuries, without ever crossing into true superluminal distortion.
+But when operated within standard Guild thresholds, the ISCD allows Terran ships to traverse interstellar space at relativistically compressed velocity, fast enough to shrink galactic travel into months, not centuries, without ever crossing into true superluminal distortion.
 
 This framework defines all Terran interstellar vessel architecture. From scout ships to mobile colonies, the ring is not an accessory—it is _the vessel_. And within it, space bends inward so that the crew may keep moving forward.
 
 ### Turning Theory Into Travel
 
-Once the rings could move, Terrans had to learn how to _steer them_. Warp wasn't just a power source—it was a pressure system. Small changes to timing, mass symmetry, or field alignment could mean the difference between a smooth glide and a catastrophic drop.
+Once the rings could move, Terrans had to learn how to _steer them_. Small changes to timing, mass symmetry, or field alignment could mean the difference between a smooth glide and a catastrophic drop.
 
 To manage that, engineers developed a layered interface model. Pilots use analog throttle banks, rotary syncs, and physical toggles to align field vectors and maintain inertial consistency. Navigation is less about plotting a course and more about _tuning_ the ship into harmony with the spacetime it bends.
 
@@ -46,10 +47,10 @@ _Note:_ Even with advanced computation, warp jumps are imprecise by nature. Stel
 
 This is the heart of flight: the analog sticks, rudder pedals, throttle banks, and levered control arrays that allow the pilot to orient the ship in realspace and shape warp geometry. Every critical thrust and course correction originates here. It is mechanical. Physical. Immune to interference.
 
-**2. Diagnostic Control**  
+**2. Diagnostic Control**
 Digital overlays, touchscreens, and command-line terminals give the crew insight into fuel ratios, temperature gradients, subsystem drift, and warp tension. These systems do not fly the ship—they _advise_, _warn_, and _predict_. Think of them as the pulse readers and telemetry echoes of the hull.
 
-**3. Interpretive & Communicative Control**  
+**3. Interpretive & Communicative Control**
 Navigation data, signal pings, AI traffic coordination—none of it touches the flight systems. Communications are physically isolated from propulsion and navigation, routed through band-locked, manually switchable interfaces. Even quantum-linked messages pass through filtered buffers, never direct.
 
 Together, these three tiers form a hardened architecture: a vessel you can understand, isolate, repair, and trust. Every control surface is deliberate. Every system partitioned. In space, trust is not a feeling. It is a layout.
@@ -62,7 +63,7 @@ In orbital contexts, glide means managing inertia. Terran ships use magneto-plas
 
 No landing system is infinite. Pulse cartridges, ablative surfaces, and ballast adjusters are burned, warped, or depleted on every drop. If a ship lands, it expects to leave only by another’s help: orbital cranes, VTOL recovery, or resupply cradle. Though ships of these scales do not land so much as stop moving nearby an orbital station.
 
-As such mathematics is paramount. 
+As such mathematics is paramount.
 
 ### Maintenance & Recovery: The Art of the Space Janitor
 
@@ -124,13 +125,9 @@ If you're drawn to logistics, coordination, or operational oversight, this may b
 Study paths include:
 
 - Shift cycle management and personnel rotation
-    
 - Resource dispatch and system handoff tracking
-    
 - Section reporting, operational triage, and escalation
-    
 - Emergency override protocol and decision framing under duress
-    
 
 Command on a starship is distributed by design. Section leads don’t give orders—they give _structure_. They observe load. They notice silence. They keep the right hands on the right controls, and speak clearly when no one else can.
 
@@ -147,11 +144,8 @@ If you’re considering stepping forward, begin with the **Terran Guild Registry
 You might begin with:
 
 - A clearance trial in your local diagnostics ring
-    
 - Applied coursework aboard a civilian transit runner
-    
 - Or assisting a licensed technician in the simplest repairs
-    
 
 You won't be handed a title. You'll be handed a tool. Where you take it is yours to earn.
 

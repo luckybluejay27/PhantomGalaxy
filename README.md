@@ -1,4 +1,4 @@
-	# Phantom Galaxy Documentation
+# Phantom Galaxy Documentation
 
 Explore the lore of Phantom Galaxy by following the links below:
 
@@ -22,7 +22,7 @@ Explore the lore of Phantom Galaxy by following the links below:
       - [Juvian Culture](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Culture.md)
       - [Juvian Government](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Government.md)
       - [Juvian Lexicon](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Lexicon.md)
-	      - [Juvian Physiology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Physiology.md)
+      - [Juvian Physiology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Physiology.md)
     - **Tannon Detail**
       - [Tannon Conlang](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Tannon%20Detail/Tannon%20Conlang.md)
       - [Tannon Culture](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Tannon%20Detail/Tannon%20Culture.md)
@@ -44,6 +44,7 @@ Explore the lore of Phantom Galaxy by following the links below:
   - **Ship Technology**
     - [1 Ship Tech](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/1%20Ship%20Tech.md)
     - [2 Ship Detail - List](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/2%20Ship%20Detail%20-%20List.md)
+    - [Compression Ratios](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Compression%20Ratios.md)
 - [README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 
-Documentation generated automatically on 2025-12-20 03:50:45 UTC
+Documentation generated automatically on 2026-01-24 03:42:53 UTC

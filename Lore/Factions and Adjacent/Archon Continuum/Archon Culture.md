@@ -52,3 +52,9 @@ To an outsider, an **Archon city** might feel **vibrant, chaotic, and endlessly 
 - **The Maid Foundation? They find the lack of hierarchy amusing.**
 
 In the end, the Archon Continuum is not a utopia, nor a dystopia—it is a civilization that is **always in motion, always questioning, and always reaching for something greater.**
+
+--- Archon Equiv Conland ---
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
+NOTE TO SELF:
+Archon's use a variety of languages, none hold major importance, but organics do use a form of Terran Primary (Fusion Chinese English) as a standard.

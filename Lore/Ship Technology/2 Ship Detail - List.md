@@ -1,31 +1,32 @@
+
 [← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 
 # Terran Freelance StarShip Classes
 
 ## Nimbus Class
 
-- **Size:** 40–70 meters
+- **Size:** 70 - 120 meters
 - **Crew:** 5–10
 - **Cargo Space:** Small (suitable for personal goods, tools, or small deliveries)
 - **Role:** Agile, quiet planetary and low-orbit transport for freelancers. Ideal for small-scale tasks.
 
 ## Zephyr Class
 
-- **Size:** 75–120 meters
+- **Size:** 130 - 220 meters
 - **Crew:** 10–20
 - **Cargo Space:** Medium (modular bays for goods, equipment, or light industrial tools)
 - **Role:** Multi-role mid-range ship for freelancers needing greater capability and flexibility.
 
 ## Stratus Class
 
-- **Size:** 150–200 meters
+- **Size:** 260 - 380 meters
 - **Crew:** 15–30
 - **Cargo Space:** Large (designed for frequent trade and medium-scale freight)
 - **Role:** Civilian-grade freighter for orbital-to-ground supply chains or trade routes.
 
 ## Atlas Class
 
-- **Size:** 250–400 meters
+- **Size:** 500 – 800 meters
 - **Crew:** 50–100
 - **Cargo Space:** Very Large (supports modular docking bays, supply storage, and repair facilities)
 - **Role:** Portable dock point for smaller vessels, high-class escort capabilities, and flagship supply ship for long-range operations.
@@ -34,28 +35,28 @@
 
 ## Intrepid Class
 
-- **Size:** 40–70 meters
+- **Size:** 60 - 100 meters
 - **Crew:** 2–6
 - **Cargo Space:** Small (suitable for exploration and personal tasks)
 - **Role:** Agile exploratory ships for freelancers venturing into unknown territories.
 
 ## Resolute Class
 
-- **Size:** 75–120 meters
+- **Size:** 80 to 140 meters
 - **Crew:** 8–16
 - **Cargo Space:** Medium (adaptable for various mission profiles)
 - **Role:** Multi-purpose ships embodying persistence and adaptability in challenging missions.
 
 ## Virtuous Class
 
-- **Size:** 150–200 meters
+- **Size:** 160 – 300 meters
 - **Crew:** 20–36
 - **Cargo Space:** Large (designed for ethical trade and long-haul delivery)
 - **Role:** Freighters symbolizing ethical responsibility and cooperation.
 
 ## Socratic Class
 
-- **Size:** 250–400 meters
+- **Size:** 350+ meters
 - **Crew:** 52–104
 - **Cargo Space:** Very Large (optimized for knowledge gathering and resource distribution)
 - **Role:** Flagship vessels dedicated to fostering dialogue, exploration, and the dissemination of knowledge.
@@ -145,3 +146,4 @@
 - **Gravity Wells** – If a ship jumps too close to a gravity well without sufficient thrust to escape, extreme acceleration forces cause hull fractures and structural stress.
 - **Signal Disruptors** – If caught in an EM radiation field or signal jammer, a ship may drop out of FTL while maintaining real-space acceleration below light speed.
 - **Faulty Navigation Data** – Incorrect FTL calculations can send a ship into an asteroid field, a star, planetary atmosphere, or a completely random location with a fried navigation console.
+

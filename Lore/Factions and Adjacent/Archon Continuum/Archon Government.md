@@ -1,3 +1,4 @@
+
 [← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 
 The **Archon Continuum** operates on a **quadratic balance system**, ensuring that no single branch dominates the others. It is a **highly adaptable government** built on the ethos of **"A Society of Rebels"**, where laws and leadership evolve through merit, debate, and necessity. The system is decentralized, fostering independence, intellectual freedom, and governance by **those who prove their capacity to lead.**
@@ -31,7 +32,7 @@ The **Archon Continuum** is governed by four **co-equal branches**, each fulfill
 - **Head Guild:** Prime Scholar
 - **Mission:** Scientific discovery, medicine, and technology regulation.
 - **Subdivisions:**
-    
+
     - **Medical & Genetic Sciences** – Oversees interspecies healthcare and biosecurity.
     - **Engineering & Infrastructure** – Develops starships, energy systems, and AI governance.
     - **Ecological & Environmental Sciences** – Studies planetary ecosystems and terraforming.
@@ -62,9 +63,11 @@ The **Archon Continuum** is governed by four **co-equal branches**, each fulfill
 ## **Archon’s Neutrality in War**
 
 - **Archon refuses to participate in the Terran-Juvian vs. Tannon war** because:
-    - **They are not a military power** – Their Security Division is not an army.
+    - **They do not maintain a standing war-economy or territorial military** – Their Security Division is not an army.
     - **They prioritize post-war stability** – Instead of fighting, they **prepare to rebuild.**
     - **They uphold neutrality** – Picking sides would compromise **diplomatic balance.**
+
+    Neutrality is not pacifism: Archon intervention is permitted under defined ethical-jurisprudential thresholds
 ## **Cultural Ethos: "A Society of Rebels"**
 The **Archon Continuum** is defined by its refusal to accept stagnation, tradition, or blind authority. Their philosophy is built on
 - **Rebellion as a Founding Principle** – Every law, system, and leader can be challenged and reformed.

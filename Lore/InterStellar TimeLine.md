@@ -7,7 +7,7 @@
 - **dGS serves as the primary unit for short-term events, navigation logs, and administration.**
 - **This system ensures consistent interstellar record-keeping across factions.**
 - **This root log only covers fundamental shifts in power or major relational changes between factions, even if minor events influence such trajectories.**
-
+- **GS uses Terran Standard Time (TST) as defined by the current Terran calendar (36-hour day)**
 ---
 # Stellar Era
 
@@ -16,7 +16,7 @@
 - Outpost established on Mars. Servers are officially initialized, and the government rescinds the guild's citizenship.
 
 **112 GS – Radio contact from unknown source captured on Venus Super Dish.**
-- **154 GS 010 dGS – First contact by Terran forces with Juvia.**\
+- **154 GS 010 dGS – First contact by Terran forces with Juvia.**
 - **154 GS 012 dGS – Observers translate Juvian to English. Ambassadors are exchanged.**
 
 **213 GS – Treaty of Unity**
@@ -118,20 +118,13 @@
 **783 GS – Terran Archival Debate on Archon Intervention**
 
 - Terran councils raise formal objections to the Archon Continuum’s glassing of Hadron V, noting it as a point of contention in inter-faction discourse.
-    
 - Accusations of overreach and violation of Terran sovereignty dominate inter-faction assemblies.
-    
 - Juvians support Archon precedent, arguing it prevented systemic genocide.
-    
 - Marks the opening disputes of the Accords Era: political tension replacing open war.
-    
 - Agreements for reparation as noted by Archon Assembly for furthering support in Hadron V terraformation
-    
 
 **784 GS – Formal Maid Petition for Servant Rescission**
 
 - Delivered as a public press release and letter of complaint to the Archon Continuum.
-    
 - Issued after TMF had already revoked server access to Archon space and withdrawn accessible servants.
-    
 - Public press release and a new bill is passed to enable safe release from TMF connections to maid in Terran Space or under Terran Citizenship.
