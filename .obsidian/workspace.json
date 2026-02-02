@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Factions and Adjacent/1 Faction Overview.md",
+                "file": "Lore/Ship Technology/Compression Ratios.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1 Faction Overview"
+              "title": "Compression Ratios"
+            }
+          },
+          {
+            "id": "06879cc8bed37c43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Ship Technology/1 Ship Tech.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1 Ship Tech"
+            }
+          },
+          {
+            "id": "aacc8aea1ad750f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Ship Technology/2 Ship Detail - List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2 Ship Detail - List"
             }
           }
         ]
@@ -163,9 +211,10 @@
   },
   "active": "b640e1a676ecc007",
   "lastOpenFiles": [
+    "Lore/Ship Technology/1 Ship Tech.md",
     "Lore/Ship Technology/Compression Ratios.md",
     "Lore/Ship Technology/2 Ship Detail - List.md",
-    "Lore/Ship Technology/1 Ship Tech.md",
+    "Lore/Factions and Adjacent/1 Faction Overview.md",
     "Lore/InterStellar TimeLine.md",
     "Lore/Factions and Adjacent/Archon Continuum/Archon Physiology Overview (Composite Species).md",
     "Lore/Factions and Adjacent/Archon Continuum/Archon Government.md",
@@ -189,7 +238,6 @@
     "Lore/Factions and Adjacent/Terran Federation/Terran Government.md",
     "Lore/Factions and Adjacent/Terran Federation/Terran Culture.md",
     "Lore/Factions and Adjacent/Tannon Detail/Tannon Physiology.md",
-    "Lore/Factions and Adjacent/Tannon Detail/Tannon Government.md",
     "Lore/Factions and Adjacent/Azar Sovereignty",
     "Lore/Factions and Adjacent/Juvian Detail/Engineering",
     "Lore/Factions and Adjacent/Juvian Detail/Juvian Life",
