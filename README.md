@@ -44,7 +44,8 @@ Explore the lore of Phantom Galaxy by following the links below:
   - **Ship Technology**
     - [1 Ship Tech](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/1%20Ship%20Tech.md)
     - [2 Ship Detail - List](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/2%20Ship%20Detail%20-%20List.md)
+    - [3 - Ship Materials](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/3%20-%20Ship%20Materials.md)
     - [Compression Ratios](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Compression%20Ratios.md)
 - [README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 
-Documentation generated automatically on 2026-02-02 03:11:12 UTC
+Documentation generated automatically on 2026-02-02 08:51:05 UTC

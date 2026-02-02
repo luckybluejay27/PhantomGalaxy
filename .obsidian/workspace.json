@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Ship Technology/1 Ship Tech.md",
+                "file": "Lore/Ship Technology/3 - Ship Materials.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1 Ship Tech"
+              "title": "3 - Ship Materials"
             }
           },
           {
@@ -211,9 +211,10 @@
   },
   "active": "b640e1a676ecc007",
   "lastOpenFiles": [
+    "Lore/Ship Technology/3 - Ship Materials.md",
     "Lore/Ship Technology/1 Ship Tech.md",
-    "Lore/Ship Technology/Compression Ratios.md",
     "Lore/Ship Technology/2 Ship Detail - List.md",
+    "Lore/Ship Technology/Compression Ratios.md",
     "Lore/Factions and Adjacent/1 Faction Overview.md",
     "Lore/InterStellar TimeLine.md",
     "Lore/Factions and Adjacent/Archon Continuum/Archon Physiology Overview (Composite Species).md",
@@ -237,7 +238,6 @@
     "Lore/Factions and Adjacent/The Maid Foundation/TMF Government.md",
     "Lore/Factions and Adjacent/Terran Federation/Terran Government.md",
     "Lore/Factions and Adjacent/Terran Federation/Terran Culture.md",
-    "Lore/Factions and Adjacent/Tannon Detail/Tannon Physiology.md",
     "Lore/Factions and Adjacent/Azar Sovereignty",
     "Lore/Factions and Adjacent/Juvian Detail/Engineering",
     "Lore/Factions and Adjacent/Juvian Detail/Juvian Life",
