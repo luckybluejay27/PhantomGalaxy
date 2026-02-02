@@ -48,4 +48,4 @@ Explore the lore of Phantom Galaxy by following the links below:
     - [Compression Ratios](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Compression%20Ratios.md)
 - [README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 
-Documentation generated automatically on 2026-02-02 08:51:05 UTC
+Documentation generated automatically on 2026-02-02 11:49:48 UTC
