@@ -15,7 +15,8 @@ Explore the lore of Phantom Galaxy by following the links below:
       - [Azar Physiology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Azar%20Sovereignty/Azar%20Physiology.md)
     - **Juvian Detail**
       - **Cladistics**
-        - [Organism of Juvia - Phylogeny](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Cladistics/Organism%20of%20Juvia%20-%20Phylogeny.md)
+        - [Organisms of Juvia - Phylogeny](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Cladistics/Organisms%20of%20Juvia%20-%20Phylogeny.md)
+        - [Roqutet](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Cladistics/Roqutet.md)
       - **Engineering**
         - [Juvian Computation](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Engineering/Juvian%20Computation.md)
       - [Juvian Conlang](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Conlang.md)
@@ -36,10 +37,10 @@ Explore the lore of Phantom Galaxy by following the links below:
       - [TMF Physiology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Maid%20Foundation/TMF%20Physiology.md)
       - [TMF Psychology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Maid%20Foundation/TMF%20Psychology.md)
     - **The Woven**
-      - [The Woven Biology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20Biology.md)
       - [The Woven 'Conlang'](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20'Conlang'.md)
-      - [The Woven Culture](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20Culture.md)
       - [The Woven 'Government'](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20'Government'.md)
+      - [The Woven Biology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20Biology.md)
+      - [The Woven Culture](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20Culture.md)
   - [InterStellar TimeLine](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/InterStellar%20TimeLine.md)
   - **Ship Technology**
     - [1 Ship Tech](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/1%20Ship%20Tech.md)
@@ -48,4 +49,4 @@ Explore the lore of Phantom Galaxy by following the links below:
     - [Compression Ratios](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Compression%20Ratios.md)
 - [README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 
-Documentation generated automatically on 2026-02-02 11:49:48 UTC
+Documentation generated automatically on 2026-02-22 11:56:53 UTC

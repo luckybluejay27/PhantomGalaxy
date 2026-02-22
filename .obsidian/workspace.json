@@ -78,9 +78,57 @@
               "icon": "lucide-file",
               "title": "2 Ship Detail - List"
             }
+          },
+          {
+            "id": "a2102943d6149f0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Roqutet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Roqutet"
+            }
+          },
+          {
+            "id": "a6f3a4e159821c4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Factions and Adjacent/Juvian Detail/Juvian Lexicon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Juvian Lexicon"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,10 +258,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "aacc8aea1ad750f4",
+  "active": "a2102943d6149f0a",
   "lastOpenFiles": [
-    "Lore/Ship Technology/Compression Ratios.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organisms of Juvia - Phylogeny.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Roqutet.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Juvian Physiology.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Juvian Lexicon.md",
     "Lore/Ship Technology/2 Ship Detail - List.md",
+    "Lore/Ship Technology/Compression Ratios.md",
     "Lore/Ship Technology/3 - Ship Materials.md",
     "Lore/Ship Technology/1 Ship Tech.md",
     "Lore/Factions and Adjacent/1 Faction Overview.md",
@@ -223,13 +275,10 @@
     "Lore/Factions and Adjacent/Archon Continuum/Archon Equivalent Conlang.md",
     "Lore/Factions and Adjacent/Juvian Detail/Engineering/Juvian Computation.md",
     "Lore/Factions and Adjacent/Archon Continuum/Archon Culture.md",
-    "Lore/Factions and Adjacent/Juvian Detail/Juvian Lexicon.md",
     "Lore/Factions and Adjacent/Azar Sovereignty/Azar Physiology.md",
-    "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organism of Juvia - Phylogeny.md",
     "README.md",
     "Lore/1 Task List.md",
     "Lore/Factions and Adjacent/Juvian Detail/Cladistics",
-    "Lore/Factions and Adjacent/Juvian Detail/Juvian Physiology.md",
     "Lore/Factions and Adjacent/The Woven/The Woven Culture.md",
     "Lore/Factions and Adjacent/The Woven/The Woven Biology.md",
     "Lore/Factions and Adjacent/The Woven/The Woven 'Government'.md",
@@ -238,7 +287,6 @@
     "Lore/Factions and Adjacent/The Maid Foundation/TMF Physiology.md",
     "Lore/Factions and Adjacent/The Maid Foundation/TMF Government.md",
     "Lore/Factions and Adjacent/Terran Federation/Terran Government.md",
-    "Lore/Factions and Adjacent/Terran Federation/Terran Culture.md",
     "Lore/Factions and Adjacent/Azar Sovereignty",
     "Lore/Factions and Adjacent/Juvian Detail/Engineering",
     "Lore/Factions and Adjacent/Juvian Detail/Juvian Life",

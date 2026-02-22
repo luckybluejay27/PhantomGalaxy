@@ -8,7 +8,7 @@ This article provides an overview only and does not enumerate species or lower t
 
 ---
 
-## Roqutet
+## [Roqutet](obsidian://open?vault=PhantomGalaxy&file=Lore%2FFactions%20and%20Adjacent%2FJuvian%20Detail%2FCladistics%2FRoqutet)
 
 Roqutet are organisms defined by **mobility‑dependent consumption**.
 

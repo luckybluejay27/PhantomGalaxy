@@ -203,10 +203,10 @@
 | When                      | voʒe                |        |       |
 | Where                     | voɸɹ                |        |       |
 | Whole                     | t'ɹek               |        |       |
-|                           |                     |        |       |
-|                           |                     |        |       |
-|                           |                     |        |       |
-|                           |                     |        |       |
+| Skeleton                  | Roqi                |        |       |
+| To have                   | oriʔɸi              |        |       |
+| Inside                    | vʊili               |        |       |
+| To lack                   | ʒeliɸi              |        |       |
 |                           |                     |        |       |
 |                           |                     |        |       |
 |                           |                     |        |       |
