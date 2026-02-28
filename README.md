@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 # Phantom Galaxy Documentation
 
 Explore the lore of Phantom Galaxy by following the links below:

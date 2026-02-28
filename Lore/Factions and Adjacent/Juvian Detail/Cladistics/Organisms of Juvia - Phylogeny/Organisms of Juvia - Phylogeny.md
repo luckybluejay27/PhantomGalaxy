@@ -8,7 +8,7 @@ This article provides an overview only and does not enumerate species or lower t
 
 ---
 
-## [Roqutet](obsidian://open?vault=PhantomGalaxy&file=Lore%2FFactions%20and%20Adjacent%2FJuvian%20Detail%2FCladistics%2FRoqutet)
+## [[Roqutet|Roqutet]]
 
 Roqutet are organisms defined by **mobility‑dependent consumption**.
 
@@ -17,13 +17,9 @@ Organisms classified under Roqutet require **self‑directed locomotion** to acq
 Roqutet lineages typically exhibit:
 
 - Persistent individual bodily identity
-    
 - Active predation, foraging, or scavenging behaviors
-    
 - Internal transport systems supporting rapid response
-    
 - Evolutionary pressure favoring coordination, perception, and decision‑making
-    
 
 Mobility alone is not sufficient for Roqutet classification; rather, **the inability to survive without directed movement** is the defining criterion.
 

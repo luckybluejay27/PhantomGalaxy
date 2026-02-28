@@ -1,4 +1,6 @@
 [← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
+[]()[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 ### **Galactic Spins (GS) – Timekeeping Standard**
 
 - **A Galactic Spin (GS) is one ten-millionth of a full galactic rotation (\~22.5 Terran Years).**
@@ -23,12 +25,13 @@
 - Juvians and Terrans agree to a pact for free trade and population integration.
 
 **213 GS 014 dGS – Permanent Juvian residence in Sol System. Juvian members added to the guild.**
-
 **215 GS – The Great Schism**
 - Due to rebel activity and AI rampancy, a large faction of human-controlled robots flee the system.
 
-**220 GS – The Archon Legacy (now Archon Continuum) requests official designation.**
+**218 GS – Terran–Juvian Federal Charter Framework Submitted**
+- A formal charter framework is submitted to establish a permanent joint governance layer for inter-sector law, transit standards, arbitration, and biosecurity across Terran and Juvian jurisdictions.
 
+**220 GS – The Archon Legacy (now Archon Continuum) requests official designation.**
 - **220 GS 123 dGS – Deliberations occur.**
 - **220 GS 124 dGS – The Riots of 124**: Terran civilians blockade Pluto Station, destroying military property in protest of Archon recognition.
 - **221 GS 136 dGS – Bill of Synthetic Rights is passed.**
@@ -36,7 +39,22 @@
 - **221 GS 200 dGS – Glassing of Virming 2**: Archon forces glass a dissident planet following major losses.
 - **221 GS 138 dGS – Attack on Pluto Harbor**: Terran dissidents attempt to assassinate Archon Seraphim 3 Vdelta4. The diplomat escapes to Venus.
 
-**248 GS 956 dGS – Terran recognition of Archon.**
+**227 GS – Ratification of the Two-Sector Federal Charter; Joint Governance Department Founded**
+- The Two-Sector Federal Charter is ratified, creating the Joint Governance Department to administer interfaction legal and transit mechanisms between Terran and Juvian space.
+
+**230 GS – Public Promulgation of the TwoFaction Constitution**
+- The TwoFaction Constitution is publicly promulgated, formalizing Terran–Juvian federation status at the inter-sector layer while preserving internal sovereignty of each sector.
+
+**240 GS – Department of Intersector Legal Recognition Established (JGD)**
+- A Joint Governance Department branch is established to standardize intersector civilian legal status, medical-rights interfacing, and cross-jurisdiction recognition across Terran and Juvian space.
+- **241 GS 005 dGS – Liaison Clinic Requirement**: Clinics providing intersector aid are required to maintain accredited JGD liaisons to ensure lawful interoperability, consent standards, and rights continuity.
+- **241 GS 008 dGS – Intersector Biosecurity Office Activated (JGD)**: A dedicated office launches to unify quarantine classifications, emergency-response interoperability, professional licensing equivalency, and environmental-medicine standards across both sectors.
+
+**248 GS – Launch of the Hybrid Program**
+- A government-backed, voluntary interspecies program is publicly launched to develop lawful compatibility pathways under charter oversight, framed as a long-horizon stability and integration initiative with federation-wide personhood and biosecurity implications.
+
+**248 GS 956 dGS – Terran recognition of Archon**
+- 267 GS 004 dGS - First verified viable hybrid lineage confirmed
 
 **481 GS – Expansionist Freelancer Contact with Unknown Biological Vessel**
 - Expansionist Freelancers construct a warp-lane relay outpost in Zone L-Null.
