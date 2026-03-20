@@ -43,6 +43,14 @@
 - **Species:** Planetary scale fungal consciousness.
 - **Location:** Scattered regions.
 
+## Ikee'Ikee Hives
+
+- **Personality:** Efficient, pragmatic, ritualistic; migratory.
+- **Energy:** Biological Fusion Reactors.
+- **FTL:** WIP.
+- **Species:** Sapient non-humanoid insect.
+- **Location:** Scattered regions.
+
 ## The Maid Foundation
 
 - **Type:** Plurally Synthetic Faction

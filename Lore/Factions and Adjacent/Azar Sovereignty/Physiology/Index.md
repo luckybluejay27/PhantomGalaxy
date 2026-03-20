@@ -7,7 +7,7 @@ Each Azar may shift freely between these modes of being. These states are not ra
 
 # Irreducible States of Being (IRSB)
 
-## Dormant
+## [Dormant](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 
 Dormant individuals rest deep within memory banks in the species most secure datacenters. The closest biological term is "suspended animation". Individuals that are made dormant are usually done so out of personal choice, or as a form of punishment. While dormant, an individual cannot be, and cannot experience at all. While it is temporally instantaneous from the dormant Azar's point of view, they miss anything that occurs during their dormancy. Dormancy also allows an individuals being to be laid bare to mind-walkers, Azar specialists who work to repair damaged individuals on the most core level.
 
