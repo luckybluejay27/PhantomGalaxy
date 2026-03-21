@@ -36,13 +36,9 @@ A defining feature of Anetet lineages is the presence of **internal transport me
 Anetet lineages typically exhibit:
 
 - Fixed or growth‑limited spatial anchoring
-    
 - Structural expansion rather than movement
-    
 - Environmental energy conversion
-    
 - Long persistence cycles relative to Roqutet organisms
-    
 
 ---
 
@@ -57,13 +53,9 @@ Growth in Pirutet lineages follows substrate availability rather than internal d
 Pirutet lineages typically exhibit:
 
 - Absorptive or invasive nutrient acquisition
-    
 - Limited or absent locomotion
-    
 - Colony‑based or field‑distributed identity
-    
 - Strong ecological dependence on other kingdoms
-    
 
 ---
 
