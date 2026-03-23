@@ -1,5 +1,3 @@
-[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
-
 # Phantom Galaxy Documentation
 
 Explore the lore of Phantom Galaxy by following the links below:
@@ -14,11 +12,17 @@ Explore the lore of Phantom Galaxy by following the links below:
       - [Archon Government](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Archon%20Continuum/Archon%20Government.md)
       - [Archon Physiology Overview (Composite Species)](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Archon%20Continuum/Archon%20Physiology%20Overview%20(Composite%20Species).md)
     - **Azar Sovereignty**
-      - [Azar Physiology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Azar%20Sovereignty/Azar%20Physiology.md)
+      - **Physiology**
+        - [Dormant State of Being](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Azar%20Sovereignty/Physiology/Dormant%20State%20of%20Being.md)
+        - [Index](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Azar%20Sovereignty/Physiology/Index.md)
+    - **Ikee'Ikee Hives**
+      - [overview](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Ikee'Ikee%20Hives/overview.md)
     - **Juvian Detail**
       - **Cladistics**
-        - [Organisms of Juvia - Phylogeny](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Cladistics/Organisms%20of%20Juvia%20-%20Phylogeny.md)
-        - [Roqutet](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Cladistics/Roqutet.md)
+        - **Organisms of Juvia - Phylogeny**
+          - [Organisms of Juvia - Phylogeny](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Cladistics/Organisms%20of%20Juvia%20-%20Phylogeny/Organisms%20of%20Juvia%20-%20Phylogeny.md)
+          - **Roqutet**
+            - [Roqutet](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Cladistics/Organisms%20of%20Juvia%20-%20Phylogeny/Roqutet/Roqutet.md)
       - **Engineering**
         - [Juvian Computation](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Engineering/Juvian%20Computation.md)
       - [Juvian Conlang](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/Juvian%20Detail/Juvian%20Conlang.md)
@@ -45,10 +49,12 @@ Explore the lore of Phantom Galaxy by following the links below:
       - [The Woven Culture](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20Culture.md)
   - [InterStellar TimeLine](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/InterStellar%20TimeLine.md)
   - **Ship Technology**
+    - [04 - Ship Engineering](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/04%20-%20Ship%20Engineering.md)
     - [1 Ship Tech](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/1%20Ship%20Tech.md)
     - [2 Ship Detail - List](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/2%20Ship%20Detail%20-%20List.md)
     - [3 - Ship Materials](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/3%20-%20Ship%20Materials.md)
     - [Compression Ratios](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Compression%20Ratios.md)
 - [README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+- [rando](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/rando.md)
 
-Documentation generated automatically on 2026-02-22 11:56:53 UTC
+Documentation generated automatically on 2026-03-23 11:13:42 UTC

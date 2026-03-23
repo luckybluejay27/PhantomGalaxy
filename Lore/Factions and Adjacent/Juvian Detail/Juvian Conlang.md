@@ -204,7 +204,7 @@ These root forms can also appear alone or as predicates in declarative, philosop
 ## Prepositions
 
 ### Anchor Set
-- **[Anchor]** – Root noun designating the fixed point or entity from which direction is derived. Must always be declared unless speaker is implicit.
+- **[Anchor]** – Root noun designating the fixed point or entity from which direction is derived. Must always be declared unless speaker is implicit. Generally defaults to the speakers favored side
 - **[Positive]** – Signifier or contextual tag defining the "forward" or default vector relative to the anchor.
 - **[Negative]** – Inversion of [Positive]; movement or rotation against the defined direction.
 

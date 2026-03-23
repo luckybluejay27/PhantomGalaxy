@@ -7,51 +7,36 @@
 ## Nimbus Class
 
 - **Size:** 70 - 120 meters
-
 - **Crew:** 10-20
-
 - **Cargo Space:** Small (suitable for personal goods, tools, or small deliveries)
-
 - **Role:** Agile, quiet planetary and low-orbit transport for freelancers. Ideal for small-scale tasks.
 
 ## Zephyr Class
 
 - **Size:** 130 - 220 meters
-
 - **Crew:** 20 - 40
-
 - **Cargo Space:** Medium (modular bays for goods, equipment, or light industrial tools)
-
 - **Role:** Multi-role mid-range ship for freelancers needing greater capability and flexibility.
 
 ## Stratus Class
 
 - **Size:** 260 - 380 meters
-
 - **Crew:** 40 - 60
-
 - **Cargo Space:** Large (designed for frequent trade and medium-scale freight)
-
 - **Role:** Civilian-grade freighter for orbital-to-ground supply chains or trade routes.
 
 ## Atlas Class
 
 - **Size:** 500 – 800 meters
-
 - **Crew:** 70 - 100
-
 - **Cargo Space:** Very Large (supports modular docking bays, supply storage, and repair facilities)
-
 - **Role:** Portable dock point for smaller vessels, high-class escort capabilities, and flagship supply ship for long-range operations.
 
 ## Firmament Class
 
 - **Size:** 900 – 2000 meters
-
 - **Crew:** 100 - 300
-
 - **Cargo Space:** Ship docks, housing bays, fully tooled systems and runway space
-
 - **Role:** Battle class permanent living ship intended to house soldiers indefinitely, while serving as a mobile base of operations for any branch of the military needing extra-system occupation. 
 
 # Juvian Freelance Ship Classes

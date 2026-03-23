@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 # Dormant State of Being
 
 Dormancy in the Azar is considered a utility or a punishment over all. Dormancy is achieved by mapping an individuals Neutronic Membrane into a temporally stabilized quantum lattice, often taking the form of small, pale green cubes. Once mapped, the Azar was said to be Dormant, being unable to process, receive, or understand stimuli, externally or internally. For all intents and purposes, the Azar stops being, frozen in a point of time. At a designated time, chosen by Azar court, the individual themselves, or the individuals family, they can be revived and receive a new frame to begin their life again.

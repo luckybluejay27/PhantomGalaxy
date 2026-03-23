@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organisms of Juvia - Phylogeny/Organisms of Juvia - Phylogeny.md",
+                "file": "Lore/1 Task List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Organisms of Juvia - Phylogeny"
+              "title": "1 Task List"
+            }
+          },
+          {
+            "id": "b6f502451958ce6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Ship Technology/2 Ship Detail - List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2 Ship Detail - List"
             }
           },
           {
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 266.5
   },
   "right": {
     "id": "c85877effd284a42",
@@ -129,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Main Tasking/01 - Quick_Thoughts.md",
+                "file": "Lore/Factions and Adjacent/Ikee'Ikee Hives/overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01 - Quick_Thoughts"
+              "title": "Backlinks for overview"
             }
           },
           {
@@ -188,12 +212,18 @@
   },
   "active": "cdcb17dd7e432af9",
   "lastOpenFiles": [
-    "rando.md",
-    "Lore/Factions and Adjacent/Ikee'Ikee Hives/overview.md",
-    "Lore/Factions and Adjacent/Ikee'Ikee Hives",
-    "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organisms of Juvia - Phylogeny/Organisms of Juvia - Phylogeny.md",
-    "Lore/Factions and Adjacent/Tannon Detail/Tannon Conlang.md",
+    "Lore/Ship Technology/2 Ship Detail - List.md",
+    "Lore/Ship Technology/1 Ship Tech.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Juvian Conlang.md",
+    "Lore/1 Task List.md",
+    "Lore/Factions and Adjacent/Tannon Detail/Tannon Government.md",
     "Lore/Factions and Adjacent/Tannon Detail/Tannon Culture.md",
+    "Lore/Factions and Adjacent/Tannon Detail/Tannon Conlang.md",
+    "Lore/Factions and Adjacent/1 Faction Overview.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organisms of Juvia - Phylogeny/Organisms of Juvia - Phylogeny.md",
+    "Lore/Factions and Adjacent/Ikee'Ikee Hives/overview.md",
+    "rando.md",
+    "Lore/Factions and Adjacent/Ikee'Ikee Hives",
     "Lore/InterStellar TimeLine.md",
     "Lore/Factions and Adjacent/Juvian Detail/Juvian Lexicon.md",
     "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organisms of Juvia - Phylogeny/Roqutet/Roqutet.md",
@@ -204,20 +234,14 @@
     "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Roqutet",
     "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Roqutet.md",
     "Lore/Factions and Adjacent/Juvian Detail/Juvian Government.md",
-    "Lore/Factions and Adjacent/Juvian Detail/Juvian Conlang.md",
     "Lore/Factions and Adjacent/Juvian Detail/Engineering/Juvian Computation.md",
     "Lore/Factions and Adjacent/Terran Federation/Terran Culture.md",
-    "Lore/Ship Technology/2 Ship Detail - List.md",
     "Lore/Ship Technology/3 - Ship Materials.md",
     "Lore/Ship Technology/Compression Ratios.md",
     "Lore/Ship Technology/04 - Ship Engineering.md",
     "Lore/Factions and Adjacent/Juvian Detail/Juvian Physiology.md",
-    "Lore/Ship Technology/1 Ship Tech.md",
-    "Lore/Factions and Adjacent/1 Faction Overview.md",
     "Lore/Factions and Adjacent/Archon Continuum/Archon Physiology Overview (Composite Species).md",
     "Lore/Factions and Adjacent/Archon Continuum/Archon Government.md",
-    "Lore/Factions and Adjacent/Archon Continuum/Archon Equivalent Conlang.md",
-    "Lore/Factions and Adjacent/Archon Continuum/Archon Culture.md",
     "Lore/Factions and Adjacent/Juvian Detail/Cladistics",
     "Lore/Factions and Adjacent/Azar Sovereignty",
     "Lore/Factions and Adjacent/Juvian Detail/Engineering",
