@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/1 Task List.md",
+                "file": "Lore/Ship Technology/Ship Operations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1 Task List"
+              "title": "Ship Operations"
             }
           },
           {
@@ -211,11 +211,11 @@
   },
   "active": "a2102943d6149f0a",
   "lastOpenFiles": [
-    "Lore/Ship Technology/Ship Materials Average Lading.md",
-    "Lore/Ship Technology/ISCD Compression Ratios.md",
     "Lore/Ship Technology/Ship Mechanisms.md",
+    "Lore/Ship Technology/Ship Materials Average Lading.md",
+    "Lore/Ship Technology/Ship Detail - List.md",
+    "Lore/Ship Technology/ISCD Compression Ratios.md",
     "Lore/Ship Technology/Ship Operations.md",
-    "Lore/Ship Technology/2 Ship Detail - List.md",
     "Lore/1 Task List.md",
     "Lore/Factions and Adjacent/Ikee'Ikee Hives/overview.md",
     "Lore/Factions and Adjacent/Juvian Detail/Juvian Conlang.md",
