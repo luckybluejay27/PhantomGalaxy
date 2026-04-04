@@ -49,12 +49,12 @@ Explore the lore of Phantom Galaxy by following the links below:
       - [The Woven Culture](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20Culture.md)
   - [InterStellar TimeLine](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/InterStellar%20TimeLine.md)
   - **Ship Technology**
-    - [04 - Ship Engineering](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/04%20-%20Ship%20Engineering.md)
-    - [1 Ship Tech](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/1%20Ship%20Tech.md)
     - [2 Ship Detail - List](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/2%20Ship%20Detail%20-%20List.md)
-    - [3 - Ship Materials](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/3%20-%20Ship%20Materials.md)
-    - [Compression Ratios](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Compression%20Ratios.md)
+    - [ISCD Compression Ratios](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/ISCD%20Compression%20Ratios.md)
+    - [Ship Materials Average Lading](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Ship%20Materials%20Average%20Lading.md)
+    - [Ship Mechanisms](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Ship%20Mechanisms.md)
+    - [Ship Operations](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Ship%20Operations.md)
 - [README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 - [rando](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/rando.md)
 
-Documentation generated automatically on 2026-03-23 11:13:42 UTC
+Documentation generated automatically on 2026-04-04 12:25:28 UTC

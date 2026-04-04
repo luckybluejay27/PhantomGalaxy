@@ -3,9 +3,7 @@
 # Ship Tech — Actuation & Materials
 
 ## Scope
-
 This document covers **material science and mechanical survivability** for ship-scale actuation systems.
-
 It is intentionally **decoupled from compression ratios, velocity math, and spacetime bookkeeping**. Those live elsewhere. This page exists to answer a narrower question:
 
 > _What materials can repeatedly survive extreme inertial loads, high cycle counts, and precision constraints without shattering?_
@@ -15,44 +13,30 @@ It is intentionally **decoupled from compression ratios, velocity math, and spac
 ## System Partitioning (Critical Clarification)
 
 Ship actuation hardware is not a single monolithic component. For survivability analysis it is split into three distinct roles:
-
 1. **Brick (Casimir Boundary Unit)** — defines and shapes the spacetime boundary
-    
 2. **Piston / Actuator (Force Transfer Element)** — physically moves the brick
-    
 3. **Frame / Mounting Structure** — reacts inertial loads into the hull
-    
 
 Only the **piston/actuator** is required to tolerate the full combination of:
 
 - cyclic acceleration and deceleration
-    
 - alternating tensile and compressive loads
-    
 - long fatigue life at high cycle counts
-    
 
 ---
 
 ## Brick Material (Resolved)
 
 **Chosen configuration:**
-
 - **Structural frame:** Silicon Carbide (SiC) or SiC Ceramic Matrix Composite (SiC/SiC)
-    
 - **Casimir-active layers:** Graphene-class conductive sheets
-    
 - **Spacers / dielectrics:** Hexagonal Boron Nitride (h-BN) or ALD-grown ceramics
-    
 
 The brick prioritizes:
 
 - dimensional stability
-    
 - thermal tolerance
-    
 - flatness at micron-scale gaps
-    
 
 It is _not_ optimized for high inertial motion. That burden is carried elsewhere.
 
@@ -65,15 +49,10 @@ It is _not_ optimized for high inertial motion. That burden is carried elsewhere
 The piston must:
 
 - Survive repeated inertial loading without brittle fracture
-    
 - Tolerate high-cycle fatigue (10^7–10^10 cycles lifetime)
-    
 - Maintain structural integrity under alternating acceleration
-    
 - Fail gradually rather than catastrophically
-    
 - Remain manufacturable and serviceable at ship scale
-    
 
 **Bulk compressibility is not the limiting factor.**  
 The dominant failure modes are fatigue, buckling, joint stress, and thermal drift.
@@ -89,20 +68,14 @@ The dominant failure modes are fatigue, buckling, joint stress, and thermal drif
 **Why:**
 
 - High specific strength (strong relative to mass)
-    
 - Excellent fatigue resistance when properly stress-managed
-    
 - Good fracture toughness compared to ceramics
-    
 - Proven aerospace actuator and landing-gear usage
-    
 
 **Role:**
 
 - Primary piston / pushrod material
-    
 - Best balance of inertia, durability, and manufacturability
-    
 
 ---
 
@@ -113,22 +86,17 @@ The dominant failure modes are fatigue, buckling, joint stress, and thermal drif
 **Why:**
 
 - Exceptional fatigue life at elevated temperatures
-    
 - Resistant to creep and thermal degradation
-    
 - Mature design and inspection ecosystem
-    
 
 **Tradeoff:**
 
 - High density increases inertial loads
-    
 
 **Role:**
 
 - Used only where thermal margins dominate over mass concerns
-    
-
+- 
 ---
 
 ### 3. Ceramic Matrix Composite Struts (Stiffness-Focused, Conditional)
@@ -138,23 +106,17 @@ The dominant failure modes are fatigue, buckling, joint stress, and thermal drif
 **Why:**
 
 - Extreme stiffness
-    
 - High temperature tolerance
-    
 - Low creep
-    
 
 **Caveat:**
 
 - Ceramics dislike tensile stress concentrations and impact
-    
 
 **Role:**
 
 - Used as guided struts or tension/compression members
-    
 - Must be paired with compliant joints or flexures
-    
 
 ---
 
@@ -163,11 +125,8 @@ The dominant failure modes are fatigue, buckling, joint stress, and thermal drif
 Where contact is unavoidable:
 
 - **Coatings:** Diamond-Like Carbon (DLC)
-    
 - **Solid lubricants:** MoS₂ / WS₂
-    
 - **Guidance:** Ceramic rolling elements or flexure-based alignment
-    
 
 Sliding metal-on-metal interfaces are avoided wherever possible.
 
@@ -184,11 +143,8 @@ For a fixed one-way stroke **S** and stroke time **t**, peak acceleration scales
 Thus survivability is controlled by:
 
 - stroke length
-    
 - cycle time
-    
 - acceleration profile smoothness
-    
 
 Material choice mitigates failure modes, but **cannot eliminate inertia**.
 
@@ -209,10 +165,5 @@ The system is not built to be indestructible.
 It is built to:
 
 - survive long enough to matter
-    
 - fail predictably
-    
-- be inspectable, replaceable, and understood
-    
-
-In ship engineering, durability is not immortality. It is _managed mortality_.
+- be inspect-able, replaceable, and understood
