@@ -40,6 +40,7 @@ Juvians evolved from **eight-legged ambush predators**, later developing graspin
 #### **2. Neurological Efficiency**
 - **Stronger bioelectric brain signals than Humans**, allowing for faster neural transmission and increased processing efficiency.
 - **Multi-tasking capability** emerges from decentralized neural nodes, which allow Juvians to process multiple streams of sensory input simultaneously, coordinating limb movement and evironmental awareness with remarkable efficiency.
+- Due to a lack of Day Night cycle Juvians tend to sleep in shifts, often semi biphasic 3-4 hour groups, and staying up for 6.
 #### **3. Metabolic Adaptations**
 - **Highly efficient metabolism**, allowing prolonged fasting.
 - **Thermoregulation via hemolymph circulation** for climate adaptability.
