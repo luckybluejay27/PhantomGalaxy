@@ -10,7 +10,7 @@
 			- [ ] ISCD engine history
 			- [ ] Household Architecture and City Planning
 		- [ ] Space Traffic Controls
-	- [ ] Juvian Physiology Additions
+		- [ ] Juvian Physiology Additions
 - [ ] Further Detail
 	- [ ] Faction Dynamics & Diplomacy Doc (Inter-Faction Relations & Tensions)
 	- [ ] Spiritual Docs (Cultural Philosophies & Belief Systems)
