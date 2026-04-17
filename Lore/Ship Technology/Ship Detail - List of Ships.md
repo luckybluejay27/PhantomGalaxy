@@ -8,6 +8,30 @@
 - **Cargo Space:** Small (suitable for personal goods, tools, or small deliveries)
 - **Role:** Agile, quiet planetary and low-orbit transport for freelancers. Ideal for small-scale tasks.
 
+### Nimbus Detail 
+
+|Metric|Value|
+|---|---|
+|**Minimum length**|**70 m**|
+|**Estimated outer diameter**|**53.5 m**|
+|**Effective usable internal volume**|**~39,100 m³**|
+|**Dry mass**|**22.0 kt**|
+|**Baseline wet mass**|**~22.09–22.11 kt**|
+|**Battery bank**|**10 MWh**|
+|**Battery mass**|**28.6 t**|
+|**Water reserve**|**8 t**|
+|**Uranium feedstock**|**10 t**|
+|**VTOL complement**|**2**|
+|**VTOL dry mass**|**8 t total**|
+
+#### C / E / S speeds
+
+|Mode|Speed (c)|Speed (km/s)|
+|---|---|---|
+|**C**|**0.117 c**|**35,000 km/s**|
+|**E**|**0.467 c**|**140,000 km/s**|
+|**S**|**0.934 c**|**280,000 km/s**|
+
 ## Zephyr Class
 
 - **Size:** 130 - 220 meters
@@ -15,6 +39,28 @@
 - **Cargo Space:** Medium (modular bays for goods, equipment, or light industrial tools)
 - **Role:** Multi-role mid-range ship for freelancers needing greater capability and flexibility.
 
+### Zephyr Detail
+
+|Metric|Value|
+|---|---|
+|**Minimum length**|**130 m**|
+|**Estimated outer diameter**|**~55.0 m**|
+|**Effective usable internal volume**|**~74,900 m³**|
+|**Dry mass**|**24.0 kt**|
+|**Baseline wet mass**|**~24.15 kt + people + stores + cargo**|
+|**Battery bank**|**20 MWh**|
+|**Battery mass**|**57.1 t**|
+|**Water reserve**|**16 t**|
+|**Uranium feedstock**|**60 t**|
+|**VTOL complement**|**4**|
+|**VTOL dry mass**|**16 t total**|
+|**Embarked personnel**|**200 + crew**|
+####  C / E / S speeds
+
+|Ship|C Speed (c / Mm/s)|E Speed (c / Mm/s)|S Speed (c / Mm/s)|
+|---|---|---|---|
+|**Nimbus**|**0.117 c / 35 Mm/s**|**0.467 c / 140 Mm/s**|**0.934 c / 280 Mm/s**|
+|**Zephyr**|**35.4 c / 10,600 Mm/s**|**142.1 c / 42,600 Mm/s**|**283.9 c / 85,100 Mm/s**|
 ## Stratus Class
 
 - **Size:** 260 - 380 meters
@@ -88,7 +134,7 @@
 
 - **Cargo Space:** Medium-Large (supports long-term supplies and modular mission bays)
 
-- **Role:** Adventure-class ships designed for long-haul galaxy runs, capable of sustaining multi-cycle solar rail journeys across the Milky Way.
+- **Role:** Adventure-class ships designed for long-haul galaxy runs, capable of sustaining multi-cycle solar fueled journeys across the Milky Way.
 
 # Terran Military Ship Classes (Devilish Themes)
 

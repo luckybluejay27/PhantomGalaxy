@@ -85,12 +85,12 @@ Based on the works of *Von Reyner Del Lupis* and the patented framework on **Cas
 
 ### Requirements (Layer 2 variables + resulting speed)
 
-| Ship    | Coil Length (m) |   N | Rmin (m) | Rmax (m) |   P | F (C/E/S) (Hz, duty) | LPS (C/E/S) (m/s)    | v_ship (C/E/S) (m/s)     |
-| ------- | --------------: | --: | -------: | -------: | --: | -------------------- | -------------------- | ------------------------ |
-| Nimbus  |              70 | 200 |    17.53 |    19.20 |   5 | 0.5 / 2 / 4          | 0.4375 / 1.75 / 3.50 | 3.50e7 / 1.40e8 / 2.80e8 |
-| Zephyr  |             100 | 400 |   18.335 |   19.481 |   5 |                      |                      |                          |
-| Stratus |             270 |     |          |          |     |                      |                      |                          |
-| Atlas   |             500 |     |          |          |     |                      |                      |                          |
+| Ship    | Coil Length (m) |   N | Rmin (m) | Rmax (m) |   P | F (C/E/S) (Hz, duty) | LPS (C/E/S) (m/s)    | v_ship (C/E/S) (m/s)        |
+| ------- | --------------: | --: | -------: | -------: | --: | -------------------- | -------------------- | --------------------------- |
+| Nimbus  |              70 | 200 |    17.53 |    19.20 |   5 | 0.5 / 2 / 4          | 0.4375 / 1.75 / 3.50 | 3.50e7 / 1.40e8 / 2.80e8    |
+| Zephyr  |             100 | 400 |   18.335 |   19.481 |   5 | 0.5 / 2 / 4          | 0.3125 / 1.25 / 2.50 | 1.06e10 / 4.26e10 / 8.51e10 |
+| Stratus |             270 |     |          |          |     |                      |                      |                             |
+| Atlas   |             500 |     |          |          |     |                      |                      |                             |
 
 ### Timing note (latency only)
 
