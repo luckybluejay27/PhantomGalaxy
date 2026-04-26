@@ -28,11 +28,3 @@ Internal transport is the ship’s logistics skeleton: rails, cranes, lifts, and
 
 ## 8) Diagnostics & Isolation (Sensing, Logging, Hard Partitions)
 Diagnostics exist to tell you what’s true without letting external networks touch flight-critical control. Sensors, timing references, and logging are segmented by fault domain; advisory systems can recommend and predict, but critical actuation remains locally controllable and physically partitioned from comms. The mechanical intent is survivable failure: when data lies or links die, the ship remains understandable and recoverable.
-
-## Appendix — Definitions (short)
-- **RTC:** bricks per ring.
-- **N:** rings per coil.
-- **Rmin/Rmax:** corridor boundary radius at min/max extension.
-- **Gmin/Gmax:** brick joint gap envelope.
-- **F (Hz, duty):** duty cycles/sec (one extend or retract).
-- **P:** ring handoffs per compression stroke.
