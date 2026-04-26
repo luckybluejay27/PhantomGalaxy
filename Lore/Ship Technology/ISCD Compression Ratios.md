@@ -1,5 +1,4 @@
 [← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
-
 # Speed Charts
 
 ## Global Modeling Assumptions
@@ -15,83 +14,105 @@ These are **structural assumptions**, not variables. They exist to keep each lay
 7. **Linear compression:** Corridor length scales linearly with radius; compression ratio is **TCR = Rmin / Rmax**.
 8. **Ideal coupling (Layers 1–2):** No leakage, shear, angular interference, or loss terms are modeled until Layer 3.
 
-## Layer 0 — Patent Basis
+## Layer -1 — Patent Basis
 
-Based on the works of *Von Reyner Del Lupis* and the patented framework on **Casimir Propagation Technologies**, which establishes controllable Casimir-force actuation as a given.
+Based on the works of _Von Reyner Del Lupis_ and the patented framework on **Casimir Propagation Technologies**.
+Terran engineering treats the Del Lupis framework as the resolved bridge between local Casimir boundary manipulation and ship-scale metric compression: properly phased Casimir surfaces can be locked into a propagating internal compression corridor rather than remaining mere plate-to-plate forces.
+This sheet assumes that coupling is valid and tracks its mechanical consequences.
 
-## Layer 1 — Ideal Propagation Kinematics
+## Layer 0 — RTD Reference Mechanics: Coil-Based Casimir-Repulsion Drive
 
-### Acronyms and conventions
+Layer 0 defines the local actuation mechanism. It separates **internal CNT sheet-pair motion** from **macroscopic brick stroke** so the ship-scale compression math does not confuse actuator bookkeeping with corridor compression.
 
-* **RTC** — bricks per ring (ring tile count).
-* **Rings/Coil (N)** — count of rings along the coil length.
-* **Gmin / Gmax** — per-joint gap between neighboring bricks at **Rmin / Rmax**.
-* **Brick Stroke** — radial one-way travel per brick during the compression (extension) duty cycle.
+### Propulsion system
 
-  * **Brick Stroke = Rmax − Rmin**.
-* **F (Hz)** — ring undulation rate, defined as **duty cycles/sec**, where one duty cycle is one half-cycle (**extend** or **retract**).
+|Field|Value|Notes|
+|---|---|---|
+|Drive type|Coil-based Casimir-Repulsion Drive|ISCD reference actuation mechanism|
+|Active component|1 cm² CNT sheets|Casimir-repulsion surfaces|
+|Sheet types|Doped superconducting + undoped CNT sheets|Paired active surfaces|
+|Brick architecture|1k pair brick|1,000 CNT sheet-pairs per brick|
+|Ring tile count|360 bricks/ring|Bricks tile the ring circumference|
+|Baseline pulse rate|1 kHz|Current fastest rate without proper cooling|
 
-  * A full mechanical cycle (**extend + retract**) spans two duty cycles, so the full-cycle rate is **F/2**.
-  * Layer‑1 convention: compression occurs only during the **extend** duty cycle.
-* **P** — propagation step setting: **ring-to-ring handoffs per compression stroke**.
-* **V_ext (m/s)** — average brick extension (compression) speed during the **extend** duty cycle.
+### CNT pair and brick actuation
 
-  * One extend duty cycle lasts **1/F** seconds, so **V_ext = Brick Stroke × F**.
-* **ΔZ (m/ring)** — axial spacing between adjacent rings.
+|Metric|Value|Notes|
+|---|---|---|
+|Sheet-pair gap cycle|500 nm ↔ 1000 nm|Sheets move together/apart across the pulse cycle|
+|Per-pair gap displacement|500 nm/pulse|Local CNT sheet-pair actuation distance|
+|Pair count per brick|1,000|Internal actuation stack count|
+|Aggregate internal pair displacement|0.5 mm/pulse|500 nm × 1,000; bookkeeping value, not brick travel|
+|Full stroke envelope|1.68 m|Maximum radial span from shortest/fully-inward position to fully-extended position|
+|Brick unit height / radial thickness|0.1 m|Physical radial thickness of the brick body|
+|Minimum clearance / inter-brick spacing|0.05 m|5 cm required spacing, converted to meters|
+|Net brick physical stroke|1.53 m|1.68 m − 0.1 m − 0.05 m; usable macroscopic radial travel of each brick during inward stroke|
 
-  * **ΔZ = Coil Length / Rings/Coil**.
-* **LPS (m/s)** — axial phase propagation speed down the coil.
+### Ring-stage actuation
 
-  * Compression occurs once per **full mechanical cycle**, so in Layer 1–2 ideal coupling:
-  * **LPS = P × ΔZ × (F/2)**.
-  * Layer‑1 note: LPS is a **phase-front speed**, not ship translation speed.
+| Metric                    | Value                   | Notes                                                                       |
+| ------------------------- | ----------------------- | --------------------------------------------------------------------------- |
+| Bricks per ring           | 360                     | Full ring tile count of a base model, subject to change                     |
+| Full stroke envelope      | 1.68 m                  | Maximum radial span before subtracting brick unit height                    |
+| Brick unit height         | 0.1 m                   | Physical radial thickness of the brick body                                 |
+| Minimum clearance         | 0.05 m                  | 5 cm required spacing, converted to meters                                  |
+| Net ring radial stroke    | 1.53 m                  | Same usable macroscopic inward stroke applied by each brick                 |
+| Corridor boundary motion  | Rmax → Rmin             | Defined by brick physical stroke                                            |
+| Stage compression ratio   | TCR_stage = Rmin / Rmax | Derived from ship/ring geometry, not directly from 1:600 internal actuation |
+| Full-ring mechanical work | 1.8 J/pulse             | 360 bricks × 0.005 J/brick pulse                                            |
 
-### Ring geometry and corridor compression
+### Energy metrics
 
-* **Rmax** — effective corridor radius at maximum extension (least compressed state).
-* **Rmin** — effective corridor radius at minimum extension (most compressed state).
-* **Stage compression ratio:** **TCR_stage = Rmin / Rmax** (0 < TCR_stage ≤ 1).
+|Metric|Value|Notes|
+|---|---|---|
+|Mechanical work per 1k pair brick|0.005 J/pulse|Per brick pulse event|
+|Full-ring mechanical work|1.8 J/pulse|360 bricks × 0.005 J|
+|System power intake at 1 kHz|1.81 kW|Mechanical + electrical overhead baseline|
+|Heat dissipation required at 1 kHz|~1,811 W|Steady-state thermal rejection load|
 
-### Standard brick (unit definition)
+### Compression physics
 
-* **Brick dimensions (T × A × R):** 0.3 m (tangential) × 0.1 m (axial) × 0.1 m (radial thickness).
-* **Active face area (A_face):** **T × A**.
-* **Per-stroke displaced volume (V_stroke):** **A_face × Brick Stroke**.
+|Metric|Value|Notes|
+|---|---|---|
+|Internal actuation ratio|1:600|CNT pair/brick internal actuation ratio|
+|Internal crunch fraction|~0.16%|Internal actuator effect; do not use as ship-scale TCR_stage by itself|
+|Ship-scale compression driver|Net brick physical stroke|1.53 m radial boundary motion determines Rmin/Rmax after subtracting brick unit height and required clearance|
+|Spatial displacement per drive length||Pending recalculation under corrected brick-stroke model|
 
-## Requirements (Layer 1 variables)
+### Thermal and material specs
 
-| Ship    | Coil Length (m) | RTC | Rings/Coil (N) | Gmin/Gmax (m) | Brick Stroke (m) | Rmin (m) | Rmax (m) | TCR_stage (=Rmin/Rmax) | Notes |
-| ------- | --------------: | --: | -------------: | ------------: | ---------------: | -------: | -------: | ---------------------: | ----- |
-| Nimbus  |              70 | 360 |            200 | 0.006 / 0.035 |             1.67 |    17.53 |    19.20 |                 0.9130 |       |
-| Zephyr  |             100 | 360 |            400 | 0.020 / 0.040 |            1.146 |   18.335 |   19.481 |                 0.9412 | P=5   |
-| Stratus |             270 |     |                |               |                  |          |          |                        |       |
-| Atlas   |             500 |     |                |               |                  |          |          |                        |       |
+|Metric|Value|Notes|
+|---|---|---|
+|CNT specific heat capacity|0.83 J/g·K|Standard CNT baseline|
+|CNT thermal limit in vacuum|~3,400 K|Operational limit restricted by dopants|
+|Required heat rejection|~1,811 W|At 1 kHz steady-state operation|
 
-*Actuation life (Layer 1 bookkeeping): values are stated per brick actuator at nominal load unless otherwise specified.*
+## Layer 1 — Ship-Class RTD Mechanics
 
-## Layer 2 — Ideal Spacetime Hand-Off (Velocity)
+Layer 0 defines the RTD unit hardware, pulse energetics, CNT material limits, compression ratio, and baseline 1 kHz ring behavior. Layer 1 only applies those reference mechanics to ship-class coil geometry.
 
-### Definitions
+### Layer 1 variables
 
-* **TCR_stage** — per-ring linear compression factor: **TCR_stage = Rmin / Rmax**
-* **TCR_total** — total linear compression after **N** stages: **TCR_total = (TCR_stage)^N**
-* **ΔZ** — axial spacing between rings: **ΔZ = Coil Length / N**
-* **F (Hz)** — ring undulation rate, **duty cycles/sec** (one extend or retract)
+- **N** — total ring count along the active coil.
+- **ΔZ** — axial ring spacing. Current reference: **ΔZ = (1.4 × brick axial length) + 0.05 m gap**.
+- **Rmax** — corridor radius before a ring compresses.
+- **Brick Stroke** — usable macroscopic radial inward travel after subtracting brick unit height and minimum clearance. Current reference: **1.53 m** from **1.68 m full stroke envelope − 0.1 m brick unit height − 0.05 m clearance**.
+- **Rmin** — corridor radius after inward stroke: **Rmin = Rmax − Brick Stroke**.
+- **TCR_stage** — single-ring compression factor: **TCR_stage = Rmin / Rmax**.
+- **TCR_total** — compounded corridor compression after all rings: **TCR_total = TCR_stage^N**.
+- **Compression Multiplier** — apparent distance/speed multiplier from total corridor compression: **Compression Multiplier = 1 / TCR_total**.
+- **v_orbital** — assumed safe fast realspace velocity for idealized comparison. Current reference: **7,800 m/s**.
+- **v_effective_orbital** — apparent corridor-adjusted velocity at orbital realspace speed: **v_effective_orbital = v_orbital / TCR_total**.
 
-  * Full mechanical cycle rate is **F/2**
-* **P** — propagation steps per compression stroke
-* **LPS** — compressed-payload phase-front speed down the coil: **LPS = P × ΔZ × (F/2)**
-* **Ship velocity (ideal):** **v_ship = LPS / TCR_total**
+### Ship-class effective-speed mechanics
 
-### Requirements (Layer 2 variables + resulting speed)
+**Notes:** Effective speed assumes **v_orbital = 7,800 m/s** as the safe fast realspace comparison velocity.
 
-| Ship    | Coil Length (m) |   N | Rmin (m) | Rmax (m) |   P | F (C/E/S) (Hz, duty) | LPS (C/E/S) (m/s)    | v_ship (C/E/S) (m/s)        |
-| ------- | --------------: | --: | -------: | -------: | --: | -------------------- | -------------------- | --------------------------- |
-| Nimbus  |              70 | 200 |    17.53 |    19.20 |   5 | 0.5 / 2 / 4          | 0.4375 / 1.75 / 3.50 | 3.50e7 / 1.40e8 / 2.80e8    |
-| Zephyr  |             100 | 400 |   18.335 |   19.481 |   5 | 0.5 / 2 / 4          | 0.3125 / 1.25 / 2.50 | 1.06e10 / 4.26e10 / 8.51e10 |
-| Stratus |             270 |     |          |          |     |                      |                      |                             |
-| Atlas   |             500 |     |          |          |     |                      |                      |                             |
+|Ship|Coil Length (m)|Ring Count (N)|ΔZ (m/ring)|Rmax (m)|Brick Stroke (m)|Rmin (m)|TCR_stage|TCR_total|Compression Multiplier|Effective Speed at Orbital Velocity (m/s)|Notes|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Nimbus|38|200|0.19|20.05|1.53|18.52|0.92369|1.27e-7|7.85e6×|6.12e10||
+|Zephyr|57|300|0.19|20.05|1.30|18.75|0.93516|1.85e-9|5.42e8×|4.23e12||
+|Stratus|76|400|0.19|20.05|1.01|19.04|0.94963|1.05e-9|9.53e8×|7.43e12||
+|Atlas|114|600|0.19|20.05|0.80|19.25|0.96010|2.45e-11|4.08e10×|3.18e14||
 
-### Timing note (latency only)
-
-* **t_transit ≈ Coil Length / LPS**
+## Layer 2 — Errors and Assumption Failures.
