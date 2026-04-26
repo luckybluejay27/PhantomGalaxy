@@ -8,6 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1d5c145100e6a09e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/1 Task List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1 Task List"
+            }
+          },
+          {
             "id": "91ace88126b93e68",
             "type": "leaf",
             "state": {
@@ -78,57 +102,8 @@
               "icon": "lucide-file",
               "title": "Ship Detail - List of Ships"
             }
-          },
-          {
-            "id": "5757a441e2678576",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Ship Technology/Ship Mechanisms.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ship Mechanisms"
-            }
-          },
-          {
-            "id": "3d9edec9ec659566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Ship Technology/Ship Operations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ship Operations"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1k",
+                "query": "plasma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +156,8 @@
               "title": "mk-path-view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,14 +234,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "9a4aa00c8a45996c",
+  "active": "1d5c145100e6a09e",
   "lastOpenFiles": [
     "Lore/Ship Technology/Ship Detail - List of Ships.md",
-    "Lore/Ship Technology/Ship Mechanisms.md",
     "Lore/Ship Technology/Ship Operations.md",
-    "Lore/Ship Technology/Ship Materials Average Lading.md",
-    "Lore/Ship Technology/ISCD Compression Ratios.md",
+    "Lore/Ship Technology/Ship Mechanisms.md",
     "Lore/1 Task List.md",
+    "Lore/Ship Technology/ISCD Compression Ratios.md",
+    "Lore/Ship Technology/Ship Materials Average Lading.md",
     "Lore/Ship Technology/ISCD NEw Draft.md",
     "Lore/Factions and Adjacent/Juvian Detail/Juvian Physiology.md",
     "Lore/InterStellar TimeLine.md",

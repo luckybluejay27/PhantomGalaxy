@@ -9,7 +9,16 @@ This document is **mechanics-first**: each section gives the one-minute broad-st
 The coil hull is the ship: a ringframe containment lattice that defines a bounded internal corridor where traversal distance is shortened. Rings hand off a compression phase-front down the coil by cycling between **Rmax → Rmin** and back, while the corridor interior itself stays empty during operation. The brick–piston–ringframe partition matters: bricks are precision boundary units, pistons carry fatigue loads, and the ringframe closes the force loop and holds alignment.
 
 ## 2) Realspace Propulsion (Injection Drive + Trim Thrusters)
-Realspace propulsion is split into a high-energy injection drive for major Δv and small trim thrusters for docking and fine attitude work. Canon architecture here is **fuel = propellant**: dense fissile feedstock is metered into a reaction channel that briefly goes supercritical, flash-heating into plasma (“explosion”), then an electromagnetic stage collimates and post-accelerates that plume into a directed jet (“throw”). Cruise and sprint are not different engines; they are different operating points (reactivity, mass flow, and EM field intensity) bounded by heat and liner wear.
+
+Realspace propulsion is split into a high-energy injection drive for major Δv and small trim thrusters for docking, attitude correction, and close-quarters handling.
+
+Canon architecture here is **fuel = propellant**: dense fissile propellant is metered into a magnetically isolated reaction channel, where neutron economy is briefly driven above criticality in controlled pulse events. The resulting plasma does not expand through a conventional solid nozzle. It expands against a magnetically anchored throat, transferring pressure into the drive coils and ship structure while the field geometry collimates and post-accelerates the exhaust into a directed jet.
+
+The engine’s practical cycle is therefore **pulse → contain → couple → throw**. Thermal energy becomes thrust only to the extent that the plasma remains ionized, magnetized, and phase-contained long enough for the electromagnetic throat to shape it. Poor coupling turns useful exhaust into radiation, liner heating, sideways plume loss, and structural abuse.
+
+Cruise and sprint are not different engines; they are different operating points. Cruise favors lower reactivity, steadier mass flow, longer pulse spacing, and reduced liner stress. Sprint raises reactivity, mass flow, and field intensity for greater thrust, but sharply increases heat load, neutron leakage, magnetic throat strain, and service wear.
+
+The limiting factors are not raw energy availability. They are coupling efficiency, field stability, heat rejection, radiation shielding, and how long the reaction channel can survive repeated nuclear plasma pulses without deforming out of tolerance.
 
 ## 3) Power Generation & Conditioning
 Power is not just “generation,” it is delivery: segmented buses, isolation domains, and pulse-cap banks that can feed both distributed coil drivers and the injection drive’s burst loads without letting transients cascade across the ship. Conditioning exists to keep phase timing stable, prevent brownouts at the wrong moment, and ensure failure stays local instead of propagating through shared rails.

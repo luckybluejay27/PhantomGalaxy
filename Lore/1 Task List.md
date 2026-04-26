@@ -10,26 +10,45 @@
 			- [ ] ISCD engine history
 			- [ ] Household Architecture and City Planning
 		- [ ] Space Traffic Controls
-		- [ ] RTD
-			- [ ] Propulsion System: Coil-based Casimir-Repulsion Drive
-			    - [ ] Component: 1cm² CNT Sheets (Doped Superconducting & Undoped)
-		    - [ ] Energy Metrics:
+		- [x] RTD
+			- [x] Propulsion System: Coil-based Casimir-Repulsion Drive
+			    - [x] Component: 1cm² CNT Sheets (Doped Superconducting & Undoped)
+		    - [x] Energy Metrics:
 		        - [x] 1k Pair Brick: 0.005 J per pulse (Mechanical work)
-		        - [ ] Full Ring (360 Bricks): 1.8 J per pulse 
-		        - [ ] System Power Intake (at 1 kHz): 1.81 kW (Mechanical + Electrical overhead)
-		    - [ ] Displacement & Velocity:
-		        - [ ] Per Pair Displacement: 500 nm per pulse
-		        - [ ] Total Displacement per Brick: 0.5 mm per pulse (Internal stroke)
-		        - [ ] Total Ring Stroke: 18 cm (0.18 m) per pulse (Cumulative spatial contraction)
-		        - [ ] Base Warp Velocity (at 1 kHz): 180 m/s (~402.6 mph) delta-V
-		    - [ ] Compression Physics:
-		        - [ ] Internal Gap: 0.3 mm (per pair spacing)
-		        - [ ] Compression Ratio: 1:600 (0.16% spatial "crunch" per pulse)
-		        - [ ] Spatial Displacement: 1.64 mm per pulse for every 1 meter of drive length
-		    - [ ] Thermal & Material Specs:
-		        - [ ] CNT Specific Heat Capacity: 0.83 J/g·K (Standard)
-		        - [ ] CNT Thermal Limit (Vacuum): ~3,400 K (Operational limit restricted by dopants)
-		        - [ ] Heat Dissipation Required: ~1,811 W (at 1 kHz steady state)
+		        - [x] Full Ring (360 Bricks): 1.8 J per pulse 
+		        - [x] System Power Intake (at 1 kHz): 1.81 kW (Mechanical + Electrical overhead)
+		    - [x] Displacement & Velocity:
+		        - [x] Per Pair Displacement: 500 nm per pulse
+		        - [x] Total Displacement per Brick: 0.5 mm per pulse (Internal stroke)
+		        - [x] Total Ring Stroke: 18 cm (0.18 m) per pulse (Cumulative spatial contraction)
+		        - [x] Base Warp Velocity (at 1 kHz): 180 m/s (~402.6 mph) delta-V
+		    - [x] Compression Physics:
+		        - [x] Internal Gap: 0.3 mm (per pair spacing)
+		        - [x] Compression Ratio: 1:600 (0.16% spatial "crunch" per pulse)
+		        - [x] Spatial Displacement: 1.64 mm per pulse for every 1 meter of drive length
+		    - [x] Thermal & Material Specs:
+		        - [x] CNT Specific Heat Capacity: 0.83 J/g·K (Standard)
+		        - [x] CNT Thermal Limit (Vacuum): ~3,400 K (Operational limit restricted by dopants)
+		        - [x] Heat Dissipation Required: ~1,811 W (at 1 kHz steady state)
+		- [ ] Hab Structures Document
+			- [ ] How attach to internal Hull
+			- [ ] Compartmentalization
+			- [ ] Protection from elements. 
+			- [ ] detail list of on board gear and tooling
+			- [ ] detail list of infrastructure living
+				- [ ] PLumbing
+				- [ ] Electrical
+				- [ ] Oxygenation and atmo
+				- [ ] plant life
+				- [ ] reclamation
+				- [ ] food stores
+				- [ ] fissile stores and sludge sector
+			- [ ] energy containment
+			- [ ] Gravity Tech 
+				- [ ] At orbital velocity, can some of that accel be used as gravity using continuous Plasmatic injection thrust?
+		- [ ] Plasma Injection Drive
+			- [ ] Engineering of critical uranium salt waters into coil for thrust
+			- [ ] saftey
     - [ ] Navigation Data:
         - [ ] Total Cumulative Daily Displacement: 15,552 km (at 1 kHz)
 		- [ ] Juvian Physiology Additions

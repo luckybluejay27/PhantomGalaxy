@@ -57,13 +57,17 @@ Together, these three tiers form a hardened architecture: a vessel you can under
 
 ### Descent is a Discipline
 
-Whether approaching a surface or a station, descent begins with accounting—not intuition. Ships do not fall; they brake, and braking costs mass.
+Whether approaching a surface, habitat, depot, or station, descent begins with accounting—not intuition. Ships do not “fall” safely. They spend momentum, and spending momentum costs propellant, heat margin, timing accuracy, and structural tolerance.
 
-In orbital contexts, glide means managing inertia. Terran ships use magneto-plasma microbursts to shave velocity without overcorrecting, trading fuel for precision. In high-gravity or atmospheric landings, descent profiles must be computed down to the kilojoule. Entry angle, terminal mass, and fuel remaining all determine whether a ship survives—or simply embeds.
+In orbital contexts, glide means controlled inertia management. Terran ships use trim thrusters and magneto-plasma microbursts to shave velocity without overcorrecting, while the main injection drive handles major braking burns when mission geometry permits. Every correction is budgeted: Δv, terminal mass, plume clearance, heat soak, and recovery margin determine whether the vessel arrives under control or becomes an impact event with paperwork.
 
-No landing system is infinite. Pulse cartridges, ablative surfaces, and ballast adjusters are burned, warped, or depleted on every drop. If a ship lands, it expects to leave only by another’s help: orbital cranes, VTOL recovery, or resupply cradle. Though ships of these scales do not land so much as stop moving nearby an orbital station.
+Atmospheric descent is harsher. Entry angle, velocity, atmospheric density, terminal mass, ablative capacity, radiator state, and fuel remaining must be computed down to hard energy margins. A ship at these scales cannot improvise a landing after committing to a bad profile. It either has the propellant and thermal headroom to arrest itself, or it does not.
 
-As such mathematics is paramount.
+No landing system is infinite. Pulse cartridges, ablative surfaces, crush mounts, ballast adjusters, and field-trim hardware are burned, warped, consumed, or fatigue-loaded on every drop. Surface recovery is therefore a logistics operation, not a casual maneuver. A vessel that lands outside prepared infrastructure may require orbital cranes, VTOL recovery craft, tug assistance, replacement consumables, or a resupply cradle before it can depart.
+
+For this reason, most large Terran ships do not truly land. They rendezvous, station-keep, dock, hover-transfer, or stop moving near infrastructure built to receive them. Small craft descend. Large ships negotiate with gravity.
+
+As such, mathematics is paramount.
 
 ### Maintenance & Recovery: The Art of the Space Janitor
 
