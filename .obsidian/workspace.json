@@ -156,8 +156,7 @@
               "title": "mk-path-view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,7 +233,7 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "1d5c145100e6a09e",
+  "active": "0919a555b523e34f",
   "lastOpenFiles": [
     "Lore/Ship Technology/Ship Detail - List of Ships.md",
     "Lore/Ship Technology/Ship Operations.md",
