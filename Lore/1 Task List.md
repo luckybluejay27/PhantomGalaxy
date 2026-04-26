@@ -14,7 +14,7 @@
 			- [ ] Propulsion System: Coil-based Casimir-Repulsion Drive
 			    - [ ] Component: 1cm² CNT Sheets (Doped Superconducting & Undoped)
 		    - [ ] Energy Metrics:
-		        - [ ] 1k Pair Brick: 0.005 J per pulse (Mechanical work)
+		        - [x] 1k Pair Brick: 0.005 J per pulse (Mechanical work)
 		        - [ ] Full Ring (360 Bricks): 1.8 J per pulse 
 		        - [ ] System Power Intake (at 1 kHz): 1.81 kW (Mechanical + Electrical overhead)
 		    - [ ] Displacement & Velocity:
