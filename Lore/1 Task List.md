@@ -45,10 +45,9 @@
 				- [ ] fissile stores and sludge sector
 			- [ ] energy containment
 			- [ ] Gravity Tech 
-				- [ ] At orbital velocity, can some of that accel be used as gravity using continuous Plasmatic injection thrust?
-		- [ ] Plasma Injection Drive
-			- [ ] Engineering of critical uranium salt waters into coil for thrust
-			- [ ] saftey
+				- [ ] At orbital velocity, can some of that accel be used as gravity using continuous Plasmatic injection thrust
+    	- [ ] Magnetic Thrust Research
+     		- [ ] Dispense ionizable metal into nonmoving rings which are activated to act as a supercoil, to mag accel metal out the aft, producing thrust
     - [ ] Navigation Data:
         - [ ] Total Cumulative Daily Displacement: 15,552 km (at 1 kHz)
 		- [ ] Juvian Physiology Additions
