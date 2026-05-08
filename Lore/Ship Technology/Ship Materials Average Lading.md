@@ -5,11 +5,9 @@
 ## Scope
 
 This register records the current first-pass lading allowances for ISCD actuation hardware. It is written for treasury, inventory, and mass-accounting use: what material classes must be held, how much mass or volume is assigned, what assembly level the allowance belongs to, and what exclusions prevent double-counting.
-
 This is not a supplier specification or manufacturing traveler. Material selections and functions are included only where needed to justify the lading category, survivability allowance, or procurement reserve.
 
 ---
-
 ## Register Status
 
 |Field|Entry|
@@ -21,7 +19,6 @@ This is not a supplier specification or manufacturing traveler. Material selecti
 |$1||
 
 ---
-
 # Segment 0 — Official Legal Readings
 
 ```text
@@ -40,7 +37,6 @@ This is not a supplier specification or manufacturing traveler. Material selecti
 ║ AUTHORIZATIONS ARE RECORDED AT THE BOTTOM OF THIS REGISTER.       ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
-
 ## 0.1 Minimums Use Rule
 
 Values in this register are minimum lading baselines for one full ISCD coil structure and its scaled coil-class applications. Ordering, loading, or ledgering below these values triggers reconciliation review.
@@ -50,9 +46,7 @@ Installed lading is not procurement mass. Procurement mass may exceed installed 
 ## 0.2 Operational Scope
 
 This register defines minimum installed and carried lading values for treasury reconciliation, mass-accounting, and supply-chain fault checking. It does not authorize supplier substitution, production routing, manufacturing tolerances, or final purchase quantities.
-
 The register is a truth-pass minimums sheet. It exists to identify ordering, loading, or ledger faults against the current accepted lading basis.
-
 ## 0.3 Authority Routing for Register Changes
 
 |Proposed Action|Required Authority|
@@ -69,7 +63,6 @@ The register is a truth-pass minimums sheet. It exists to identify ordering, loa
 |Close a supply-chain fault against this register|Supply Fault Reconciliation Officer + Quality Ledger Witness|
 
 ---
-
 # 1. Active Cell Lading
 
 Packaged actuator-cell lading records the minimum material charge assigned to one repeated packaged actuator cell. Void gaps, active travel clearance, and internal vacuum space are carried as geometry rather than solid lading. DLC wear films and WS₂/MoS₂ dry lubricants are booked as surface-treatment stock unless later coating thicknesses justify a bulk-mass entry.
@@ -126,12 +119,12 @@ These values allocate the **~540 cm³ repeated non-cell structure volume** from 
 
 Dedicated thermal spreaders are not booked as a separate lading class; local heat spreading is included under the shared vapor-channel lattice.
 
-|Part|Material Choice|Function|Per-Brick Volume Allowance|Per-Brick Mass Allowance|
-|---|---|---|---|---|
-|**Brick Surface / Carrier**|Alumina–mullite oxide/oxide CMC|Provides the rigid structural container for packaged actuator cells; maintains alignment and brick integrity|**~240 cm³/brick**|**~566 g/brick** using **2.36 g/cm³** first-pass Ox/Ox CMC density|
-|**Shared Vapor Cooling Network**|Silicon-nitride-lined alumina–mullite CMC microchannels with ethanol–water working fluid, **3:7 ethanol**:water|Moves heat from enclosed cells to brick manifolds and ringframe cooling loops; also performs local heat-spreading through the channel lattice|**~150 cm³/brick** total cooling-network envelope|**~237 g/brick** using effective split: **40% vapor void / 45% Si₃N₄ ceramic-wick/liner solid / 15% ethanol-water charge**|
-|**Field Isolation / Trace Hull**|NiZn ferrite-loaded polyimide ceramic composite with steel-capped copper traces|Suppresses magnetic cross-talk between adjacent cell coils while carrying isolated pulse-power traces to each coil|**~100 cm³/brick**, approx. **99:1 composite:trace-metal by volume**|**~384 g/brick** using **70:30 NiZn ferrite:polyimide composite** and **90:10 copper:steel trace metal by volume**|
-|**Thermal Ceramic Bonding / Interface Media**|Two-stage ceramic bonding set: primary high-temperature ceramic interface bond + secondary lower-temperature capillary fill / wick-anchor media, approx. **1:1 by volume**|Bonds CVD SiC cell shells, Al₂O₃–mullite Ox/Ox CMC carrier geometry, silicon-nitride channel liners, and ceramic wick contact surfaces while preserving alignment during laminated assembly|**~50 cm³/brick**, approx. **25 cm³ primary bond / 25 cm³ capillary fill**|**~128 g/brick** using **2.55 g/cm³** first-pass glass-ceramic / polymer-derived ceramic density|
+| Part                                          | Material Choice                                                                                                                                                            | Function                                                                                                                                                                                    | Per-Brick Volume Allowance                                                 | Per-Brick Mass Allowance                                                                                                   |
+| --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Brick Surface / Carrier**                   | Alumina–mullite oxide/oxide CMC                                                                                                                                            | Provides the rigid structural container for packaged actuator cells; maintains alignment and brick integrity                                                                                | **~240 cm³/brick**                                                         | **~566 g/brick** using **2.36 g/cm³** first-pass Ox/Ox CMC density                                                         |
+| **Shared Vapor Cooling Network**              | Silicon-nitride-lined alumina–mullite CMC microchannels with ethanol–water working fluid, **3:7 ethanol**:water                                                            | Moves heat from enclosed cells to brick manifolds and ringframe cooling loops; also performs local heat-spreading through the channel lattice                                               | **~150 cm³/brick** total cooling-network envelope                          | **~237 g/brick** using effective split: **40% vapor void / 45% Si₃N₄ ceramic-wick/liner solid / 15% ethanol-water charge** |
+| **Field Isolation / Trace Hull**              | NiZn ferrite-loaded polyimide ceramic composite with steel-capped copper traces                                                                                            | Suppresses magnetic cross-talk between adjacent cell coils while carrying isolated pulse-power traces to each coil                                                                          | **~100 cm³/brick**, approx. **99:1 composite:trace-metal by volume**       | **~384 g/brick** using **70:30 NiZn ferrite:polyimide composite** and **90:10 copper:steel trace metal by volume**         |
+| **Thermal Ceramic Bonding / Interface Media** | Two-stage ceramic bonding set: primary high-temperature ceramic interface bond + secondary lower-temperature capillary fill / wick-anchor media, approx. **1:1 by volume** | Bonds CVD SiC cell shells, Al₂O₃–mullite Ox/Ox CMC carrier geometry, silicon-nitride channel liners, and ceramic wick contact surfaces while preserving alignment during laminated assembly | **~50 cm³/brick**, approx. **25 cm³ primary bond / 25 cm³ capillary fill** | **~128 g/brick** using **2.55 g/cm³** first-pass glass-ceramic / polymer-derived ceramic density                           |
 
 ## 2.3 Treasury Notes
 
@@ -211,59 +204,32 @@ This line is not exterior hull plating and not brick cassette stock. It is the f
 This profile defines the ring hull lading basis for a minimally compliant structural ring: flexible only where compliance prevents fatigue, thermal binding, or actuator misalignment, and stiff everywhere registration or compression geometry must be preserved.
 
 - **Ringframe role:** the ring hull is the fixed actuator bay and force-loop closure structure for one active ring. It anchors the glide pipe, fixed RSL stator, piston alignment stack, and brick cassette station.
-    
 - **Station count:** **360 actuator stations per ring**.
-    
 - **Brick tangential width:** **0.3 m/station**.
-    
 - **Minimum circumferential inter-brick gap:** **0.05 m/station** between adjacent brick stations around the ring at maximum extension.
-    
 - **Circumferential station pitch:** **0.35 m/station** from 0.3 m brick width + 0.05 m minimum circumferential gap.
-    
 - **Derived ring circumference:** **126 m** from 360 × 0.35 m.
-    
 - **Derived nominal ring radius / Rmax reference:** **~20.05 m** from 126 m / 2π.
-    
 - **Axial bay thickness:** first-pass **~0.2 m**, equal to roughly twice the brick axial thickness.
-    
 - **Radial bay height / ringframe depth:** first-pass **~0.3 m** off the brick edge, before actuator envelope refinements.
-    
 - **Maximum stroke target:** not to exceed **2 m**.
-    
 - **Nimbus reference full stroke envelope:** **1.68 m**.
-    
 - **Brick radial thickness:** **0.1 m**.
-    
 - **Minimum radial clearance after brick body allowance:** **0.05 m**.
-    
 - **Net usable radial brick stroke:** **1.53 m**, from 1.68 m full stroke envelope − 0.1 m brick radial thickness − 0.05 m clearance.
-    
 - **Compliance requirement:** ringframe compliance is allowed only as controlled radial, face-to-face, and thermal breathing. It must not permit circumferential station drift, bay collapse, or actuator-axis wander.
-    
 - **Lateral stiffness requirement:** the ringframe must resist circumferential bending, ovalization, and station-to-station phase drift across all 360 actuator bays.
-    
 - **Thickness compression requirement:** the ringframe must resist through-thickness compression from piston reaction loads and preserve actuator socket geometry under cyclic loading.
-    
 - **Radial compliance requirement:** the ringframe may flex microscopically in the radial direction to absorb piston shock, thermal expansion mismatch, and tolerance error without cracking the ceramic-composite scute ribs.
-    
 - **Face-to-face compliance requirement:** the ringframe may breathe across its broad faces to avoid thermal lockup and overconstraint, but this compliance must not disturb glide-pipe, stator, or piston alignment.
-    
 - **Material choice:** **Beta-titanium core with segmented SiC/SiC ceramic-composite scutes, silicon-nitride bushings, and compliant glass-ceramic isolation layers**.
-    
 - **Material ratio, first pass by solid volume:** **55% beta-titanium core / 25% SiC-SiC ceramic-composite scutes / 10% silicon-nitride bushings / 10% compliant glass-ceramic isolation layers**.
-    
 - **Solid fraction, first pass:** **~40% solid lading / ~60% void, actuator socket space, channels, and flexure relief**. This is a working estimate until ring-bay cross-section and cutout geometry are finalized.
-    
 - **Actuator socket rule:** piston, glide pipe, and RSL stator loads must be reacted into the titanium core and circumferential stiffening path, not into the brick cassette or ceramic scutes alone.
-    
 - **Magnetic-path rule:** bulk ring hull material must not become an uncontrolled magnetic path. Magnetic flux-path materials belong only in separate actuator stator inserts.
-    
 - **Thermal/electrical isolation rule:** ceramic-composite scutes, silicon-nitride bushings, and glass-ceramic isolation layers reduce unwanted heat and electrical conduction between actuator hardware, ringframe, and brick cassette.
-    
 - **Service doctrine:** glide pipes, bushings, lubricant films, and actuator socket wear interfaces are replaceable wear stock; the ringframe is inspected for fatigue, scute cracking, bushing ovalization, and bond-layer shear.
-    
 - **Design summary:** the minimally compliant ring should behave as a titanium-cored anisotropic ceramic-composite-scute-ribbed ringframe: ductile in cyclic flexure, stiff circumferentially, crush-resistant through thickness, thermally isolated, and radially forgiving only within controlled tolerances.
-    
 
 ---
 

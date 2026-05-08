@@ -3,13 +3,9 @@
 ## Nimbus Class
 
 - **Size:** 70 - 120 meters
-    
 - **Crew:** 10-20
-    
 - **Cargo Space:** Small (suitable for personal goods, tools, or small deliveries)
-    
 - **Role:** Agile, quiet planetary and low-orbit transport for freelancers. Ideal for small-scale tasks.
-    
 
 ### Nimbus Detail
 
