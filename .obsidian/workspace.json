@@ -6,7 +6,7 @@
       {
         "id": "1260407b737f1beb",
         "type": "tabs",
-        "dimension": 45.33333333333333,
+        "dimension": 45.333333333333336,
         "children": [
           {
             "id": "1d5c145100e6a09e",
@@ -133,7 +133,7 @@
       {
         "id": "dccc66327d4c2972",
         "type": "tabs",
-        "dimension": 54.666666666666664,
+        "dimension": 54.66666666666667,
         "children": [
           {
             "id": "9a4aa00c8a45996c",
@@ -289,11 +289,11 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "1d5c145100e6a09e",
+  "active": "9a4aa00c8a45996c",
   "lastOpenFiles": [
-    "Lore/Ship Technology/Ship Materials Average Lading.md",
-    "Lore/Ship Technology/Ship Detail - List of Ships.md",
     "Lore/1 Task List.md",
+    "Lore/Ship Technology/Ship Detail - List of Ships.md",
+    "Lore/Ship Technology/Ship Materials Average Lading.md",
     "Lore/Ship Technology/Ship Operations.md",
     "Lore/Ship Technology/Ship Mechanisms.md",
     "Lore/Ship Technology/ISCD Compression Ratios.md",

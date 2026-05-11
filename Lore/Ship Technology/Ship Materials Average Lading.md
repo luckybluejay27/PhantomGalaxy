@@ -130,12 +130,12 @@ These values allocate the **~540 cm³ repeated non-cell structure volume** from 
 Dedicated thermal spreaders are not booked as a separate lading class; local heat spreading is included under the shared vapor-channel lattice.
 
 
-| Part                                          | Material Choice                                                                                                                                                            | Function                                                                                                                                                                                    | Per-Brick Volume Allowance                                                 | Per-Brick Mass Allowance                                                                                                   |
-| --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **Brick Surface / Carrier**                   | Alumina–mullite oxide/oxide CMC                                                                                                                                            | Provides the rigid structural container for packaged actuator cells; maintains alignment and brick integrity                                                                                | **~240 cm³/brick**                                                         | **~566 g/brick** using **2.36 g/cm³** first-pass Ox/Ox CMC density                                                         |
-| **Shared Vapor Cooling Network**              | Silicon-nitride-lined alumina–mullite CMC microchannels with ethanol–water working fluid, **3:7 ethanol**:water                                                            | Moves heat from enclosed cells to brick manifolds and ringframe cooling loops; also performs local heat-spreading through the channel lattice                                               | **~150 cm³/brick** total cooling-network envelope                          | **~237 g/brick** using effective split: **40% vapor void / 45% Si₃N₄ ceramic-wick/liner solid / 15% ethanol-water charge** |
-| **Field Isolation / Trace Hull**              | NiZn ferrite-loaded polyimide ceramic composite with steel-capped copper traces                                                                                            | Suppresses magnetic cross-talk between adjacent cell coils while carrying isolated pulse-power traces to each coil                                                                          | **~100 cm³/brick**, approx. **99:1 composite:trace-metal by volume**       | **~384 g/brick** using **70:30 NiZn ferrite:polyimide composite** and **90:10 copper:steel trace metal by volume**         |
-| **Thermal Ceramic Bonding / Interface Media** | Two-stage ceramic bonding set: primary high-temperature ceramic interface bond + secondary lower-temperature capillary fill / wick-anchor media, approx. **1:1 by volume** | Bonds CVD SiC cell shells, Al₂O₃–mullite Ox/Ox CMC carrier geometry, silicon-nitride channel liners, and ceramic wick contact surfaces while preserving alignment during laminated assembly | **~50 cm³/brick**, approx. **25 cm³ primary bond / 25 cm³ capillary fill** | **~128 g/brick** using **2.55 g/cm³** first-pass glass-ceramic / polymer-derived ceramic density                           |
+| Part                                          | Material Choice                                                                                                                                                            | Function                                                                                                                                                                                    | Per-Brick Volume Allowance                                                 | Per-Brick Mass Allowance                                                                                           |
+| --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Brick Surface / Carrier**                   | Alumina–mullite oxide/oxide CMC                                                                                                                                            | Provides the rigid structural container for packaged actuator cells; maintains alignment and brick integrity                                                                                | **~240 cm³/brick**                                                         | **~566 g/brick** using **2.36 g/cm³** first-pass Ox/Ox CMC density                                                 |
+| **Shared Vapor Cooling Network**              | **Copper microchannels with FC-72 working fluid**                                                                                                                          | Moves heat from enclosed cells to brick manifolds and ringframe cooling loops; also performs local heat-spreading through the channel lattice                                               | **~150 cm³/brick** total cooling-network envelope                          | **~250 g/brick** using effective split: **40% vapor void / 45% Cu / 15% FC-72 charge**                             |
+| **Field Isolation / Trace Hull**              | NiZn ferrite-loaded polyimide ceramic composite with steel-capped copper traces                                                                                            | Suppresses magnetic cross-talk between adjacent cell coils while carrying isolated pulse-power traces to each coil                                                                          | **~100 cm³/brick**, approx. **99:1 composite:trace-metal by volume**       | **~384 g/brick** using **70:30 NiZn ferrite:polyimide composite** and **90:10 copper:steel trace metal by volume** |
+| **Thermal Ceramic Bonding / Interface Media** | Two-stage ceramic bonding set: primary high-temperature ceramic interface bond + secondary lower-temperature capillary fill / wick-anchor media, approx. **1:1 by volume** | Bonds CVD SiC cell shells, Al₂O₃–mullite Ox/Ox CMC carrier geometry, silicon-nitride channel liners, and ceramic wick contact surfaces while preserving alignment during laminated assembly | **~50 cm³/brick**, approx. **25 cm³ primary bond / 25 cm³ capillary fill** | **~128 g/brick** using **2.55 g/cm³** first-pass glass-ceramic / polymer-derived ceramic density                   |
 
 
 ## 2.3 Treasury Notes
@@ -197,7 +197,7 @@ Capacitor lading covers the minimum energy storage required to drive piston actu
 | **Part**             | **Material Choice**                                           | **Function**                                                 | **Per-Ring Quantity** | **Per-Ring Mass** | **Per-Ring Volume** | **Notes**                                                            |
 | -------------------- | ------------------------------------------------------------- | ------------------------------------------------------------ | --------------------- | ----------------- | ------------------- | -------------------------------------------------------------------- |
 | Supercapacitor Cells | Space-grade lithium-free hybrid (206 Wh/kg, 59.74 Wh/L, 3.3V) | Energy storage for piston actuation and regenerative braking | 0.5 cells             | 2.75 kg           | 10 L                | 1 kWh cells, 400×300×167 mm, 5.5 kg each. Distributed every 2 rings. |
-| Capacitor Buswork    | Copper busbars with ceramic insulation                        | Power distribution to RSL actuators                          | Included in cell mass | Included          | Included            | Integral to cell assembly.                                           |
+| Capacitor Buswork    | Copper busbars with ceramic insulation                        | Power distribution to RSL actuators                          | Included in cell mass | Included          | Included            | Integral to cell assembly. $1                                        |
 | Thermal Management   | Passive cooling (integrated with ringframe)                   | Heat dissipation for banks                                   | Included in cell mass | Included          | Included            | Assumes shared cooling loops.                                        |
 
 
@@ -334,6 +334,58 @@ Multiply the per-ring totals by ring count for each coil class. These values inc
 
 ---
 
+# 6. Thermal Management Lading
+
+Thermal management lading covers the minimum heat rejection and storage requirements to maintain ISCD coil, piston, and reactor systems within operational temperature limits. This includes heat transport, buffering, and final ejection via radiators. All values are first-pass treasury minimums for supply-chain fault checking and mass-accounting.
+
+---
+
+### Constraints and Rules
+
+- **Heat Ejection Rule**: Thermal systems must reject **3 GW continuous** (Nimbus baseline) to prevent ISCD derating or structural failure.
+- **Placement Rule**: Systems are distributed in the **2m radial × 35–60m axial crawl space** and **ship exterior**.
+- **Redundancy Rule**: **10% buffer** for safety protocols as per Terran Federation's Compliance Adherence.
+- **Material Rule**: Use **FC-72 for brick-level**, **copper microchannels**, **niobium pipes for lithium**, **LiF for edge banks**, and **graphite foam for radiators**.
+
+---
+
+
+| **Part**                | **Material Choice**             | **Function**                        | **Per-Ring Quantity** | **Per-Ring Mass** | **Per-Ring Volume** | **Notes**                                                 |
+| ----------------------- | ------------------------------- | ----------------------------------- | --------------------- | ----------------- | ------------------- | --------------------------------------------------------- |
+| Brick Cooling Loops     | Copper microchannels with FC-72 | Primary heat removal from bricks    | 360 loops             | 90 kg             | 54 L                | Replaces ceramic/ethanol-water; per brick                 |
+| Lithium Transport Pipes | Niobium alloy + liquid lithium  | Ring-level heat transport           | 10 loops              | 1.5 t             | 0.5 m³              | High-temp, corrosion-resistant                            |
+| LiF Heat Banks          | Lithium Fluoride                | Edge-mounted phase-change buffering | 0.1 banks             | 51 kg             | 19.3 L              | 1 bank per 10 rings                                       |
+| Graphite Foam Radiators | Graphite foam                   | Final heat ejection to space        | 150 m²                | 1.5 kg            | 15 L                | Deployable panels; total ship area scales with ring count |
+
+
+---
+
+**Treasury Notes**
+
+- Procurement must account for **10% overage** for spares and maintenance stock.
+- Do not double-count heat transport components as separate lading; these are included in the thermal system totals.
+- Thermal systems are **not** part of the 0.25 cm³/cell packaged actuator-cell allowance (Section 1).
+
+---
+
+#### Per-Ship Totals
+
+
+| **Ship / Coil** | **Ring Count** | **Total Mass** | **Total Volume** | **Radiator Area** | **Notes**            |
+| --------------- | -------------- | -------------- | ---------------- | ----------------- | -------------------- |
+| Nimbus          | 200            | 470 t          | 514 m³           | 30,000 m²         | Includes deployables |
+| Zephyr          | 300            | 705 t          | 771 m³           | 45,000 m²         | Scaled linearly      |
+| Stratus         | 400            | 940 t          | 1,028 m³         | 60,000 m²         | &nbsp;               |
+| Atlas           | 600            | 1,410 t        | 1,542 m³         | 90,000 m²         | &nbsp;               |
+
+
+---
+
+**Authorization**  
+Contact the Department of Engineering of Thermal Systems (DETS) for approved changes to these listings, such as extra thermal mass, mechanical changes for repair constructs, or drone software updates.
+
+---
+
 # Authorization Register
 
 This register is a minimums sheet for treasury reconciliation and supply-chain fault checking. Signatures below certify that the listed lading allowances are acceptable as the current minimum truth basis for detecting ordering, loading, or accounting faults.
@@ -357,4 +409,4 @@ This register is a minimums sheet for treasury reconciliation and supply-chain f
 | ISCD Actuation Engineering      | [insert marker]     |
 | Ringframe Structures Office     | [insert marker]     |
 | Brick Cassette Materials Office | [insert marker]     |
-| Strategic Stock Custody         | [ins                |
+| Strategic Stock Custody         | [insert marker]     |
