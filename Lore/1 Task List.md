@@ -3,6 +3,7 @@
 - [ ] Init
   - [ ] Tannon Conlang Completion
   - [ ] The Azar (Finalize details on their obscurity & purpose)
+  - [ ] Retcon Juvia to be located in Wolf 1069 B
   - [ ] Terra
     - [ ] Economy Detail
     - [ ] Engineering
@@ -34,17 +35,17 @@
   - [ ] **Ship Materials Average Lading.md**
     - [ ] Ship Lading
       - [ ] Heat Banks
-      - [ ] Capacitors
-        - [ ] Banks load to capacitors and drive sips that
-        - [ ] never full throttle her. Sip up to 80% of max load
+      - [x] Capacitors
+        - [x] Banks load to capacitors and drive sips that
+        - [x] never full throttle her. Sip up to 80% of max load
       - [ ] Hybrid Drives
       - [ ] Battery Banking
       - [ ] Fissile Compartments
-  - [ ] **Ship Mechanisms.md**
-    - [ ] Collimation Drive or Heavy Ion
-  - [ ] **Ship Operations.md**
-    - [ ] Navigation Data:
-      - [ ] Total Cumulative Daily Displacement: 15,552 km (at 1 kHz)
+  - [x] **Ship Mechanisms.md**
+    - [x] Collimation Drive or Heavy Ion
+  - [x] **Ship Operations.md**
+    - [x] Navigation Data:
+      - [x] Total Cumulative Daily Displacement: 15,552 km (at 1 kHz)
   - [ ] **Habitat Systems.md**
     - [ ] **Hab Structures Document**
       - [ ] How attach to internal Hull
