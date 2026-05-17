@@ -207,7 +207,7 @@
 | To have                   | oriʔɸi              |        |       |
 | Inside                    | vʊili               |        |       |
 | To lack                   | ʒeliɸi              |        |       |
-|                           |                     |        |       |
+| Still/continuous/ongoing  | Kyute               |        |       |
 |                           |                     |        |       |
 |                           |                     |        |       |
 |                           |                     |        |       |
