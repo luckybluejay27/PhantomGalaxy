@@ -144,29 +144,30 @@ Conditionals modify verbs, but appear prior to the conjugated form, as a word. M
 
 In Juvian, relative constructions are formed by applying a **prefix to the verb**, modifying the action itself rather than the subject or object. These prefixes indicate the type of comparison being made. There is no marker, the prefix is attached to the working verb or in some cases the working noun. 
 
-| Modifier | Function | Example | Gloss |
-| --- | --- | --- | --- |
-| χa | Coordinating (and) | irmǀi χa mukǀi | I walk and I speak. |
-| χon | Coordinating (or) | irmǀi χon mukǀi | I walk or I speak. |
-| ʒe | Subordinating (if) | ʒe irmǀi, mukǀi | If I walk, I speak. |
-| ʒen | Subordinating (because) | irmǀi ʒen kasʒa | I walk because I am happy. |
-| ǀoti | Genitive (of) | ǀoti ʒaǀ ship | of the ship |
-| koka- | More (than) | koka-irmli ʒaǀ | I walk more than |
-| roka- | Less (than) | roka-latʒaǀ ʒaǀu | they (S) eat less than them (P) |
-| suɸa- | Most (of all) | suɸa-nekli lu | I sleep more than most of you |
-| ǀuta- | Least (of all) | ǀuta-luta-felʒaβ lu | We give less than you |
-| teko- | As (adj) as | teko-kasʒan koni ʒan | We (G) lift as much as we (NG) |
-| tayko- | Too (excessive) | tayko-zetʒaǀ | They (S) see too much |
-| meka- | Enough (to X) | meka-mukli tokʒan | I speak enough to take |
-| koni | Than (linker word) | koni hok | than them |
-| ǀy | The (article) | ǀy irm | the walk |
-| qu | a (article) | qu irm | a walk |
-| t͡ʃi | please/kindly | t͡ʃ irkǀi | please walk | 
-| uβt | Some | uβt ?uɹirmli | You do some walking |
-| aniβt | All | aniβt irmlika | All of you walk |
+| Modifier | Function                | Example              | Gloss                           |     |
+| -------- | ----------------------- | -------------------- | ------------------------------- | --- |
+| χa       | Coordinating (and)      | irmǀi χa mukǀi       | I walk and I speak.             |     |
+| χon      | Coordinating (or)       | irmǀi χon mukǀi      | I walk or I speak.              |     |
+| ʒe       | Subordinating (if)      | ʒe irmǀi, mukǀi      | If I walk, I speak.             |     |
+| ʒen      | Subordinating (because) | irmǀi ʒen kasʒa      | I walk because I am happy.      |     |
+| ǀoti     | Genitive (of)           | ǀoti ʒaǀ ship        | of the ship                     |     |
+| koka-    | More (than)             | koka-irmli ʒaǀ       | I walk more than                |     |
+| roka-    | Less (than)             | roka-latʒaǀ ʒaǀu     | they (S) eat less than them (P) |     |
+| suɸa-    | Most (of all)           | suɸa-nekli lu        | I sleep more than most of you   |     |
+| ǀuta-    | Least (of all)          | ǀuta-luta-felʒaβ lu  | We give less than you           |     |
+| teko-    | As (adj) as             | teko-kasʒan koni ʒan | We (G) lift as much as we (NG)  |     |
+| tayko-   | Too (excessive)         | tayko-zetʒaǀ         | They (S) see too much           |     |
+| meka-    | Enough (to X)           | meka-mukli tokʒan    | I speak enough to take          |     |
+| koni     | Than (linker word)      | koni hok             | than them                       |     |
+| ǀy       | The (article)           | ǀy irm               | the walk                        |     |
+| qu       | a (article)             | qu irm               | a walk                          |     |
+| t͡ʃi     | please/kindly           | t͡ʃ irkǀi            | please walk                     |     |
+| uβt      | Some                    | uβt ?uɹirmli         | You do some walking             |     |
+| aniβt    | All                     | aniβt irmlika        |  All of you walk                |     |
+
 ---
 
-## Juvian Interrogatives – Unchained Verbalizations
+## Juvian Interrogatives – Unchained Verbalization
 
 Interrogatives in Juvian are not standalone nouns but **verb-rooted queries** that cannot be nominalized. These forms behave as "unchained verbalizations"—a verb posed in isolation or minimal context, querying action, identity, method, or reasoning. They are always structured around a **conjugated verb**, with the subject often implied or marked with suffix.
 

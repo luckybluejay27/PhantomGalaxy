@@ -21,6 +21,13 @@ The **Juvian** are an advanced, highly adaptable arachnoid species originating f
 - **Females:** Larger, more robust, with denser exoskeletal plating.
 - **Males:** More agile, with enhanced sensory capabilities.
 - **Both Sexes:** Exhibit high endurance and rapid limb articulation.
+
+#### Reproduction
+
+ There isn't an intercourse process for Juvians. Usually a spermatophore is produced by the male and gifted to the female. The female either rejects it (consumes it) or brings it to a burrow.
+ Upon accepting a spermatophore (a ball of silk containing sperm banks) the female will begin a premolt stage willfully, as the male brings it food to support their mates new growth. Once the prosoma is of sufficient size, the ball is peirced and the contents absorbed through spiracles in the prosomal tip, where it travels up the tubes to fertilize free floating eggs in the cervical loop. It takes approximately 1 Terran week to know if the eggs were successfully fertilized, resulting in discoloration of the prosoma, or disdentation of the spiracles along the side of the prosoma. After approximately a half orbit around their star, small eggs will eject from the prosoma into the nest, and another two terran days of wait until they complete their forms and can hatch.
+
+Juvians usually birth between two and eight spiderlings in a clutch. Once born, the male removes the clutch and builds a new burrow for them, and starts prepping their egg sacs into liquidized portions for initial consumption, so the slings intake the enzymes proteins and bacteria of the mother. In the meantime the mother completes a second molt to return to normal body plan and rests for a quarter cycle around their star. 
 ### **Evolutionary History**
 
 Juvians evolved from **eight-legged ambush predators**, later developing grasping forelimbs for advanced tool use. Their upright torsos and adaptive neural structures facilitated technological and cultural development
