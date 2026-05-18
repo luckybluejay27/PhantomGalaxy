@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 [← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md "null")
 
 | Word                      | Translation(Plural) | Symbol | Notes                                      | Word (Verb)     | Translation(Plural) | Symbol | Notes                                       |
@@ -61,13 +63,14 @@
 | Female                    | ɹi?                 |        | Robust skeletal plating                    | To throw        | vʒ-ʒ?apɸ            |        | Throw (out-hit)                             |
 | Fire                      | ɹaʒ                 |        |                                            | To tie          | iɹɸ                 |        |                                             |
 | Flesh                     | seǀ                 |        |                                            | To travel       | t'ap                |        |                                             |
-| Food/meal                 | ɹpu                 |        | Prey meat/fluid source                     | To vomit        | vʒ-ɹpuβɸ            |        | Vomit (out-eat)                             |
-| Foot                      | ʒkɪβ                |        | Digitigrade terminal limb                  | To walk         | irm                 |        | Walk (bipedal-forward)                      |
-| Friend                    | ǀuβ(i)              |        | Cooperative partner                        | To Want         | ɹiβ                 |        |                                             |
-| Full                      | vʊ-t'ɹek            |        | Full (inside-whole)                        | To wash / clean | ʒeβi-loqɸ           |        | Wash (water-good verb)                      |
-| Good                      | loq                 |        |                                            | To weep         | iqɹ-ʒeβi-eoqɸ       |        | Weep (sad-water-after)                      |
-| Hand                      | ʒgɪβ                |        | Grasping forelimb                          | To yawn / vent  | vʒ-t'ɪsɸ            |        | Vent (out-blow / pressure release)          |
-| Happy                     | sʊɹiq               |        |                                            | To yearn / hope | vaqʒ-ɹiβ            |        | Yearn (soon-want)                           |
+| Fly/Drone                 | ɹik?eɸi             |        |                                            | To vomit        | vʒ-ɹpuβɸ            |        | Vomit (out-eat)                             |
+| Food/meal                 | ɹpu                 |        | Prey meat/fluid source                     | To walk         | irm                 |        | Walk (bipedal-forward)                      |
+| Foot                      | ʒkɪβ                |        | Digitigrade terminal limb                  | To Want         | ɹiβ                 |        |                                             |
+| Friend                    | ǀuβ(i)              |        | Cooperative partner                        | To wash / clean | ʒeβi-loqɸ           |        | Wash (water-good verb)                      |
+| Full                      | vʊ-t'ɹek            |        | Full (inside-whole)                        | To weep         | iqɹ-ʒeβi-eoqɸ       |        | Weep (sad-water-after)                      |
+| Good                      | loq                 |        |                                            | To yawn / vent  | vʒ-t'ɪsɸ            |        | Vent (out-blow / pressure release)          |
+| Hand                      | ʒgɪβ                |        | Grasping forelimb                          | To yearn / hope | vaqʒ-ɹiβ            |        | Yearn (soon-want)                           |
+| Happy                     | sʊɹiq               |        |                                            |                 |                     |        |                                             |
 | Hard                      | eq                  |        |                                            |                 |                     |        |                                             |
 | Head                      | osɹ                 |        | Cephalothorax head case                    |                 |                     |        |                                             |
 | Heavy                     | ut'βk               |        |                                            |                 |                     |        |                                             |
@@ -80,7 +83,7 @@
 | Hungry                    | ukɹq                |        |                                            |                 |                     |        |                                             |
 | Ice                       | kupɹ-ʒeβi           |        | Ice (cold-water)                           |                 |                     |        |                                             |
 | If                        | ?e                  |        |                                            |                 |                     |        |                                             |
-| In                        | vʊ                  |        |                                            |                 |                     |        |                                             |
+| Juvian                    | ǀirǀuβiat           |        | Juvian (Hoviian) - name of the species     |                 |                     |        |                                             |
 | Ineffective               | epɸe-lɹiɹq          |        |                                            |                 |                     |        |                                             |
 | Inside                    | !u?                 |        |                                            |                 |                     |        |                                             |
 | Inside                    | vʊili               |        |                                            |                 |                     |        |                                             |
@@ -129,10 +132,12 @@
 | Pain                      | ugɹʔ                |        | Physical system error                      |                 |                     |        |                                             |
 | Part                      | i?                  |        |                                            |                 |                     |        |                                             |
 | Person                    | kɸ                  |        | Juvian individual                          |                 |                     |        |                                             |
+| period (time)             | aβi?                |        |                                            |                 |                     |        |                                             |
 | Pillar                    | eq-osɹ              |        | Structural city column (hard-head)         |                 |                     |        |                                             |
 | Planet                    | ukɸ                 |        |                                            |                 |                     |        |                                             |
 | Plant                     | ɸik                 |        | Subterranean bioluminescent flora          |                 |                     |        |                                             |
 | Poison                    | veɹ                 |        | Environmental toxicity                     |                 |                     |        |                                             |
+| Power Plant               | ɹaʒetet             |        | Energy creation building                   |                 |                     |        |                                             |
 | Pressure                  | poβt'               |        | Hemolymph/Pneumatic muscle force           |                 |                     |        |                                             |
 | Radiative                 | eqʊʔk               |        |                                            |                 |                     |        |                                             |
 | Radio Static Hurt         | ugɹok               |        |                                            |                 |                     |        |                                             |
@@ -147,6 +152,7 @@
 | Rope untied               | epɸe-iɹt'q-ups      |        |                                            |                 |                     |        |                                             |
 | Sad                       | iqɹk                |        |                                            |                 |                     |        |                                             |
 | Scale                     | puɸs                |        | Exoskeleton texture plate                  |                 |                     |        |                                             |
+| Science                   | kequtet             |        |                                            |                 |                     |        |                                             |
 | Sea                       | uɸliv               |        |                                            |                 |                     |        |                                             |
 | Sensory Hair              | t'ɪs-puɸs           |        | Wind-scale (vibration trichobothria)       |                 |                     |        |                                             |
 | Short                     | qɹk                 |        |                                            |                 |                     |        |                                             |
@@ -172,8 +178,9 @@
 | Still/continuous/ongoing  | kyute               |        | Ongoing process                            |                 |                     |        |                                             |
 | Stone                     | op                  |        | Subterranean substrate block               |                 |                     |        |                                             |
 | Sun                       | ilqɹ                |        | Star light source                          |                 |                     |        |                                             |
-| Tail / Telson             | eoq-ʒkɪβ            |        | Rear sensory appendage (after-foot)        |                 |                     |        |                                             |
+| Tail/prosoma              | eoq-ʒkɪβ            |        | Rear sensory appendage (after-foot)        |                 |                     |        |                                             |
 | Temperate                 | iβt'                |        | Balanced thermal zone                      |                 |                     |        |                                             |
+| Technology                | keβuqeti            |        |                                            |                 |                     |        |                                             |
 | There                     | kiɹ                 |        |                                            |                 |                     |        |                                             |
 | Thought                   | iɸt'                |        | Neurological signal process                |                 |                     |        |                                             |
 | Three                     | gɹ                  |        |                                            |                 |                     |        |                                             |
@@ -181,6 +188,7 @@
 | Tie                       | iɹt'                |        |                                            |                 |                     |        |                                             |
 | Tied                      | iɹt'q               |        |                                            |                 |                     |        |                                             |
 | Tooth                     | βiliʒt'             |        | Mandible cutting tooth                     |                 |                     |        |                                             |
+| Toxic                     | veɹsoqi             |        |                                            |                 |                     |        |                                             |
 | True / Truth              | t͡ʃaβ               |        | Verified factual status                    |                 |                     |        |                                             |
 | Two                       | opv                 |        |                                            |                 |                     |        |                                             |
 | Type                      | taʒ                 |        |                                            |                 |                     |        |                                             |
@@ -191,3 +199,9 @@
 | Wind                      | t'ɪs                |        | Atmosphere flow / air                      |                 |                     |        |                                             |
 | Wood                      | eq-ɸik              |        | Stiff structural plant matter              |                 |                     |        |                                             |
 | Word                      | ɪq-βʊs              |        | Discrete semantic speech unit (speech-dot) |                 |                     |        |                                             |
+| Work/job                  | χatɹi               |        |                                            |                 |                     |        |                                             |
+| Efficiency                | loqetet             |        |                                            |                 |                     |        |                                             |
+| Acid                      | veɹ-ʒeβi            |        |                                            |                 |                     |        |                                             |
+| weak/fragile              | anisoq              |        |                                            |                 |                     |        |                                             |
+| Strong/Resilient          | ǀosoq               |        |                                            |                 |                     |        |                                             |
+|                           |                     |        |                                            |                 |                     |        |                                             |

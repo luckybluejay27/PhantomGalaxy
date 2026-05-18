@@ -43,16 +43,17 @@ Explore the lore of Phantom Galaxy by following the links below:
       - [TMF Physiology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Maid%20Foundation/TMF%20Physiology.md)
       - [TMF Psychology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Maid%20Foundation/TMF%20Psychology.md)
     - **The Woven**
-      - [The Woven 'Conlang'](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20'Conlang'.md)
-      - [The Woven 'Government'](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20'Government'.md)
       - [The Woven Biology](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20Biology.md)
+      - [The Woven 'Conlang'](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20'Conlang'.md)
       - [The Woven Culture](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20Culture.md)
+      - [The Woven 'Government'](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Factions%20and%20Adjacent/The%20Woven/The%20Woven%20'Government'.md)
   - [InterStellar TimeLine](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/InterStellar%20TimeLine.md)
   - **Ship Technology**
     - [ISCD Compression Ratios](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/ISCD%20Compression%20Ratios.md)
+    - [Ship Detail - List of Ships](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Ship%20Detail%20-%20List%20of%20Ships.md)
     - [Ship Materials Average Lading](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Ship%20Materials%20Average%20Lading.md)
     - [Ship Mechanisms](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Ship%20Mechanisms.md)
     - [Ship Operations](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Ship%20Operations.md)
 - [README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 
-Documentation generated automatically on 2026-04-06 06:20:59 UTC
+Documentation generated automatically on 2026-05-18 11:15:15 UTC
