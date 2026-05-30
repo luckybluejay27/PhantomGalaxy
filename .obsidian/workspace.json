@@ -40,30 +40,6 @@
         "dimension": 54.75555555555556,
         "children": [
           {
-            "id": "d19caf9f455ce185",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Ship Technology/Ship Detail - List of Ships.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ship Detail - List of Ships"
-            }
-          },
-          {
             "id": "075259692e0decef",
             "type": "leaf",
             "state": {
@@ -87,8 +63,7 @@
               "title": "Ship Propulsion Systems"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,11 +193,14 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "075259692e0decef",
+  "active": "0919a555b523e34f",
   "lastOpenFiles": [
-    "Lore/1 Task List.md",
-    "Lore/Ship Technology/Ship Propulsion Systems.md",
+    "Lore/Factions and Adjacent/Azar Sovereignty/Physiology/Simulacra.md",
+    "Lore/Factions and Adjacent/Azar Sovereignty/Physiology/PhysicalFrames.md",
+    "Lore/Factions and Adjacent/Azar Sovereignty/Physiology/Dormant.md",
     "Lore/Ship Technology/ISCD Compression Ratios.md",
+    "Lore/Ship Technology/Ship Propulsion Systems.md",
+    "Lore/1 Task List.md",
     "ZArchive",
     "Lore/InterStellar TimeLine.md",
     "ZArchive/Ship Mechanisms.md",
@@ -247,12 +225,9 @@
     "Lore/Factions and Adjacent/1 Faction Overview.md",
     "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organisms of Juvia - Phylogeny/Organisms of Juvia - Phylogeny.md",
     "Lore/Factions and Adjacent/Ikee'Ikee Hives",
-    "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organisms of Juvia - Phylogeny/Roqutet/Roqutet.md",
     "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organisms of Juvia - Phylogeny/Roqutet",
     "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organisms of Juvia - Phylogeny",
-    "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Roqutet/Roqutet.md",
     "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Roqutet",
-    "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Roqutet.md",
     "Lore/Factions and Adjacent/Juvian Detail/Cladistics",
     "Lore/Factions and Adjacent/Azar Sovereignty",
     "Lore/Factions and Adjacent/Juvian Detail/Engineering",
