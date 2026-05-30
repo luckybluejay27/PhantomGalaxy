@@ -32,37 +32,42 @@
           - [ ] CNT Thermal Limit (Vacuum): ~3,400 K (Operational limit restricted by dopants)
           - [ ] Heat Dissipation Required: ~1,811 W (at 1 kHz steady state)
 - [ ] Document Organization
-  - [ ] **Ship Materials Average Lading.md**
-    - [ ] Ship Lading
-      - [ ] Heat Banks
-      - [x] Capacitors
-        - [x] Banks load to capacitors and drive sips that
-        - [x] never full throttle her. Sip up to 80% of max load
-      - [ ] Hybrid Drives
-      - [ ] Battery Banking
-      - [ ] Fissile Compartments
-  - [x] **Ship Mechanisms.md**
-    - [x] Collimation Drive or Heavy Ion
-  - [x] **Ship Operations.md**
-    - [x] Navigation Data:
-      - [x] Total Cumulative Daily Displacement: 15,552 km (at 1 kHz)
-  - [ ] **Habitat Systems.md**
-    - [ ] **Hab Structures Document**
-      - [ ] How attach to internal Hull
-      - [ ] Compartmentalization
-      - [ ] Protection from elements
-      - [ ] detail list of on board gear and tooling
-      - [ ] detail list of infrastructure living
-        - [ ] PLumbing
-        - [ ] Electrical
-        - [ ] Oxygenation and atmo
-        - [ ] plant life
-        - [ ] reclamation
-        - [ ] food stores
-        - [ ] fissile stores and sludge sector
-      - [ ] energy containment
-      - [ ] Gravity Tech
-        - [ ] At orbital velocity, can some of that accel be used as gravity using continuous Plasmatic injection thrust?
+	- [ ] [New] Ship Propulsion Systems
+	    - [ ] Realspace Propulsion (Fission Pulse Drive, Trim Thrusters)
+	    - [ ] Internal Transport
+	    - [ ] Diagnostics & Isolation
+	    - [ ] Hybrid Drives
+	    - [ ] Fissile Compartments
+	  - [ ] [New] Ship Power and Thermal
+	    - [ ] Power Generation & Conditioning
+	    - [ ] Thermal Architecture
+	    - [ ] Battery Banking
+	  - [ ] [New] Ship Structure
+	    - [ ] Structure & Alignment
+	  - [ ] [New] Habitat Systems
+	    - [ ] Habitat Gravity
+	    - [ ] Hab Structures Document
+	    - [ ] How attach to internal Hull
+	      - [ ] Compartmentalization
+	      - [ ] Protection from elements
+	      - [ ] Detail list of on-board gear and tooling
+	      - [ ] Detail list of infrastructure living
+	        - [ ] Plumbing
+	        - [ ] Electrical
+	        - [ ] Oxygenation and atmosphere
+	        - [ ] Plant life
+	        - [ ] Reclamation
+	        - [ ] Food stores
+	        - [ ] Fissile stores and sludge sector
+	        - [ ] Energy containment
+	- [ ] [New] Ship Lading 
+		- [ ] Dry weight baseline (link to Ship Structure.md)
+		- [ ] Wet weight calculations (fuel + cargo + consumables) 
+		- [ ] Loading procedures 
+		- [ ] Mass distribution and balance 
+		- [ ] Interfaces with propulsion/thermal systems`
+	- [ ] Gravity Tech
+		- [ ] At orbital velocity, can some of that accel be used as gravity using continuous plasmatic injection thrust?
 
 
 ---
@@ -78,4 +83,28 @@ Trash Note
 	- an era of AI distrust/rampancy (defined as systemic coordination failure more than “killer robots”),
 	- a contained but terrifying runaway self-replication/grey-goo-type disaster (establishing hard taboos around uncontrolled replication),
 	- optional visceral scar events (toxification/nuclear) as legitimacy accelerants.
-- 
+
+### 2.1 Fission Pulse Drive
+
+The Fission Pulse Drive (FPD) is the ship’s primary realspace propulsion system, leveraging the existing **ISCD coil and magnetic containment infrastructure** to generate extreme thrust via controlled fission reactions. Canistered uranium or thorium plasma is **injected into the coil**, where it is **magnetically compressed to near-critical density** using the ringframe’s field. At the moment of ejection, a **trigger mechanism** (laser, particle beam, or magnetic pinch) induces supercriticality, and the resulting fission energy is **directed aft** as a high-velocity plasma jet.
+
+**Interfaces**:
+
+- **ISCD Coil**: Provides magnetic compression and containment.
+    
+- **Neutron Reflectors**: Beryllium/tungsten liners in the coil **scatter escaping neutrons** back into the plasma, increasing fission efficiency.
+    
+- **Ejection Mechanism**: Magnetic railgun or piston system **launches canisters** at high velocity before detonation.
+    
+- **Shielding**: The ship’s **meters-thick ringframe and hull** act as passive radiation shielding; additional **lead/lithium hydride layers** may line the coil.
+    
+
+**Limitations**:
+
+- **Canister Integrity**: Must withstand **magnetic compression forces** and **fission energy release** without premature detonation.
+    
+- **Timing Precision**: Microsecond-level synchronization between **compression, ejection, and criticality trigger** is required to maximize thrust and minimize radiation leakage.
+    
+- **Thermal Load**: While fission occurs externally, **residual heat** from the coil and reflector systems must be managed via existing thermal architecture.
+    
+- **Fuel Handling**: Uranium/thorium storage and canister loading systems must prevent **accidental criticality** during non-operational states.

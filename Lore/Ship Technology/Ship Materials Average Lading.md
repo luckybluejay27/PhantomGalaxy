@@ -40,6 +40,8 @@ This register records the current first-pass lading allowances for ISCD actuatio
 ║ AUTHORIZATIONS ARE RECORDED AT THE BOTTOM OF THIS REGISTER.       ║
 ╚════════════════════════════════════════════════════════════════════╝
 
+
+
 ```
 
 ## 0.1 Minimums Use Rule
@@ -180,7 +182,7 @@ For treasury use, moving mass and fixed station hardware are deliberately separa
 - **Service doctrine:** glide pipes and lubricant films are replaceable wear stock; brick cassettes and actuator subassemblies are line-replaceable rather than internally repaired in the field.
 - **Ring multiplication note:** piston / actuator lading values are listed **per station**. Multiply piston-structure quantities by **360** for one full ring.
 - **RSL actuator mass split:** the regenerative segmented tubular switched-reluctance actuator is counted per station as **~49.6 kg total**, but only the **~4.6 kg moving armature** contributes to piston stroke moving mass; the **~45.0 kg stator** is fixed ringframe-side mass.
-- **Load shoe mass assumption:** ~~2 cm thick annealed-copper backplate covering ~92% of brick top face, plus beta-titanium quad-lug clevis saddle and captive 20 mm lock pin; first-pass total is **~~660 cm³ / ~5.44 kg per station**.
+- **Load shoe mass assumption:** ~~2 cm thick annealed-copper backplate covering ~92% of brick top face, plus beta-titanium quad-lug clevis saddle and captive 20 mm lock pin; first-pass total is~~ **660 cm³ / ~5.44 kg per station**.
 
 ### 3.2 Capacitor Lading
 
@@ -336,55 +338,27 @@ Multiply the per-ring totals by ring count for each coil class. These values inc
 
 ---
 
-# 6. Thermal Management Lading
+## 6. Thermal Management Lading
 
-Thermal management lading covers the minimum heat rejection and storage requirements to maintain ISCD coil, piston, and reactor systems within operational temperature limits. This includes heat transport, buffering, and final ejection via radiators. All values are first-pass treasury minimums for supply-chain fault checking and mass-accounting.
+**Constraints and Rules**
 
----
-
-### Constraints and Rules
-
-- **Heat Ejection Rule**: Thermal systems must reject **3 GW continuous** (Nimbus baseline) to prevent ISCD derating or structural failure.
+- **Heat Ejection Rule**: Thermal systems must reject **7.7 GW continuous** (Nimbus baseline, including FPD) to prevent ISCD derating or structural failure.
 - **Placement Rule**: Systems are distributed in the **2m radial × 35–60m axial crawl space** and **ship exterior**.
-- **Redundancy Rule**: **10% buffer** for safety protocols as per Terran Federation's Compliance Adherence.
-- **Material Rule**: Use **FC-72 for brick-level**, **copper microchannels**, **niobium pipes for lithium**, **LiF for edge banks**, and **graphite foam for radiators**.
-
----
+- **Redundancy Rule**: **10% buffer** for safety protocols as per Terran Federation’s Compliance Adherence.
 
 
-| **Part**                | **Material Choice**             | **Function**                        | **Per-Ring Quantity** | **Per-Ring Mass** | **Per-Ring Volume** | **Notes**                                                 |
-| ----------------------- | ------------------------------- | ----------------------------------- | --------------------- | ----------------- | ------------------- | --------------------------------------------------------- |
-| Brick Cooling Loops     | Copper microchannels with FC-72 | Primary heat removal from bricks    | 360 loops             | 90 kg             | 54 L                | Replaces ceramic/ethanol-water; per brick                 |
-| Lithium Transport Pipes | Niobium alloy + liquid lithium  | Ring-level heat transport           | 10 loops              | 1.5 t             | 0.5 m³              | High-temp, corrosion-resistant                            |
-| LiF Heat Banks          | Lithium Fluoride                | Edge-mounted phase-change buffering | 0.1 banks             | 51 kg             | 19.3 L              | 1 bank per 10 rings                                       |
-| Graphite Foam Radiators | Graphite foam                   | Final heat ejection to space        | 150 m²                | 1.5 kg            | 15 L                | Deployable panels; total ship area scales with ring count |
+| &nbsp;                      | &nbsp;                         | &nbsp;                                             | &nbsp;                              | &nbsp;        | &nbsp;          | &nbsp;                                                           |
+| --------------------------- | ------------------------------ | -------------------------------------------------- | ----------------------------------- | ------------- | --------------- | ---------------------------------------------------------------- |
+| Part                        | Material Choice                | Function                                           | Per-Ring Quantity                   | Per-Ring Mass | Per-Ring Volume | Notes                                                            |
+| **Graphite Foam Radiators** | Graphite foam, niobium alloy   | Passive heat ejection via thermal radiation        | **175 m², 1.875 kg, 17.5 L**        | **1.875 kg**  | **17.5 L**      | 0.1 MW/m² efficiency; **baseline +25 m²/ring for 0.5 GW boost**  |
+| **Lithium Transport Pipes** | Niobium alloy + liquid lithium | Active heat transport from ISCD rings to radiators | **1.6 t, 0.6 m³**                   | **1.6 t**     | **0.6 m³**      | 5 MW/m³ capacity; **baseline +0.1 m³/ring for 0.5 GW transport** |
+| **Droplet Radiator Array**  | Tungsten/rhenium droplets      | Ultra-high heat rejection                          | **55 m², 1.0 kg, 0.1 m³**           | **1.0 kg**    | **0.1 m³**      | **0.5 MW/m²**; **NEW: +5 m²/ring for 0.5 GW boost**              |
+| **Molten Lithium Pumps**    | Niobium alloy + liquid lithium | Active heat transport from rings to radiators      | 2 loops                             | 2 t           | 0.2 m³          | 5 MW/m³ capacity; replaces/supplements FC-72 for redline.        |
+| **Heat Pipe Network**       | Sodium/potassium + wicking     | Passive phase-change heat transfer                 | 10 loops                            | 0.1 t         | 0.05 m³         | 10 MW/m² flux; parallel to lithium pumps.                        |
+| **Brick Cooling Loops**     | Copper microchannels + FC-72   | Local heat removal from bricks                     | 90 kg, 54 L                         | 90 kg         | 54 L            | 3 GW total capacity                                              |
+| **LiF Heat Banks**          | Lithium fluoride               | Thermal buffering for transient spikes             | 51 kg, 19.3 L (1 bank per 10 rings) | 51 kg         | 19.3 L          | 1 GJ/kg capacity                                                 |
+| **Molten Salt Banks**       | Lithium hydride (LiH)          | High-energy thermal buffering                      | 10 kg                               | 10 kg         | 5 L             | 1 GJ/kg; absorbs spikes before ejection.                         |
 
-
----
-
-**Treasury Notes**
-
-- Procurement must account for **10% overage** for spares and maintenance stock.
-- Do not double-count heat transport components as separate lading; these are included in the thermal system totals.
-- Thermal systems are **not** part of the 0.25 cm³/cell packaged actuator-cell allowance (Section 1).
-
----
-
-#### Per-Ship Totals
-
-
-| **Ship / Coil** | **Ring Count** | **Total Mass** | **Total Volume** | **Radiator Area** | **Notes**            |
-| --------------- | -------------- | -------------- | ---------------- | ----------------- | -------------------- |
-| Nimbus          | 200            | 470 t          | 514 m³           | 30,000 m²         | Includes deployables |
-| Zephyr          | 300            | 705 t          | 771 m³           | 45,000 m²         | Scaled linearly      |
-| Stratus         | 400            | 940 t          | 1,028 m³         | 60,000 m²         | &nbsp;               |
-| Atlas           | 600            | 1,410 t        | 1,542 m³         | 90,000 m²         | &nbsp;               |
-
-
----
-
-**Authorization**  
-Contact the Department of Engineering of Thermal Systems (DETS) for approved changes to these listings, such as extra thermal mass, mechanical changes for repair constructs, or drone software updates.
 
 ---
 

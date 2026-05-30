@@ -93,12 +93,12 @@ Layer 0 defines the local actuation mechanism. It separates internal CNT sheet-p
 ### Compression Physics
 
 
-| Metric                                | Value                     | Notes                                                                                                         |
-| ------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Internal actuation ratio              | 1:600                     | CNT pair/brick internal actuation ratio                                                                       |
-| Internal crunch fraction              | ~0.16%                    | Internal actuator effect; do not use as ship-scale TCR_stage by itself                                        |
-| Ship-scale compression driver         | Net brick physical stroke | 1.53 m radial boundary motion determines Rmin/Rmax after subtracting brick unit height and required clearance |
-| Spatial displacement per drive length | Pending                   | Pending recalculation under corrected brick-stroke model                                                      |
+| Metric                                | Value                     | Notes                                                                                                                  |
+| ------------------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Internal actuation ratio              | 1:600                     | CNT pair/brick internal actuation ratio                                                                                |
+| Internal crunch fraction              | ~0.16%                    | Internal actuator effect; do not use as ship-scale TCR_stage by itself                                                 |
+| Ship-scale compression driver         | Net brick physical stroke | 1.53 m radial boundary motion determines Rmin/Rmax after subtracting brick unit height and required clearance          |
+| Spatial displacement per drive length | 0.07631 m/m               | Realspace contracts by \(76.31\text{ mm}\) for every physical drive meter along the active coil (Ship Total... p. 29). |
 
 
 ### Thermal and Material Specs
@@ -153,6 +153,8 @@ Compression Factor = 1 / TCR_total
 | Zephyr  | 57              | 300            | 20.05    | 1.30             | 18.75    | 0.93516   | 1.85e-9   | 5.42e8×             | 4.23e12                            | Ideal orbital-velocity comparison |
 | Stratus | 76              | 400            | 20.05    | 1.01             | 19.04    | 0.94963   | 1.05e-9   | 9.53e8×             | 7.43e12                            | Ideal orbital-velocity comparison |
 | Atlas   | 114             | 600            | 20.05    | 0.80             | 19.25    | 0.96010   | 2.45e-11  | 4.08e10×            | 3.18e14                            | Ideal orbital-velocity comparison |
+|         |                 |                |          |                  |          |           |           |                     |                                    |                                   |
+
 
 
 *Compression Factor is listed at the baseline assumption of one completed ring compression cycle per second. The factor itself is geometric; faster cycling changes traversal throughput, not the per-cycle compression geometry.

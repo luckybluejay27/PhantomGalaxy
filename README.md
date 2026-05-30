@@ -1,3 +1,5 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
 # Phantom Galaxy Documentation
 
 Explore the lore of Phantom Galaxy by following the links below:
@@ -52,8 +54,10 @@ Explore the lore of Phantom Galaxy by following the links below:
     - [ISCD Compression Ratios](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/ISCD%20Compression%20Ratios.md)
     - [Ship Detail - List of Ships](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Ship%20Detail%20-%20List%20of%20Ships.md)
     - [Ship Materials Average Lading](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Ship%20Materials%20Average%20Lading.md)
-    - [Ship Mechanisms](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Ship%20Mechanisms.md)
     - [Ship Operations](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Ship%20Operations.md)
+    - [Ship Propulsion Systems](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/Lore/Ship%20Technology/Ship%20Propulsion%20Systems.md)
 - [README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+- **ZArchive**
+  - [Ship Mechanisms](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/ZArchive/Ship%20Mechanisms.md)
 
-Documentation generated automatically on 2026-05-18 11:15:15 UTC
+Documentation generated automatically on 2026-05-30 07:34:37 UTC

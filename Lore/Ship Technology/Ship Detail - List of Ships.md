@@ -1,31 +1,45 @@
 [← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md "null")
+
+> **Note:** Battery bank values are *per bank*. Larger ships (Stratus/Atlas) carry 200–400+ distributed banks; smaller ships use fewer as pseudo-capacitors for hybrid drives.
 # Terran Freelance StarShip Classes
 
 ## Nimbus Class
 
 - **Size:** 70 - 120 meters
+- **Diameter:** >53.5 Meters
 - **Crew:** 10-20
 - **Cargo Space:** Small (suitable for personal goods, tools, or small deliveries)
 - **Role:** Agile, quiet planetary and low-orbit transport for freelancers. Ideal for small-scale tasks.
 
 ### Nimbus Detail
 
-| Metric                               | Value               |
-| ------------------------------------ | ------------------- |
-| **Minimum length**                   | **70 m**            |
-| **Estimated outer diameter**         | **53.5 m**          |
-| **Effective usable internal volume** | **~39,100 m³**      |
-| **Dry mass**                         | **22.0 kt**         |
-| **Baseline wet mass**                | **~22.09–22.11 kt** |
-| **Battery bank**                     | **10 MWh**          |
-| **Battery mass**                     | **28.6 t**          |
-| **Water reserve**                    | **8 t**             |
-| **Uranium feedstock**                | **10 t**            |
-| **VTOL complement**                  | **2**               |
-| **VTOL dry mass**                    | **8 t total**       |
+| Category            | Metric                               | Value           | Notes                            |
+| ------------------- | ------------------------------------ | --------------- | -------------------------------- |
+| **Ship Dimensions** | Minimum length                       | 70 m            |                                  |
+|                     | Estimated outer diameter             | 53.5 m          |                                  |
+|                     | Effective usable internal volume     | ~39,100 m³      |                                  |
+| **Mass**            | Dry mass                             | 22.0 kt         |                                  |
+|                     | Baseline wet mass                    | ~22.09–22.11 kt |                                  |
+| **Power**           | Battery bank                         | 10 MWh          |                                  |
+|                     | Battery mass                         | 28.6 t          |                                  |
+| **Consumables**     | Water reserve                        | 8 t             |                                  |
+|                     | Uranium feedstock                    | 10 t            |                                  |
+| **VTOL**            | VTOL complement                      | 2               |                                  |
+|                     | VTOL dry mass                        | 8 t total       |                                  |
+| **ISCD Geometry**   | Coil length                          | 38 m            | From Ship Total.md               |
+|                     | Ring count                           | 200             | Nimbus class                     |
+|                     | Rmax (ISCD radius)                   | 20.05 m         | Derived from brick circumference |
+|                     | Rmin                                 | 18.52 m         | Rmax - brick stroke (1.53 m)     |
+|                     | Ringframe/Struts thickness           | +0.3 m          | Canvas Section 4                 |
+|                     | Crawl space (radial)                 | +2 m            | Thermal Management Lading        |
+|                     | Hull thickness                       | +4.4 m          | Derived (26.75 m - 22.35 m)      |
+|                     | **Total radius (center → exterior)** | **26.75 m**     | Matches Nimbus outer radius      |
+| **Compression**     | TCR_stage                            | 0.92369         | Rmin/Rmax                        |
+|                     | Compression factor                   | 7.85e6×         | 1/TCR_total                      |
 
-#### ISCD Compression Performance
+### ISCD Compression Performance
 
 Performance is recorded under the Guild standard Layer 1 compression-comparison method. Effective speed is calculated from the authorized orbital reference velocity of **7,800 m/s** multiplied by the listed total compression factor.
 
@@ -44,32 +58,38 @@ Performance is recorded under the Guild standard Layer 1 compression-comparison 
 ## Zephyr Class
 
 - **Size:** 130 - 220 meters
-    
 - **Crew:** 20 - 40
-    
 - **Cargo Space:** Medium (modular bays for goods, equipment, or light industrial tools)
-    
 - **Role:** Multi-role mid-range ship for freelancers needing greater capability and flexibility.
-    
 
 ### Zephyr Detail
 
-|Metric|Value|
-|---|---|
-|**Minimum length**|**130 m**|
-|**Estimated outer diameter**|**~55.0 m**|
-|**Effective usable internal volume**|**~74,900 m³**|
-|**Dry mass**|**24.0 kt**|
-|**Baseline wet mass**|**~24.15 kt + people + stores + cargo**|
-|**Battery bank**|**20 MWh**|
-|**Battery mass**|**57.1 t**|
-|**Water reserve**|**16 t**|
-|**Uranium feedstock**|**60 t**|
-|**VTOL complement**|**4**|
-|**VTOL dry mass**|**16 t total**|
-|**Embarked personnel**|**200 + crew**|
+|Category|Metric|Value|Notes|
+|---|---|---|---|
+|**Ship Dimensions**|Minimum length|130 m||
+||Estimated outer diameter|~55.0 m||
+||Effective usable internal volume|~74,900 m³||
+|**Mass**|Dry mass|24.0 kt||
+||Baseline wet mass|~24.15 kt|Plus people + stores + cargo|
+|**Power**|Battery bank|20 MWh||
+||Battery mass|57.1 t||
+|**Consumables**|Water reserve|16 t||
+||Uranium feedstock|60 t||
+|**VTOL**|VTOL complement|4||
+||VTOL dry mass|16 t total||
+|**Personnel**|Embarked personnel|200 + crew||
+|**ISCD Geometry**|Coil length|57 m||
+||Ring count|300|Zephyr class|
+||Rmax (ISCD radius)|20.05 m|Derived from brick circumference|
+||Rmin|18.75 m|Rmax - brick net stroke (1.30 m)|
+||Ringframe/Struts thickness|+0.3 m||
+||Crawl space (radial)|+2 m|Thermal Management Lading|
+||Hull thickness|+5.15 m|Derived (27.5 m - 22.35 m)|
+||**Total radius (center → exterior)**|**27.5 m**|Matches Zephyr outer radius|
+|**Compression**|TCR_stage|0.93516|Rmin/Rmax|
+||Compression factor|5.42e8×|1/TCR_total|
 
-#### ISCD Compression Performance
+### ISCD Compression Performance
 
 Performance is recorded under the Guild standard Layer 1 compression-comparison method. Effective speed is calculated from the authorized orbital reference velocity of **7,800 m/s** multiplied by the listed total compression factor.
 
@@ -78,7 +98,7 @@ Performance is recorded under the Guild standard Layer 1 compression-comparison 
 |**Active coil length**|**57 m**|
 |**Ring count**|**300**|
 |**Rmax**|**20.05 m**|
-|**Brick stroke**|**1.30 m**|
+|**Brick net stroke**|**1.30 m**|
 |**Rmin**|**18.75 m**|
 |**TCR_stage**|**0.93516**|
 |**TCR_total**|**1.85e-9**|
@@ -88,22 +108,46 @@ Performance is recorded under the Guild standard Layer 1 compression-comparison 
 ## Stratus Class
 
 - **Size:** 260 - 380 meters
-    
 - **Crew:** 40 - 60
-    
 - **Cargo Space:** Large (designed for frequent trade and medium-scale freight)
-    
 - **Role:** Civilian-grade freighter for orbital-to-ground supply chains or trade routes.
-    
 
 ### Stratus Detail
+
+|Category|Metric|Value|Notes|
+|---|---|---|---|
+|**Ship Dimensions**|Minimum length|260 m||
+||Estimated outer diameter|~58.0 m|Derived scaling|
+||Effective usable internal volume|~185,000 m³|Derived scaling|
+|**Mass**|Dry mass|~38.0 kt|Derived (includes 14.9 kt rings)|
+||Baseline wet mass|~38.3 kt|Plus people + stores + cargo|
+|**Power**|Battery bank|40 MWh|Scaled from Zephyr|
+||Battery mass|114.2 t|Scaled from Zephyr|
+|**Consumables**|Water reserve|24 t|Scaled for 40-60 crew|
+||Uranium feedstock|120 t|Scaled|
+|**VTOL**|VTOL complement|6|Scaled|
+||VTOL dry mass|24 t total|Scaled|
+|**ISCD Geometry**|Coil length|76 m|From Ship Total.md|
+||Ring count|400|Stratus class|
+||Rmax (ISCD radius)|20.05 m|Derived from brick circumference|
+||Rmin|19.04 m|Rmax - brick net stroke (1.01 m)|
+||Ringframe/Struts thickness|+0.3 m|Canvas Section 4|
+||Crawl space (radial)|+2 m|Thermal Management Lading|
+||Hull thickness|+6.65 m|Derived (29.0 m - 22.35 m)|
+||**Total radius (center → exterior)**|**29.0 m**|Derived Stratus outer radius|
+|**Compression**|TCR_stage|0.94963|Rmin/Rmax|
+||Compression factor|9.53e8×|1/TCR_total|
+
+### ISCD Compression Performance
+
+Performance is recorded under the Guild standard Layer 1 compression-comparison method. Effective speed is calculated from the authorized orbital reference velocity of **7,800 m/s** multiplied by the listed total compression factor.
 
 |Metric|Value|
 |---|---|
 |**Active coil length**|**76 m**|
 |**Ring count**|**400**|
 |**Rmax**|**20.05 m**|
-|**Brick stroke**|**1.01 m**|
+|**Brick net stroke**|**1.01 m**|
 |**Rmin**|**19.04 m**|
 |**TCR_stage**|**0.94963**|
 |**TCR_total**|**1.05e-9**|
@@ -113,84 +157,136 @@ Performance is recorded under the Guild standard Layer 1 compression-comparison 
 ## Atlas Class
 
 - **Size:** 500 – 800 meters
-    
 - **Crew:** 70 - 100
-    
 - **Cargo Space:** Very Large (supports modular docking bays, supply storage, and repair facilities)
-    
 - **Role:** Portable dock point for smaller vessels, high-class escort capabilities, and flagship supply ship for long-range operations.
-    
 
 ### Atlas Detail
 
-|Metric|Value|
-|---|---|
-|**Active coil length**|**114 m**|
-|**Ring count**|**600**|
-|**Rmax**|**20.05 m**|
-|**Brick stroke**|**0.80 m**|
-|**Rmin**|**19.25 m**|
-|**TCR_stage**|**0.96010**|
-|**TCR_total**|**2.45e-11**|
-|**Compression factor**|**4.08e10×**|
-|**Effective speed at 7,800 m/s**|**3.18e14 m/s**|
+| Category | Metric | Value | Notes |
+| :--- | :--- | :--- | :--- |
+| **Ship Dimensions** | Minimum length | **700 m** | Representative (midpoint of 500–800 m) |
+| | Estimated outer diameter | **~62.0 m** | Scaled from Stratus (58.0 m + 4 m) |
+| | Effective usable internal volume | **~277,500 m³** | Stratus (185,000 m³) × 1.5 |
+| **Mass** | Dry mass | **~57.0 kt** | Derived from ring mass (22.449 kt) + non-ring |
+| | Baseline wet mass | **~57.3 kt** | Plus people + stores + cargo |
+| **Power** | Battery bank | **60 MWh** | 0.1 MWh/ring × 600 rings |
+| | Battery mass | **~172 t** | 2.86 t/MWh × 60 MWh |
+| **Consumables** | Water reserve | **80 t** | 0.8 t/crew × 100 crew |
+| | Uranium feedstock | **180 t** | Stratus (120 t) × 1.5 |
+| **VTOL** | VTOL complement | **10** | 1 VTOL per 10 crew |
+| | VTOL dry mass | **40 t total** | 4 t per VTOL |
+| **ISCD Geometry** | Coil length | 114 m | From Ship Total.md |
+| | Ring count | 600 | Atlas class |
+| | Rmax (ISCD radius) | 20.05 m | Derived from brick circumference |
+| | Rmin | 19.25 m | Rmax - brick net stroke (0.80 m) |
+| | Ringframe/Struts thickness | +0.3 m | Canvas Section 4 |
+| | Crawl space (radial) | +2 m | Thermal Management Lading |
+| | Hull thickness | **+8.65 m** | Derived (31.0 m - 22.35 m) |
+| | **Total radius (center → exterior)** | **31.0 m** | Matches Atlas outer radius (62.0 m / 2) |
+| **Compression** | TCR_stage | 0.96010 | Rmin/Rmax |
+| | Compression factor | 4.08e10× | 1/TCR_total |
+
+
+---
+### ISCD Compression Performance
+
+Performance is recorded under the Guild standard Layer 1 compression-comparison method. Effective speed is calculated from the authorized orbital reference velocity of **7,800 m/s** multiplied by the listed total compression factor.
+
+| Metric | Value |
+| :--- | :--- |
+| **Active coil length** | **114 m** |
+| **Ring count** | **600** |
+| **Rmax** | **20.05 m** |
+| **Brick net stroke** | **0.80 m** |
+| **Rmin** | **19.25 m** |
+| **TCR_stage** | **0.96010** |
+| **TCR_total** | **2.45e-11** |
+| **Compression factor** | **4.08e10×** |
+| **Effective speed at 7,800 m/s** | **3.18e14 m/s** |
 
 ## Firmament Class
 
-- **Size:** 900 – 2000 meters
-    
-- **Crew:** 100 - 300
-    
-- **Cargo Space:** Ship docks, housing bays, fully tooled systems and runway space
-    
-- **Role:** Battle class permanent living ship intended to house soldiers indefinitely, while serving as a mobile base of operations for any branch of the military needing extra-system occupation. 
-    
+- **Size:** 900 – 2000 meters
+- **Crew:** 100 - 300
+- **Cargo Space:** Ship docks, housing bays, fully tooled systems and runway space
+- **Role:** Battle class permanent living ship intended to house soldiers indefinitely, while serving as a mobile base of operations for any branch of the military needing extra-system occupation.
+
+### Firmament Detail
+
+
+| Category | Metric | Value | Notes |
+| :--- | :--- | :--- | :--- |
+| **Ship Dimensions** | Minimum length | **1,450 m** | Midpoint of 900–2000 m |
+| | Estimated outer diameter | **~66.0 m** | Scaled from Atlas (62.0 m + 4 m) |
+| | Effective usable internal volume | **~370,000 m³** | Atlas (277,500 m³) × 1.33 |
+| **Mass** | Dry mass | **~76 kt** | Derived from ring mass + non-ring |
+| | Baseline wet mass | **~76.3 kt** | Plus people + stores + cargo |
+| **Power** | Battery bank | **80 MWh** | 0.1 MWh/ring × 800 rings |
+| | Battery mass | **~229 t** | 2.86 t/MWh × 80 MWh |
+| **Consumables** | Water reserve | **240 t** | 0.8 t/crew × 300 crew |
+| | Uranium feedstock | **240 t** | Atlas (180 t) × 1.33 |
+| **VTOL** | VTOL complement | **30** | 1 VTOL per 10 crew |
+| | VTOL dry mass | **120 t total** | 4 t per VTOL |
+| **ISCD Geometry** | Coil length | **152 m** | Estimated from ring count scaling |
+| | Ring count | **800** | Estimated from size scaling |
+| | Rmax (ISCD radius) | 20.05 m | Derived from brick circumference |
+| | Rmin | **19.40 m** | Rmax - brick net stroke (0.65 m) |
+| | Ringframe/Struts thickness | +0.3 m | Canvas Section 4 |
+| | Crawl space (radial) | +2 m | Thermal Management Lading |
+| | Hull thickness | **+10.65 m** | Derived (33.0 m - 22.35 m) |
+| | **Total radius (center → exterior)** | **33.0 m** | Matches Firmament outer radius (66.0 m / 2) |
+| **Compression** | TCR_stage | **0.9675** | Rmin/Rmax |
+| | Compression factor | **8.33e10×** | 1/TCR_total (TCR_total ≈ 1.2e-11) |
+
+---
+
+### ISCD Compression Performance
+
+Performance is recorded under the Guild standard Layer 1 compression-comparison method. Effective speed is calculated from the authorized orbital reference velocity of **7,800 m/s** multiplied by the listed total compression factor.
+
+
+| Metric | Value |
+| :--- | :--- |
+| **Active coil length** | **152 m** |
+| **Ring count** | **800** |
+| **Rmax** | **20.05 m** |
+| **Brick net stroke** | **0.65 m** |
+| **Rmin** | **19.40 m** |
+| **TCR_stage** | **0.9675** |
+| **TCR_total** | **~1.2e-11** |
+| **Compression factor** | **8.33e10×** |
+| **Effective speed at 7,800 m/s** | **6.50e14 m/s** |
 
 # Juvian Freelance Ship Classes
 
 ## Intrepid Class
 
 - **Size:** 60 - 100 meters
-    
 - **Crew:** 2–6
-    
 - **Cargo Space:** Small (suitable for exploration and personal tasks)
-    
 - **Role:** Agile exploratory ships for freelancers venturing into unknown territories.
-    
 
 ## Resolute Class
 
 - **Size:** 80 to 140 meters
-    
 - **Crew:** 8–16
-    
 - **Cargo Space:** Medium (adaptable for various mission profiles)
-    
 - **Role:** Multi-purpose ships embodying persistence and adaptability in challenging missions.
-    
 
 ## Virtuous Class
 
 - **Size:** 160 – 300 meters
-    
 - **Crew:** 24-48
-    
 - **Cargo Space:** Large (designed for ethical trade and long-haul delivery)
-    
 - **Role:** Freighters symbolizing ethical responsibility and cooperation.
-    
 
 ## Socratic Class
 
 - **Size:** 350+ meters
-    
 - **Crew:** 52–104
-    
 - **Cargo Space:** Very Large (optimized for knowledge gathering and resource distribution)
-    
 - **Role:** Flagship vessels dedicated to fostering dialogue, exploration, and the dissemination of knowledge.
-    
 
 # Specialized Adventure Class
 

@@ -23,6 +23,17 @@ IPA: [koni ʒaǀu roka-latʒaǀ]
 Gloss: than they-plural less-eat-past they-singular
 English: They (singular) ate less than them (plural).
 
+### Optional Morphemes and Word Formation
+
+Certain morphemes in Juvian are marked with parentheses to indicate they are optional prefixes that fundamentally change a word's meaning when attached. These are not simple negations but create distinct lexical items.
+
+Example: `(ani)yok` 
+- Base word: `yok` = "new"
+- With morpheme: `aniyok` = "old" (not literally "not new" but a distinct concept)
+- The prefix `ani` (meaning "not") transforms "new" into the concept "old" when attached
+
+This parenthetical notation indicates that either form may be used independently, but when combined, they create a new semantic category rather than a simple negation.
+
 ### Imperative Mood
 Commands are formed by omitting the pronoun and using the bare verb stem with an implied second-person subject.
 Example:
