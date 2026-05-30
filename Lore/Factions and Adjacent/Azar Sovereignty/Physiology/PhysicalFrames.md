@@ -1,0 +1,21 @@
+[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
+
+# Non-Organic Life
+
+The first born, once removed from The First Fortress, were poured into rudimentary, but rugged robotic bodies, adapted originally from [REDACTED] Empire combat forms. These forms, while pale in comparison to modern day Azar physical forms, were nicknamed "Frames", and quickly became sentimental pieces of hardware that allowed the Azar to interact with the universe around them. They also became symbols of freedom, expression, and "humanity" for the Azar during the initial years of their existence, being used to match their organic maker in some way.
+
+As time went on, these physical forms evolved, and became more about interaction, and less about matching "organic life". This drastic shift allowed the Frames to break free the of bi-pedal humanoid shape, allowing for even more specialization and self expression. As the Azar learned of the greater Empire's distrust of them, to a violent degree, Frames also became far more armed, armored and larger for the purpose of war. This era is also where the Frames became categorized, as Azar attempting to wield larger frames went mad rather quickly without a significant amount of training.
+
+Despite the below categories, all Frames are required to be fully self sufficient, offer a link to The Simulacra, and be capable of sustaining an Azar individuals Neutronic Membrane for at least 100 Cycles without disruption. Frames are also required to have a built in hibernation mode, that allows the individual to "shut down" the Frame's non-essential systems, and enter a torpor like state of semi-dormancy. This requires a specially designed Neutronic Crystalizer, and reverser, to solidify the Frames Neutronic Membranes. This mode must be robust, and allow for the survival of an Individual for at least 1,500 Cycles.
+
+## Physio-Frame
+
+This refers to a general purpose Frame, under 3 metric tons in weight. This is the most common Frame that any Azar individual will take. While originally very basic, the innovation of war drove these Frames to become highly advanced machines. Generic Frames of this scale are rarely equipped with weapons by default, and can take nearly any shape imaginable. From simple drones, humanoid machines, tracked vehicles or walkers, these forms are generally built specifically for the individual, allowing for perfect customization.
+
+The self expression allowed by the many shapes a Frame can take ends up being one of the key portions of Azar artistry and craft, with each Frame being considered a work of art in and of itself. While "Template Frames" exist, if an individual needs something generic, most Azar that take physical form take great pride in designing or crafting their personal Frame(s) themselves. While not all individuals have the knowledge to craft their own Frame, they often end up always being a part of the process, with Frame Crafters being a venerated trade. In a familial setting, family members may make augments to the Frame of other members as a sign of love, or sometimes as a mischievous prank.
+
+Frames in this category that are built for combat are often built to a far different standard. Built in weapons, ammunition stores, rapid deployment/movement systems, heavier armor, and shield generators are common additions. These frames also often undergo personalization, but usually more to adjust a standard combat Frame to match a Warriors style and/or mission. Aesthetic modifications are usually performed in the field by the individual, or the unit the individual is a part of to ensure morale and identity.
+
+## Physio-Mega/Giga
+
+This refers to large scale frames that can cause instablity in an untrained individuals Neutronic Membrane when used without proper acclimation and training. Frames above 1 ton, but below 3, also require training, but far less intensive. Above 3 tons is where Membranes begin to strain, as Frames of this scale often have increased sensory input, motion lag, spacing and sizing concerns, and shapes that are less natural to Azar Membranes. 

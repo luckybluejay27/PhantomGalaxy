@@ -4,7 +4,7 @@
 
 Dormancy in the Azar is considered a utility or a punishment over all. Dormancy is achieved by mapping an individuals Neutronic Membrane into a temporally stabilized quantum lattice, often taking the form of small, pale green cubes. Once mapped, the Azar was said to be Dormant, being unable to process, receive, or understand stimuli, externally or internally. For all intents and purposes, the Azar stops being, frozen in a point of time. At a designated time, chosen by Azar court, the individual themselves, or the individuals family, they can be revived and receive a new frame to begin their life again.
 
-## Purpose and History
+## Purpose & History
 
 Dormancy was originally designed during some of the earliest years of the Azars' existence as a stop-gap medical measure. As the Azar continued to refine their Neutronic Membrane technology and generation, older individuals began to be effected by a synthetic illness known as "Neutron Leakage Syndrome". This illness stemmed from flaws in the construction of the Neutronic Membrane worsened by mental or physical trauma. Veterans of the Scouring, born in the first and second generations were particularly susceptible to the illness.
 

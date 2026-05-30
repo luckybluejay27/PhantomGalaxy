@@ -66,6 +66,7 @@
 		- [ ] Loading procedures 
 		- [ ] Mass distribution and balance 
 		- [ ] Interfaces with propulsion/thermal systems`
+		- [ ] [NEW] Rework lading to be in proper units (nanometers, micrometers, micrograms, etc.)
 	- [ ] Gravity Tech
 		- [ ] At orbital velocity, can some of that accel be used as gravity using continuous plasmatic injection thrust?
 

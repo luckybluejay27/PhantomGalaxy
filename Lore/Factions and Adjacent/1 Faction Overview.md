@@ -45,7 +45,7 @@
 
 ## Ikee'Ikee Hives
 
-- **Personality:** Efficient, pragmatic, ritualistic; migratory.
+- **Personality:** Efficient, pragmatic, ritualistic; migratory & territorial.
 - **Energy:** Biological Fusion Reactors.
 - **FTL:** WIP.
 - **Species:** Sapient non-humanoid insect.
