@@ -1,7 +1,5 @@
 [← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 
-[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md "null")
-
 > **Note:** Battery bank values are *per bank*. Larger ships (Stratus/Atlas) carry 200–400+ distributed banks; smaller ships use fewer as pseudo-capacitors for hybrid drives.
 # Terran Freelance StarShip Classes
 

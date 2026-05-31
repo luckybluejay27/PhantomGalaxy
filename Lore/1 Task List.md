@@ -62,6 +62,7 @@
 	        - [ ] Energy containment
 	- [ ] [New] Ship Lading 
 		- [ ] Dry weight baseline (link to Ship Structure.md)
+		- [ ] Update Heat Loss Register
 		- [ ] Wet weight calculations (fuel + cargo + consumables) 
 		- [ ] Loading procedures 
 		- [ ] Mass distribution and balance 

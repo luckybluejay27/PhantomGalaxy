@@ -13,7 +13,7 @@ This pamphlet won’t turn you into a pilot. But it will show you where to begin
 
 ### Cosmological Engineering Baseline
 
-Terran vessels are operated using the **Internal Spatial Compression Drive (ISCD)**—a relativistic compression standard first developed alongside the earliest orbital testbeds. Based on controlled application of the Alcubierre metric and Casimir vacuum resonance, ISCD does not drag space around the ship, but instead **contracts the traversal corridor** ********_**within**_******** **the ship's own spatial domain**.
+Terran vessels are operated using the **Internal Spatial Compression Drive (ISCD)**—a relativistic compression standard first developed alongside the earliest orbital testbeds. Based on controlled application of the Geometric and Casimir vacuum resonance, ISCD does not drag space around the ship, but instead **contracts the traversal corridor** ********_**within**_******** **the ship's own spatial domain**.
 
 Every Terran ship is fundamentally a **ringframe structure**—not a tube with rings attached, but a spatially-integrated lattice in which the **hull** ********_**is**_******** **the containment field**. These rings generate a controlled spacetime well internally, shortening the realspace distance the ship must cross without ever violating external causality.
 

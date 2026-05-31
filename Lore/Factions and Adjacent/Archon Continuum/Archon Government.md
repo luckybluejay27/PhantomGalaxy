@@ -36,7 +36,7 @@ The **Archon Continuum** is governed by four **co-equal branches**, each fulfill
     - **Medical & Genetic Sciences** – Oversees interspecies healthcare and biosecurity.
     - **Engineering & Infrastructure** – Develops starships, energy systems, and AI governance.
     - **Ecological & Environmental Sciences** – Studies planetary ecosystems and terraforming.
-    - **Quantum & Theoretical Sciences** – Advances Alcubierre physics, energy research, and high-energy experimentation.
+    - **Quantum & Theoretical Sciences** – Advances Warp physics, energy research, and high-energy experimentation.
 #### **Philosophy Division**
 - **Head Guild:** Convert
 - **Mission:** Ethics, diplomacy, and ideological stability.

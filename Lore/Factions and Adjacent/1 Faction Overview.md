@@ -6,7 +6,7 @@
 
 - **Personality:** Resourceful, kind, curious; focused on cooperation and exploration.
 - **Energy:** Gravity Lattice Reactors.
-- **FTL:** Alcubierre Drives.
+- **FTL:** Warp Drives.
 - **Species:** Intelligent arachnoids.
 - **Location:** Juvian Star System (System B162).
 
@@ -14,7 +14,7 @@
 
 - **Personality:** Prideful, loyal, adaptable; survival-driven.
 - **Energy:** Hybrid Fusion Reactors.
-- **FTL:** Alcubierre Drives.
+- **FTL:** Warp Drives.
 - **Species:** Adapted humans.
 - **Location:** Terran Home System (System 9).
 
