@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/1 Task List.md",
+                "file": "Lore/Factions and Adjacent/Azar Sovereignty/Physiology/Physiology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1 Task List"
+              "title": "Physiology"
             }
           },
           {
@@ -193,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 482.5
   },
   "right": {
     "id": "c85877effd284a42",
@@ -268,18 +268,21 @@
   },
   "active": "18a1588a8d06c410",
   "lastOpenFiles": [
+    "Lore/Factions and Adjacent/Azar Sovereignty/Physiology/Simulacra.md",
+    "Lore/Factions and Adjacent/Azar Sovereignty/Physiology/Physiology.md",
+    "Lore/Factions and Adjacent/Azar Sovereignty/Physiology/PhysicalFrames.md",
+    "Lore/Factions and Adjacent/Azar Sovereignty/Physiology/Dormant.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organisms of Juvia - Phylogeny/Organisms of Juvia - Phylogeny.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Juvian Culture.md",
+    "Lore/1 Task List.md",
     "Lore/Ship Technology/Ship Speed Lookup Table.md",
     "Lore/Ship Technology/Ship Operations.md",
-    "Lore/1 Task List.md",
     "Lore/Ship Technology/Ship Detail - List of Ships.md",
     "Lore/Ship Technology/Ship Propulsion Systems.md",
     "Lore/Factions and Adjacent/Archon Continuum/Archon Government.md",
     "Lore/Factions and Adjacent/1 Faction Overview.md",
     "Lore/Ship Technology/ISCD Compression Ratios.md",
     "Lore/Ship Technology/Ship Materials Average Lading.md",
-    "Lore/Factions and Adjacent/Azar Sovereignty/Physiology/Simulacra.md",
-    "Lore/Factions and Adjacent/Azar Sovereignty/Physiology/PhysicalFrames.md",
-    "Lore/Factions and Adjacent/Azar Sovereignty/Physiology/Dormant.md",
     "ZArchive",
     "Lore/InterStellar TimeLine.md",
     "ZArchive/Ship Mechanisms.md",
@@ -287,7 +290,6 @@
     "Lore/Factions and Adjacent/Juvian Detail/Juvian Conlang.md",
     "Lore/Factions and Adjacent/Juvian Detail/Juvian Lexicon.md",
     "README.md",
-    "Lore/Factions and Adjacent/Juvian Detail/Juvian Culture.md",
     "Lore/Factions and Adjacent/Tannon Detail/Tannon Culture.md",
     "Pasted image 20260504023025.png",
     "Untitled.md",
@@ -295,8 +297,6 @@
     "rando.md",
     "Lore/Ship Technology/Ship Detail - List of Ships",
     "Lore/Ship Technology/Ship Detail - List.md",
-    "Lore/Factions and Adjacent/Ikee'Ikee Hives/overview.md",
-    "Lore/Factions and Adjacent/Tannon Detail/Tannon Government.md",
     "Lore/Factions and Adjacent/Ikee'Ikee Hives",
     "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organisms of Juvia - Phylogeny/Roqutet",
     "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organisms of Juvia - Phylogeny",
