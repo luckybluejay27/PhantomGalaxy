@@ -11,66 +11,43 @@
       - [ ] ISCD engine history
       - [ ] Household Architecture and City Planning
     - [ ] Space Traffic Controls
-    - [ ] RTD
-      - [ ] Propulsion System: Coil-based Casimir-Repulsion Drive
-        - [ ] Component: 1cm² CNT Sheets (Doped Superconducting & Undoped)
-        - [ ] Energy Metrics:
-          - [ ] 1k Pair Brick: 0.005 J per pulse (Mechanical work)
-          - [ ] Full Ring (360 Bricks): 1.8 J per pulse
-          - [ ] System Power Intake (at 1 kHz): 1.81 kW (Mechanical + Electrical overhead)
-        - [ ] Displacement & Velocity:
-          - [ ] Per Pair Displacement: 500 nm per pulse
-          - [ ] Total Displacement per Brick: 0.5 mm per pulse (Internal stroke)
-          - [ ] Total Ring Stroke: 18 cm (0.18 m) per pulse (Cumulative spatial contraction)
-          - [ ] Base Warp Velocity (at 1 kHz): 180 m/s (~402.6 mph) delta-V
-        - [ ] Compression Physics:
-          - [ ] Internal Gap: 0.3 mm (per pair spacing)
-          - [ ] Compression Ratio: 1:600 (0.16% spatial "crunch" per pulse)
-          - [ ] Spatial Displacement: 1.64 mm per pulse for every 1 meter of drive length
-        - [ ] Thermal & Material Specs:
-          - [ ] CNT Specific Heat Capacity: 0.83 J/g·K (Standard)
-          - [ ] CNT Thermal Limit (Vacuum): ~3,400 K (Operational limit restricted by dopants)
-          - [ ] Heat Dissipation Required: ~1,811 W (at 1 kHz steady state)
-- [ ] Document Organization
-	- [ ] [New] Ship Propulsion Systems
-	    - [ ] Realspace Propulsion (Fission Pulse Drive, Trim Thrusters)
-	    - [ ] Internal Transport
-	    - [ ] Diagnostics & Isolation
-	    - [ ] Hybrid Drives
-	    - [ ] Fissile Compartments
-	  - [ ] [New] Ship Power and Thermal
-	    - [ ] Power Generation & Conditioning
-	    - [ ] Thermal Architecture
-	    - [ ] Battery Banking
-	  - [ ] [New] Ship Structure
-	    - [ ] Structure & Alignment
-	  - [ ] [New] Habitat Systems
-	    - [ ] Habitat Gravity
-	    - [ ] Hab Structures Document
-	    - [ ] How attach to internal Hull
-	      - [ ] Compartmentalization
-	      - [ ] Protection from elements
-	      - [ ] Detail list of on-board gear and tooling
-	      - [ ] Detail list of infrastructure living
-	        - [ ] Plumbing
-	        - [ ] Electrical
-	        - [ ] Oxygenation and atmosphere
-	        - [ ] Plant life
-	        - [ ] Reclamation
-	        - [ ] Food stores
-	        - [ ] Fissile stores and sludge sector
-	        - [ ] Energy containment
-	- [ ] [New] Ship Lading 
-		- [ ] Dry weight baseline (link to Ship Structure.md)
-		- [ ] Update Heat Loss Register
-		- [ ] Wet weight calculations (fuel + cargo + consumables) 
-		- [ ] Loading procedures 
-		- [ ] Mass distribution and balance 
-		- [ ] Interfaces with propulsion/thermal systems`
-			- [ ] [NEW] Rework lading to be in proper units (nanometers, micrometers, micrograms, etc.)
-	- [ ] Gravity Tech
-		- [ ] At orbital velocity, can some of that accel be used as gravity using continuous plasmatic injection thrust?
-
+- [ ] Ship Power and Thermal
+  - [ ] Power Generation & Conditioning
+  - [ ] Reactor Sizing & Mass Fraction (Scale for ISCD draw and FPD demands)
+  - [ ] Battery Banking
+  - [ ] Thermal Architecture (Detail stratified isolation: low-grade FC-72 vs. high-grade Lithium)
+- [ ] Ship Propulsion Systems
+  - [ ] Realspace Propulsion (Fission Pulse Drive, Trim Thrusters)
+  - [ ] FPD Scaling (Uranium feedstock, injection mechanics across ship classes)
+  - [ ] Hybrid Drives
+  - [ ] Fissile Compartments
+  - [ ] Internal Transport
+  - [ ] Diagnostics & Isolation
+- [ ] Ship Structure & Lading
+  - [ ] Structure & Alignment
+  - [ ] Center of Mass Management (Dynamic trim for FPD burns vs. cargo/fuel shifts)
+  - [ ] Dry weight baseline
+  - [ ] Wet weight calculations (fuel + cargo + consumables)
+  - [ ] Loading procedures
+  - [ ] Mass distribution and balance
+  - [ ] Interfaces with propulsion/thermal systems
+  - [ ] Rework lading to proper units (nanometers, micrometers, micrograms, etc.)
+  - [ ] Update Heat Loss Register
+- [ ] Habitat Systems
+  - [ ] Habitat Gravity Protocols (Spin-gravity vs. acceleration-gravity during FPD continuous thrust)
+  - [ ] Hab Structures & Hull Attachment
+  - [ ] Compartmentalization & Protection from elements
+  - [ ] Infrastructure Living
+    - [ ] Plumbing
+    - [ ] Electrical
+    - [ ] Oxygenation and atmosphere
+    - [ ] Plant life
+    - [ ] Reclamation
+  - [ ] Storage & Containment
+    - [ ] Food stores
+    - [ ] Fissile stores and sludge sector
+    - [ ] Energy containment
+  - [ ] Detail list of on-board gear and tooling
 
 ---
 

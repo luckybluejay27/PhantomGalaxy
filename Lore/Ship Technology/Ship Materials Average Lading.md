@@ -1,5 +1,12 @@
 [← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 
+**Document ID:** DCY-ISCD-782-REVC-14
+**Security Clearance:** Federal Infrastructure & Containment Bureaucracy (Of Power)
+**Issuing Authority:** Department of Strategic Lading & Mass Properties (DSLMP)
+_Subordinate to the Directorate of Containment & Yield (DCY) — Of Power_ ---
+
+---
+
 # Ship Treasury — ISCD Actuation Lading Register
 
 ## Scope
@@ -17,14 +24,14 @@ This register records the current first-pass lading allowances for ISCD actuatio
 | Status             | Final Draft — Unsigned                                    |
 | Last Verified      | [number] GS, [n] dGS, [n] Day                             |
 | Verification Basis | Minimum lading truth pass for supply-chain fault checking |
-| $1                 | &nbsp;                                                    |
+|                    | &nbsp;                                                    |
 
 
 ---
 
 # Segment 0 — Official Legal Readings
 
-```text
+```
 ╔════════════════════════════════════════════════════════════════════╗
 ║                      TREASURY CONTROL NOTICE                      ║
 ╠════════════════════════════════════════════════════════════════════╣
