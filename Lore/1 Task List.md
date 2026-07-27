@@ -12,15 +12,15 @@
       - [ ] Household Architecture and City Planning
     - [ ] Space Traffic Controls
 - [ ] Ship Power and Thermal
-  - [ ] Power Generation & Conditioning
-  - [ ] Reactor Sizing & Mass Fraction (Scale for ISCD draw and FPD demands)
-  - [ ] Battery Banking
+  - [x] Power Generation & Conditioning
+  - [x] Reactor Sizing & Mass Fraction (Scale for ISCD draw and FPD demands)
+  - [x] Battery Banking
   - [ ] Thermal Architecture (Detail stratified isolation: low-grade FC-72 vs. high-grade Lithium)
 - [ ] Ship Propulsion Systems
   - [ ] Realspace Propulsion (Fission Pulse Drive, Trim Thrusters)
-  - [ ] FPD Scaling (Uranium feedstock, injection mechanics across ship classes)
-  - [ ] Hybrid Drives
-  - [ ] Fissile Compartments
+  - [ ] Magnetic Pinch Drives
+  - [x] Hybrid Drives
+  - [x] Fissile Compartments
   - [ ] Internal Transport
   - [ ] Diagnostics & Isolation
 - [ ] Ship Structure & Lading

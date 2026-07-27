@@ -1,5 +1,3 @@
-[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
-
 For a list of currently available words, please refer to the [[Juvian Lexicon]]
 ## Syntax
 

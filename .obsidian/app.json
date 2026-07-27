@@ -3,5 +3,6 @@
   "showUnsupportedFiles": true,
   "defaultViewMode": "source",
   "strictLineBreaks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true
 }

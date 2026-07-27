@@ -7,7 +7,6 @@ The framework is lineage‑based and reflects evolutionary descent rather than p
 This article provides an overview only and does not enumerate species or lower taxonomic ranks. Each Level‑1 descriptor links to dedicated articles detailing internal phylogeny, morphology, metabolism, and ecological roles.
 
 ---
-
 ## [[Roqutet|Roqutet]]
 
 Roqutet are organisms defined by **mobility‑dependent consumption**.
@@ -24,7 +23,6 @@ Roqutet lineages typically exhibit:
 Mobility alone is not sufficient for Roqutet classification; rather, **the inability to survive without directed movement** is the defining criterion.
 
 ---
-
 ## Anetet
 
 Anetet are organisms defined by **anchored autotrophic growth with internal circulation**.
@@ -42,7 +40,7 @@ Anetet lineages typically exhibit:
 
 ---
 
-## Pirutet
+## [[Pirutet|Pirutet]]
 
 Pirutet are organisms defined by **passive heterotrophic assimilation**.
 

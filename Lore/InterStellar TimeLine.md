@@ -131,6 +131,7 @@
 - The Cognition Core develops a probabilistic model to identify viable host candidates based on psychoneural dissociation tolerance and cognitive resilience.
 - A human subject—calm, emotionally flattened, and dissociative—meets the profile, with a **reduced likelihood of overfield psychosis or full personality overwrite**.
 - Preparations begin for **controlled cognitive integration**, marking the first **ethically consented experimental host** in Woven research history.
+
 # Accords Era
 
 **783 GS – Terran Archival Debate on Archon Intervention**
