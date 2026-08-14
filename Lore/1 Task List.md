@@ -16,6 +16,7 @@
   - [x] Reactor Sizing & Mass Fraction (Scale for ISCD draw and FPD demands)
   - [x] Battery Banking
   - [ ] Thermal Architecture (Detail stratified isolation: low-grade FC-72 vs. high-grade Lithium)
+  - [ ] Replace all instances of 7GW to 0.7GW
 - [ ] Ship Propulsion Systems
   - [ ] Realspace Propulsion (Fission Pulse Drive, Trim Thrusters)
   - [ ] Magnetic Pinch Drives
