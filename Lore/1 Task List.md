@@ -15,8 +15,9 @@
   - [x] Power Generation & Conditioning
   - [x] Reactor Sizing & Mass Fraction (Scale for ISCD draw and FPD demands)
   - [x] Battery Banking
-  - [ ] Thermal Architecture (Detail stratified isolation: low-grade FC-72 vs. high-grade Lithium)
-  - [ ] Replace all instances of 7GW to 0.7GW
+  - [x] Thermal Architecture (Detail stratified isolation: low-grade FC-72 vs. high-grade Lithium)
+  - [x] Replace all instances of 7GW to 0.7GW
+  - [ ] Create New Segment for Internal Heat Management (FC-72 Microchannel Loops)
 - [ ] Ship Propulsion Systems
   - [ ] Realspace Propulsion (Fission Pulse Drive, Trim Thrusters)
   - [ ] Magnetic Pinch Drives
@@ -33,7 +34,7 @@
   - [ ] Mass distribution and balance
   - [ ] Interfaces with propulsion/thermal systems
   - [ ] Rework lading to proper units (nanometers, micrometers, micrograms, etc.)
-  - [ ] Update Heat Loss Register
+  - [ ] Update Heat Loss Register upon Structure completion
 - [ ] Habitat Systems
   - [ ] Habitat Gravity Protocols (Spin-gravity vs. acceleration-gravity during FPD continuous thrust)
   - [ ] Hab Structures & Hull Attachment
@@ -46,9 +47,10 @@
     - [ ] Reclamation
   - [ ] Storage & Containment
     - [ ] Food stores
-    - [ ] Fissile stores and sludge sector
+    - [x] Fissile stores and sludge sector
     - [ ] Energy containment
   - [ ] Detail list of on-board gear and tooling
+- [ ] Job Pipeline & Work Trees
 
 ---
 

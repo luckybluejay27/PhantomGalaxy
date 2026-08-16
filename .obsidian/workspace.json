@@ -6,9 +6,10 @@
       {
         "id": "3061c19803f55378",
         "type": "tabs",
+        "dimension": 44.323342415985465,
         "children": [
           {
-            "id": "a3a2dfc87c9a4a78",
+            "id": "74b230393b596eb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,36 +31,13 @@
               "icon": "lucide-file",
               "title": "1 Task List"
             }
-          },
-          {
-            "id": "74b230393b596eb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Ship Technology/Ship Materials Average Lading.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ship Materials Average Lading"
-            }
           }
         ]
       },
       {
         "id": "9ea1ec580ecb4555",
         "type": "tabs",
+        "dimension": 55.676657584014535,
         "children": [
           {
             "id": "36b154eaaf89e470",
@@ -67,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Ship Technology/Ship Energy Architecture.md",
+                "file": "Lore/Ship Technology/Ship Propulsions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,31 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ship Energy Architecture"
-            }
-          },
-          {
-            "id": "e6ab307f6e90a915",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/InterStellar TimeLine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "InterStellar TimeLine"
+              "title": "Ship Propulsions"
             }
           }
         ]
@@ -143,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "capacitor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.16668701171875
+    "width": 313.5
   },
   "right": {
     "id": "c85877effd284a42",
@@ -241,19 +195,24 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "a3a2dfc87c9a4a78",
+  "active": "36b154eaaf89e470",
   "lastOpenFiles": [
-    "Lore/Ship Technology/Ship Energy Architecture.md",
-    "Lore/1 Task List.md",
     "Lore/Ship Technology/Ship Detail - List of Ships.md",
     "Lore/Ship Technology/Ship Materials Average Lading.md",
-    "Lore/Factions and Adjacent/Juvian Detail/Engineering/Juvian Computation.md",
-    "Lore/InterStellar TimeLine.md",
-    "Lore/Factions and Adjacent/Juvian Detail/Juvian Lexicon.md",
-    "Lore/Ship Technology/Ship Speed Lookup Table.md",
-    "Lore/Factions and Adjacent/Juvian Detail/Juvian Conlang.md",
+    "Lore/Ship Technology/Ship Propulsions.md",
+    "Lore/1 Task List.md",
     "Lore/Ship Technology/ISCD Compression Ratios.md",
+    "Lore/Ship Technology/Ship Energy Architecture.md",
+    "Lore/Ship Technology/Ship Speed Lookup Table.md",
+    "ZArchive/Ship Mechanisms.md",
     "Lore/Ship Technology/Ship Operations.md",
+    "Lore/Factions and Adjacent/The Maid Foundation/TMF Psychology.md",
+    "Lore/Factions and Adjacent/The Maid Foundation/TMF Physiology.md",
+    "Lore/Factions and Adjacent/The Maid Foundation/TMF Government.md",
+    "Lore/InterStellar TimeLine.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Engineering/Juvian Computation.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Juvian Lexicon.md",
+    "Lore/Factions and Adjacent/Juvian Detail/Juvian Conlang.md",
     "Lore/compile_lore.sh",
     "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organisms of Juvia - Phylogeny/Organisms of Juvia - Phylogeny.md",
     "build_output/Interstellar Timeline.pdf",
@@ -274,11 +233,6 @@
     "build_output/Faction_Azar_Sovereignty.md",
     "build_output/Faction_Archon_Continuum.md",
     "build_output/Interstellar_Timeline.md",
-    "build_output/All_Ship_Technology.md",
-    "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organisms of Juvia - Phylogeny/Roqutet/Roqutet.md",
-    "Lore/Factions and Adjacent/Juvian Detail/Cladistics/Organisms of Juvia - Phylogeny/Pirutet.md",
-    "Lore/Factions and Adjacent/Juvian Detail/Juvian Physiology.md",
-    "Lore/Factions and Adjacent/Azar Sovereignty/Physiology/Physiology.md",
     "Pasted image 20260504023025.png",
     "mma6YuefYAY-HD.jpg"
   ]

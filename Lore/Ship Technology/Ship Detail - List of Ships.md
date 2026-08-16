@@ -13,29 +13,29 @@
 
 ### Nimbus Detail
 
-| Category            | Metric                               | Value           | Notes                            |
-| ------------------- | ------------------------------------ | --------------- | -------------------------------- |
-| **Ship Dimensions** | Minimum length                       | 70 m            |                                  |
-|                     | Estimated outer diameter             | 53.5 m          |                                  |
-|                     | Effective usable internal volume     | ~39,100 m³      |                                  |
-| **Mass**            | Dry mass                             | 22.0 kt         |                                  |
-|                     | Baseline wet mass                    | ~22.09–22.11 kt |                                  |
-| **Power**           | Battery bank                         | 10 MWh          |                                  |
-|                     | Battery mass                         | 28.6 t          |                                  |
-| **Consumables**     | Water reserve                        | 8 t             |                                  |
-|                     | Uranium feedstock                    | 10 t            |                                  |
-| **VTOL**            | VTOL complement                      | 2               |                                  |
-|                     | VTOL dry mass                        | 8 t total       |                                  |
-| **ISCD Geometry**   | Coil length                          | 38 m            | From Ship Total.md               |
-|                     | Ring count                           | 200             | Nimbus class                     |
-|                     | Rmax (ISCD radius)                   | 20.05 m         | Derived from brick circumference |
-|                     | Rmin                                 | 18.52 m         | Rmax - brick stroke (1.53 m)     |
-|                     | Ringframe/Struts thickness           | +0.3 m          | Canvas Section 4                 |
-|                     | Crawl space (radial)                 | +2 m            | Thermal Management Lading        |
-|                     | Hull thickness                       | +4.4 m          | Derived (26.75 m - 22.35 m)      |
-|                     | **Total radius (center → exterior)** | **26.75 m**     | Matches Nimbus outer radius      |
-| **Compression**     | TCR_stage                            | 0.92369         | Rmin/Rmax                        |
-|                     | Compression factor                   | 7.85e6×         | 1/TCR_total                      |
+| Category            | Metric                               | Value           | Notes                                            |
+| ------------------- | ------------------------------------ | --------------- | ------------------------------------------------ |
+| **Ship Dimensions** | Minimum length                       | 70 m            |                                                  |
+|                     | Estimated outer diameter             | 53.5 m          |                                                  |
+|                     | Effective usable internal volume     | ~39,100 m³      |                                                  |
+| **Mass**            | Dry mass                             | 22.0 kt         |                                                  |
+|                     | Baseline wet mass                    | ~22.09–22.11 kt |                                                  |
+| **Power**           | Primary Battery bank                 | 10 MWh          |                                                  |
+|                     | Battery mass                         | 28.6 t          |                                                  |
+| **Consumables**     | Water reserve                        | 8 t             |                                                  |
+|                     | Uranium feedstock                    | 10 t            |                                                  |
+| **VTOL**            | VTOL complement                      | 2               |                                                  |
+|                     | VTOL dry mass                        | 8 t total       |                                                  |
+| **ISCD Geometry**   | Coil length                          | 38 m            |                                                  |
+|                     | Ring count                           | 200             | Nimbus class                                     |
+|                     | Rmax (ISCD radius)                   | 20.05 m         | Derived from brick circumference                 |
+|                     | Rmin                                 | 18.52 m         | Rmax - brick stroke (1.53 m)                     |
+|                     | Ringframe/Struts thickness           | +0.3 m          |                                                  |
+|                     | Crawl space (radial)                 | +2 m            | Maintenance Corridor                             |
+|                     | Hull thickness                       | +4.4 m          | Derived (26.75 m outer - 22.35 m inner bulkhead) |
+|                     | **Total radius (center → exterior)** | **26.75 m**     | Matches Nimbus outer radius                      |
+| **Compression**     | TCR_stage                            | 0.92369         | Rmin/Rmax                                        |
+|                     | Compression factor                   | 7.85e6×         | 1/TCR_total                                      |
 
 ### ISCD Compression Performance
 

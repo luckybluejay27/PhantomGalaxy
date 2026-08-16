@@ -1,6 +1,4 @@
 [← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
-
-[]()[← Return to Phantom Galaxy README](https://github.com/luckybluejay27/PhantomGalaxy/blob/main/README.md)
 ### **Galactic Spins (GS) – Timekeeping Standard**
 
 - **A Galactic Spin (GS) is one ten-millionth of a full galactic rotation (\~22.5 Terran Years).**
@@ -11,7 +9,7 @@
 - **This root log only covers fundamental shifts in power or major relational changes between factions, even if minor events influence such trajectories.**
 - **GS uses Terran Standard Time (TST) as defined by the current Terran calendar (36-hour day)**
 ---
-# Stellar Era
+# The Great Expansion
 
 **0 GS – The Creation of the Time Keepers Guild**
 - Marks the first trip to Alpha Centauri via commercial Terran Warp Drive.
