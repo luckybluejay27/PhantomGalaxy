@@ -11,18 +11,19 @@
       - [ ] ISCD engine history
       - [ ] Household Architecture and City Planning
     - [ ] Space Traffic Controls
-- [ ] Ship Power and Thermal
+- [x] Ship Power and Thermal
   - [x] Power Generation & Conditioning
   - [x] Reactor Sizing & Mass Fraction (Scale for ISCD draw and FPD demands)
   - [x] Battery Banking
   - [x] Thermal Architecture (Detail stratified isolation: low-grade FC-72 vs. high-grade Lithium)
   - [x] Replace all instances of 7GW to 0.7GW
-  - [ ] Create New Segment for Internal Heat Management (FC-72 Microchannel Loops)
+  - [x] Create New Segment for Internal Heat Management (FC-72 Microchannel Loops)
 - [ ] Ship Propulsion Systems
-  - [ ] Realspace Propulsion (Fission Pulse Drive, Trim Thrusters)
+  - [ ] Delete FPD (Fission Pulse Drive) to focus on grand MPD (Magnetic Pinch Drive) and research efficacy
+  - [ ] Realspace Propulsion (Trim Thrusters)
   - [ ] Magnetic Pinch Drives
-  - [x] Hybrid Drives
-  - [x] Fissile Compartments
+  - [ ] Delete Hybrid cores from all locations
+  - [ ] Fissile Compartments
   - [ ] Internal Transport
   - [ ] Diagnostics & Isolation
 - [ ] Ship Structure & Lading
@@ -65,28 +66,3 @@ Trash Note
 	- an era of AI distrust/rampancy (defined as systemic coordination failure more than “killer robots”),
 	- a contained but terrifying runaway self-replication/grey-goo-type disaster (establishing hard taboos around uncontrolled replication),
 	- optional visceral scar events (toxification/nuclear) as legitimacy accelerants.
-
-### 2.1 Fission Pulse Drive
-
-The Fission Pulse Drive (FPD) is the ship’s primary realspace propulsion system, leveraging the existing **ISCD coil and magnetic containment infrastructure** to generate extreme thrust via controlled fission reactions. Canistered uranium or thorium plasma is **injected into the coil**, where it is **magnetically compressed to near-critical density** using the ringframe’s field. At the moment of ejection, a **trigger mechanism** (laser, particle beam, or magnetic pinch) induces supercriticality, and the resulting fission energy is **directed aft** as a high-velocity plasma jet.
-
-**Interfaces**:
-
-- **ISCD Coil**: Provides magnetic compression and containment.
-    
-- **Neutron Reflectors**: Beryllium/tungsten liners in the coil **scatter escaping neutrons** back into the plasma, increasing fission efficiency.
-    
-- **Ejection Mechanism**: Magnetic railgun or piston system **launches canisters** at high velocity before detonation.
-    
-- **Shielding**: The ship’s **meters-thick ringframe and hull** act as passive radiation shielding; additional **lead/lithium hydride layers** may line the coil.
-    
-
-**Limitations**:
-
-- **Canister Integrity**: Must withstand **magnetic compression forces** and **fission energy release** without premature detonation.
-    
-- **Timing Precision**: Microsecond-level synchronization between **compression, ejection, and criticality trigger** is required to maximize thrust and minimize radiation leakage.
-    
-- **Thermal Load**: While fission occurs externally, **residual heat** from the coil and reflector systems must be managed via existing thermal architecture.
-    
-- **Fuel Handling**: Uranium/thorium storage and canister loading systems must prevent **accidental criticality** during non-operational states.
